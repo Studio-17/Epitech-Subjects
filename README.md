@@ -231,7 +231,7 @@
             <td><a href="./Semestre_2/B-CPE-210/Redemption">Redemption</a></td>
         </tr>
         <tr>
-            <td><a href="./Semestre_2/B-CPE-210/Synthesis_Pool">Synthesis_Pool</a></td>
+            <td><a href="./Semestre_2/B-CPE-210/Synthesis_pool">Synthesis_Pool</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_2/B-DES-200">B-DES-200</a></td>
