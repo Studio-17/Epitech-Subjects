@@ -101,45 +101,45 @@
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="./Semestre_1/B-PSU-100">B-PSU-100</a></td>
             <td rowspan="2" >2 crédits</td>
-            <td><a href="#">My_printf</a></td>
+            <td><a href="./Semestre_1/B-PSU-100/My_printf">My_printf</a></td>
         </tr>
         <tr>
-            <td><a href="#">My_ls</a></td>
+            <td><a href="./Semestre_1/B-PSU-100/My_ls">My_ls</a></td>
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="./Semestre_1/B-PSU-101">B-PSU-101</a></td>
             <td rowspan="2" >3 crédits</td>
-            <td><a href="#">Minishell1</a></td>
+            <td><a href="./Semestre_1/B-PSU-101/Minishell1">Minishell1</a></td>
         </tr>
         <tr>
-            <td><a href="#">Navy</a></td>
+            <td><a href="./Semestre_1/B-PSU-101/Navy">Navy</a></td>
         </tr>
         <tr>
             <td rowspan="5" style="text-align: center;"><a href="./Semestre_1/B-MAT-100">B-MAT-100</a></td>
             <td rowspan="5" >2 crédits</td>
-            <td><a href="#">101pong</a></td>
+            <td><a href="./Semestre_1/B-MAT-100/101pong">101pong</a></td>
         </tr>
         <tr>
-            <td><a href="#">102architect</a></td>
+            <td><a href="./Semestre_1/B-MAT-100/102architect">102architect</a></td>
         </tr>
         <tr>
-            <td><a href="#">103cipher</a></td>
+            <td><a href="./Semestre_1/B-MAT-100/103cipher">103cipher</a></td>
         </tr>
         <tr>
-            <td><a href="#">104intersection</a></td>
+            <td><a href="./Semestre_1/B-MAT-100/104intersection">104intersection</a></td>
         </tr>
         <tr>
-            <td><a href="#">105torus</a></td>
+            <td><a href="./Semestre_1/B-MAT-100/105torus">105torus</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_1/B-NSA-100">B-NSA-100</a></td>
             <td rowspan="1" >2 crédits</td>
-            <td><a href="#">My_web</a></td>
+            <td><a href="./Semestre_1/B-NSA-100/My_web">My_web</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_1/B-BOO-101">B-BOO-101</a></td>
             <td rowspan="1" >0 crédit</td>
-            <td><a href="#">Bootcamp Phoenix</a></td>
+            <td><a href="./Semestre_1/B-BOO-101/Bootcamp_Phoenix">Bootcamp Phoenix</a></td>
         </tr>
         <tr>
             <td colspan="3" align="center">SEMESTRE 2</td>
@@ -147,96 +147,96 @@
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_2/B-AIA-200">B-AIA-200</a></td>
             <td rowspan="1" >3 crédits</td>
-            <td><a href="#">Need4Stek</a></td>
+            <td><a href="./Semestre_2/B-AIA-200/Need4stek">Need4Stek</a></td>
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="./Semestre_2/B-CPE-200">B-CPE-200</a></td>
             <td rowspan="2" >5 crédits</td>
-            <td><a href="#">Dante</a></td>
+            <td><a href="./Semestre_2/B-CPE-200/Matchstick">Matchstick</a></td>
         </tr>
         <tr>
-            <td><a href="#">Matchstick</a></td>
+            <td><a href="./Semestre_2/B-CPE-200/Dante">Dante</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_2/B-CPE-201">B-CPE-201</a></td>
             <td rowspan="1" >4 crédits</td>
-            <td><a href="#">Corewar</a></td>
+            <td><a href="./Semestre_2/B-CPE-201/Corewar">Corewar</a></td>
         </tr>
         <tr>
             <td rowspan="3" style="text-align: center;"><a href="./Semestre_2/B-MUL-200">B-MUL-200</a></td>
             <td rowspan="3" >9 crédits</td>
-            <td><a href="#">MyDefender</a></td>
+            <td><a href="./Semestre_2/B-MUL-200/MyDefender">MyDefender</a></td>
         </tr>
         <tr>
-            <td><a href="#">MyRPG</a></td>
+            <td><a href="./Semestre_2/B-MUL-200/My_RPG">MyRPG</a></td>
         </tr>
         <tr>
-            <td><a href="#">MyWorld</a></td>
+            <td><a href="./Semestre_2/B-MUL-200/MyWorld">MyWorld</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_2/B-PSU-200">B-PSU-200</a></td>
             <td rowspan="1" >4 crédits</td>
-            <td><a href="#">My_sokoban</a></td>
+            <td><a href="./Semestre_2/B-PSU-200/My_sokoban">My_sokoban</a></td>
         </tr>
         <tr>
             <td rowspan="3" style="text-align: center;"><a href="./Semestre_2/B-FRE-200">B-FRE-200</a></td>
             <td rowspan="3" >2 crédits</td>
-            <td><a href="#">Lettre Vente</a></td>
+            <td><a href="./Semestre_2/B-FRE-200">Lettre Vente</a></td>
         </tr>
         <tr>
-            <td><a href="#">Mode d'Emploi</a></td>
+            <td><a href="./Semestre_2/B-FRE-200">Mode d'Emploi</a></td>
         </tr>
         <tr>
-            <td><a href="#">Faire Préciser</a></td>
+            <td><a href="./Semestre_2/B-FRE-200">Faire Préciser</a></td>
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="./Semestre_2/B-PSU-210">B-PSU-210</a></td>
             <td rowspan="2" >5 crédits</td>
-            <td><a href="#">Minishell2</a></td>
+            <td><a href="./Semestre_2/B-PSU-210/Minishell2">Minishell2</a></td>
         </tr>
         <tr>
-            <td><a href="#">42sh</a></td>
+            <td><a href="./Semestre_2/B-PSU-210/42sh">42sh</a></td>
         </tr>
         <tr>
             <td rowspan="5" style="text-align: center;"><a href="./Semestre_2/B-MAT-200">B-MAT-200</a></td>
             <td rowspan="5" >2 crédits</td>
-            <td><a href="#">106bombyx</a></td>
+            <td><a href="./Semestre_2/B-MAT-200/106bonbyx">106bombyx</a></td>
         </tr>
         <tr>
-            <td><a href="#">107transfer</a></td>
+            <td><a href="./Semestre_2/B-MAT-200/107transfer">107transfer</a></td>
         </tr>
         <tr>
-            <td><a href="#">108trigo</a></td>
+            <td><a href="./Semestre_2/B-MAT-200/108trigo">108trigo</a></td>
         </tr>
         <tr>
-            <td><a href="#">109titration</a></td>
+            <td><a href="./Semestre_2/B-MAT-200/109titration">109titration</a></td>
         </tr>
         <tr>
-            <td><a href="#">110borwein</a></td>
+            <td><a href="./Semestre_2/B-MAT-200/110borwein">110borwein</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_2/B-SEC-200">B-SEC-200</a></td>
             <td rowspan="1" >2 crédits</td>
-            <td><a href="#">Noob</a></td>
+            <td><a href="./Semestre_2/B-SEC-200/Noob">Noob</a></td>
         </tr>
         <tr>
             <td rowspan="4" style="text-align: center;"><a href="./Semestre_2/B-CPE-210">B-CPE-210</a></td>
             <td rowspan="4" >0 crédit</td>
-            <td><a href="#">Solo_Stumpers</a></td>
+            <td><a href="./Semestre_2/B-CPE-210/Solo_Stumpers">Solo_Stumpers</a></td>
         </tr>
         <tr>
-            <td><a href="#">Duo_Stumpers</a></td>
+            <td><a href="./Semestre_2/B-CPE-210/Duo_Stumpers">Duo_Stumpers</a></td>
         </tr>
         <tr>
-            <td><a href="#">Redemption</a></td>
+            <td><a href="./Semestre_2/B-CPE-210/Redemption">Redemption</a></td>
         </tr>
         <tr>
-            <td><a href="#">Synthesis_Pool</a></td>
+            <td><a href="./Semestre_2/B-CPE-210/Synthesis_Pool">Synthesis_Pool</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_2/B-DES-200">B-DES-200</a></td>
             <td rowspan="1" >1 crédit</td>
-            <td><a href="#">DesignSprint</a></td>
+            <td><a href="./Semestre_2/B-DES-200/DesignSprint">DesignSprint</a></td>
         </tr>
     </tbody>
 </table>
