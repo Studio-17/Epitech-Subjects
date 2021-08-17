@@ -240,3 +240,14 @@
         </tr>
     </tbody>
 </table>
+
+
+<br>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Studio-17" target="_blank"><img src="./voc17.gif" width="40"></a>
+
+</div>
