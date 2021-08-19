@@ -11,7 +11,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX/BackToTheFuture">BackToTheFuture</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/blob/main/Reste/B-MET-XXX/BackToTheFuture/BackToTheFuture.pdf">BackToTheFuture</a></td>
             <td align="center">∞</td>
         </tr>
     </tbody>
