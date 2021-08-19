@@ -15,7 +15,7 @@
         <tr>
             <th>MODULE</th>
             <th>CREDITS</th>
-            <th>PROJECTS</th>
+            <th>PROJETS</th>
         </tr>
     </thead>
     <tbody>
