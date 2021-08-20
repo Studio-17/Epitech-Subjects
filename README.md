@@ -143,7 +143,7 @@
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="./Semestre_1/B-BOO-101">B-BOO-101</a></td>
             <td rowspan="1" >0 crédit</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101">Bootcamp Phoenix</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix">Bootcamp Phoenix</a></td>
         </tr>
         <tr>
             <td colspan="3" align="center">SEMESTRE 2</td>

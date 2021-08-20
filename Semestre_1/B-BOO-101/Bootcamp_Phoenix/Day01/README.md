@@ -1,6 +1,6 @@
-# Day05
+# Day01
 
->Timeline: 15h
+>Timeline: 48h
 
 >Nombre de personnes sur le projet: 1
 
@@ -16,30 +16,41 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1">A - Basic star</td>
+            <td rowspan="1">01 - task01</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>01 - Tree of size 1</td>
+            <td>task01</td>
         </tr>
         <tr>
-            <td rowspan="1">B - Functionality</td>
+            <td rowspan="1">02 - task02</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>01 - Stars of small sizes</td>
+            <td>task02</td>
         </tr>
         <tr>
-            <td rowspan="3">C - Error handling</td>
-            <td rowspan="3" style="text-align: center;">3</td>
-            <td>01 - Star of size 0</td>
+            <td rowspan="1">03 - task03</td>
+            <td rowspan="1" style="text-align: center;">1</td>
+            <td>task03</td>
         </tr>
         <tr>
-            <td>02 - Star of invalid sizes</td>
+            <td rowspan="1">04 - task04</td>
+            <td rowspan="1" style="text-align: center;">1</td>
+            <td>task04</td>
         </tr>
         <tr>
-            <td>03 - Star of without size</td>
+            <td rowspan="1">05 - task05</td>
+            <td rowspan="1" style="text-align: center;">1</td>
+            <td>task05</td>
+        </tr>
+        <tr>
+            <td rowspan="1">06 - task06</td>
+            <td rowspan="1" style="text-align: center;">1</td>
+            <td>task06</td>
         </tr>
     </tbody>
 </table>
 
 <br>
+
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix)
 
 [↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101)
 

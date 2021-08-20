@@ -1,8 +1,6 @@
 # B-BOO-101
 
 >Crédits disponibles: 0
-
->Timeline du module:
 ## Description du module
 
 Prenez du recul et prenez le temps de réfléchir au travail inachevé que vous avez laissé derrière vous.
@@ -36,26 +34,10 @@ Ne soyez pas trop gourmand !
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Day01">Day01</a></td>
-            <td align="center">48h</td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix">Bootcamp Phoenix</a></td>
+            <td align="center">1 semaine</td>
         </tr>
-        <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Day02">Day02</a></td>
-            <td align="center">48h</td>
-        </tr>
-        <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Day03">Day03</a></td>
-            <td align="center">48h</td>
-        </tr>
-        <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Day04">Day04</a></td>
-            <td align="center">48h</td>
-        </tr>
-        <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Day05">Day05</a></td>
-            <td align="center">48h</td>
-        </tr>
-
+    </tbody>
 </table>
 
 <br>

@@ -1,4 +1,4 @@
-# Day04
+# Day03
 
 >Timeline: 48h
 
@@ -40,15 +40,12 @@
             <td rowspan="1" style="text-align: center;">1</td>
             <td>task05</td>
         </tr>
-        <tr>
-            <td rowspan="1">06 - task06</td>
-            <td rowspan="1" style="text-align: center;">1</td>
-            <td>task06</td>
-        </tr>
     </tbody>
 </table>
 
 <br>
+
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix)
 
 [↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101)
 

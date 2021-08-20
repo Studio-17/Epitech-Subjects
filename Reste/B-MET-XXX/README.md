@@ -2,8 +2,6 @@
 
 >Crédits disponibles: 0
 
->Timeline du module: ∞
-
 <br>
 
 >Sur ce répertoire sont réunis tout les sujets et les fichiers liés au BackToTheFuture et au Review
@@ -26,7 +24,7 @@
             <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX/Review">Review</a></td>
             <td align="center">∞</td>
         </tr>
-
+    </tbody>
 </table>
 
 <br>
