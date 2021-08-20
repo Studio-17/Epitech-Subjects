@@ -33,10 +33,6 @@
 
 <br>
 
-<a href="https://github.com/Studio-17/Epitech-Subjects"> <input type="button" value="Revenir à l'accueil"> </a>
-
-<br>
-
 ---
 
 <div align="center">

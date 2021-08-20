@@ -25,12 +25,6 @@
 
 <br>
 
-<a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX"> <input type="button" value="Revenir au module Reste"> </a>
-
-<a href="https://github.com/Studio-17/Epitech-Subjects"> <input type="button" value="Revenir à l'accueil"> </a>
-
-<br>
-
 ---
 
 <div align="center">
