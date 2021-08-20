@@ -2,20 +2,11 @@
 
 <br>
 
-<table align="center">
-    <thead>
-        <tr>
-            <th>PROJET</th>
-            <th>TIMELINE</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/blob/main/Reste/B-MET-XXX/BackToTheFuture/BackToTheFuture.pdf">BackToTheFuture</a></td>
-            <td align="center">∞</td>
-        </tr>
-    </tbody>
-</table>
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX)
+
+[↩️ Revenir au dossier 'Reste'](https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste)
+
+[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
 <br>
 

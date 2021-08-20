@@ -25,6 +25,12 @@
 
 <br>
 
+[↩️ Revenir au module Reste](https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX)
+
+[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
+
+<br>
+
 ---
 
 <div align="center">
