@@ -1,5 +1,7 @@
 # Sujets Epitech <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/1598px-Epitech.png" width="60">
 
+[Liste des tâches](https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/DOCUMENTS)
+
 >Sur ce répertoire sont réunis tout les sujets et les fichiers liés à ces sujets de la première année à Epitech
 
 <br>
