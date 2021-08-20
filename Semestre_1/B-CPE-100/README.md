@@ -1,3 +1,11 @@
+# B-CPE-100
+
+>Crédits disponibles: 4
+
+>Timeline du module:
+
+<br>
+
 ## Description du module
 Le C Pool est le socle du cursus Epitech.
 
@@ -21,9 +29,3 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
  - S'installer et trouver des partenaires de travail
  - Exécuter de manière indépendante des analyses et des conceptions dans un contexte de machine d'examen
  - Gérer pour comprendre les problèmes liés au travail de groupe
-
-<br>
-
->Crédits disponibles: 4
-
->Timeline: 29/09/20XX - 01/11/20XX

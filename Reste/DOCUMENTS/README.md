@@ -31,13 +31,13 @@ Sachant que dans chaque README il faut :
 
 <br>
 
-- Faire le Dossier Semestre 1❌
-    - B-BOO-101❌
-      - Day01❌
-      - Day02❌
-      - Day03❌
-      - Day04❌
-      - Day05❌
+- Faire le README Semestre 1❌
+    - B-BOO-101✅
+      - Day01✅
+      - Day02✅
+      - Day03✅
+      - Day04✅
+      - Day05✅
     - B-CPE-100❌
       - Firstree❌
       - MatchNMatch❌
@@ -94,7 +94,7 @@ Sachant que dans chaque README il faut :
 
 <br>
 
-- Faire le Dossier Semestre 2 ❌
+- Faire le README Semestre 2 ❌
   - B-AIA-200❌
     - Need4Stek❌
   - B-CPE-200❌
@@ -162,11 +162,11 @@ Sachant que dans chaque README il faut :
 
 <br>
 
-- Faire le Dossier Semestre 3 ❌
+- Faire le README Semestre 3 ❌
 
 <br>
 
-- Faire le Dossier Semestre 4 ❌
+- Faire le README Semestre 4 ❌
 
 <br>
 
