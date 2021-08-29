@@ -29,3 +29,49 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
  - S'installer et trouver des partenaires de travail
  - Exécuter de manière indépendante des analyses et des conceptions dans un contexte de machine d'examen
  - Gérer pour comprendre les problèmes liés au travail de groupe
+
+<br>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th>MODULE</th>
+            <th>CREDITS</th>
+            <th>PROJETS</th>
+        </tr>
+    </thead>
+    <tbody>
+        </tr>
+        <tr>
+            <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100">B-CPE-100</a></td>
+            <td rowspan="5" >4 crédits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Pool">Pool</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Rushs">Rushs</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Firtree">Firtree</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/MatchNmatch">MatchNmatch</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/WorkshopLib">WorkshopLib</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
+
+<br>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../voc17.gif" width="40"></a>
+
+</div>
