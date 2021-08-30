@@ -4,22 +4,7 @@
 
 <br>
 
-**Liste de toute les choses à faire :**
-
-Sachant que dans chaque README il faut :
-
-- description du module/projet
-- Semestre ➡️ Tableau avec module + crédits + projets
-- Module ➡️ Tableau avec projets + timeline
-- Projet ➡️ Tableau avec le nombre de tests de la mouli
-- boutons pour revenir en arrière (copier/coller)
-- Signature Studio17 (copier/coller)
-
-<br>
-
-✅ **Fait**
-
-❌ **Pas fait**
+📂---❌
 
 <br>
 

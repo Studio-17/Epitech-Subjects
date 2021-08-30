@@ -8,7 +8,7 @@
 
 >Les crédits valables ,la timeline ainsi que les test principaux de la moulinette pour ces projets sont aussi indiqués en cliquant sur les liens
 
->Comme la timeline change tout les ans elle ne sera pas définie pas des dates mais en nombres de semaines (ou jours)
+>Note: Comme la timeline change tout les ans elle ne sera pas définie pas des dates mais en nombres de semaines(jours, heures...)
 
 <br>
 
@@ -22,7 +22,7 @@
     </thead>
     <tbody>
     <tr>
-            <td colspan="3" align="center">RESTE</td>
+            <td colspan="3" align="center"><strong>RESTE</strong></td>
     </tr>
     <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX">B-MET-XXX</a></td>
@@ -33,7 +33,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX/Review">Review</a></td>
         </tr>
     <tr>
-            <td colspan="3" align="center">SEMESTRE 1</td>
+            <td colspan="3" align="center"><strong>SEMESTRE 1</strong></td>
     </tr>
         <tr>
             <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100">B-CPE-100</a></td>
@@ -146,7 +146,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix">Bootcamp Phoenix</a></td>
         </tr>
         <tr>
-            <td colspan="3" align="center">SEMESTRE 2</td>
+            <td colspan="3" align="center"><strong>SEMESTRE 2</strong></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200">B-AIA-200</a></td>
