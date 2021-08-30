@@ -1,0 +1,88 @@
+# FinalStumper
+
+>Timeline: 24h
+
+>Nombre de personnes sur le projet: 2
+
+<br>
+
+📂---[Final_Stumper](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/Final_Stumper)
+
+|___[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush1_bins.tgz)
+
+|___[rush3.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush3.tgz)
+
+<br>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th>SOMMAIRE</th>
+            <th>NB DE TESTS</th>
+            <th>DETAILS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="8">01 - Fonctionality</td>
+            <td rowspan="8" style="text-align: center;">8</td>
+            <td>Test 01</td>
+        </tr>
+        <tr>
+            <td>Test 02</td>
+        </tr>
+        <tr>
+            <td>Test 03</td>
+        </tr>
+        <tr>
+            <td>Test 04</td>
+        </tr>
+        <tr>
+            <td>Test 05</td>
+        </tr>
+        <tr>
+            <td>Test 06</td>
+        </tr>
+        <tr>
+            <td>Test 07</td>
+        </tr>
+        <tr>
+            <td>Test 08</td>
+        </tr>
+        <tr>
+            <td rowspan="5">02 - Error handling</td>
+            <td rowspan="5" style="text-align: center;">5</td>
+            <td>Test 01</td>
+        </tr>
+        <tr>
+            <td>Test 02</td>
+        </tr>
+        <tr>
+            <td>Test 03</td>
+        </tr>
+        <tr>
+            <td>Test 04</td>
+        </tr>
+        <tr>
+            <td>Test 05</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101)
+
+[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+
+[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
+
+<br>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../../voc17.gif" width="40"></a>
+
+</div>
