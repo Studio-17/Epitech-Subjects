@@ -38,7 +38,6 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
         </tr>
     </thead>
     <tbody>
-        </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Pool">Pool</a></td>
             <td align="center">12 jours</td>

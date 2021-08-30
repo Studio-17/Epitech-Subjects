@@ -36,7 +36,6 @@ Cette unité est importante car elle sert de passerelle entre la première parti
         </tr>
     </thead>
     <tbody>
-        </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101/Bistro-matic">Bistro-matic</a></td>
             <td align="center">14 jours</td>
