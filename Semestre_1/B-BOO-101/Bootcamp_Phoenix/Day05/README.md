@@ -8,7 +8,7 @@
 
 📂---[day05.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day01/day05.pdf)
 
-|-----[star_examples.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05/star_examples.txt)
+|___ [star_examples.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05/star_examples.txt)
 
 <br>
 
