@@ -6,6 +6,10 @@
 
 <br>
 
+📂---[day01.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day01/day01.pdf)
+
+<br>
+
 <table align="center">
     <thead>
         <tr>
