@@ -2,7 +2,7 @@
 
 >Crédits disponibles: 0
 
->Timeline du projet: 1 semaine
+>Timeline totale des projets: 1 semaine
 
 <br>
 
@@ -15,15 +15,15 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05">Day01</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day01">Day01</a></td>
             <td align="center">48h</td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05">Day02</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day02">Day02</a></td>
             <td align="center">48h</td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05">Day03</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day03">Day03</a></td>
             <td align="center">48h</td>
         </tr>
         <tr>
@@ -34,6 +34,8 @@
             <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05">Day05</a></td>
             <td align="center">48h</td>
         </tr>
+    </tbody>
+</table>
 
 </table>
 

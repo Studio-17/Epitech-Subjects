@@ -2,8 +2,6 @@
 
 >Crédits disponibles: 4
 
->Timeline du module:
-
 <br>
 
 ## Description du module
@@ -35,29 +33,31 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
 <table align="center">
     <thead>
         <tr>
-            <th>MODULE</th>
-            <th>CREDITS</th>
             <th>PROJETS</th>
+            <th>TIMELINE</th>
         </tr>
     </thead>
     <tbody>
         </tr>
         <tr>
-            <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100">B-CPE-100</a></td>
-            <td rowspan="5" >4 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Pool">Pool</a></td>
+            <td align="center">12 jours</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Rushs">Rushs</a></td>
+            <td align="center">2 jours</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Firtree">Firtree</a></td>
+            <td align="center">5 jours</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/MatchNmatch">MatchNmatch</a></td>
+            <td align="center">6 jours</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/WorkshopLib">WorkshopLib</a></td>
+            <td align="center">6 jours</td>
         </tr>
     </tbody>
 </table>
