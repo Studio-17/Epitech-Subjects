@@ -1,12 +1,12 @@
-# Bootstrap MyRadar
+# Bootstrap MyScreensaver
 
 <br>
 
-📂---[Bootstrap_my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyRadar/Bootstrap_MyRadar/Bootstrap_my_radar.pdf)
+📂---[Bootstrap_my_screensaver.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyScreensaver/Bootstrap_MyScreensaver/Bootstrap_my_screensaver.pdf)
 
 <br>
 
-[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyRadar)
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyScreensaver)
 
 [↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100)
 
