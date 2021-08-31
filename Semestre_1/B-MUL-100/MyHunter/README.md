@@ -20,6 +20,9 @@
 
 <table align="center">
     <thead>
+    <tr>
+            <td colspan="3" align="center"><strong>MOULINETTE</strong></td>
+    </tr>
         <tr>
             <th>SOMMAIRE</th>
             <th>NB DE TESTS</th>
@@ -34,6 +37,90 @@
         </tr>
         <tr>
             <td>Repository size</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<table align="center">
+    <thead>
+    <tr>
+            <td colspan="2" align="center"><strong>TAM</strong></td>
+    </tr>
+        <tr>
+            <th>SOMMAIRE</th>
+            <th>NOTATION</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="1">Preliminary</td>
+            <td rowspan="1" style="text-align: center;">?/2</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Major</td>
+            <td rowspan="1" style="text-align: center;">?/0</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Minor</td>
+            <td rowspan="1" style="text-align: center;">?/0</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Too many style errors</td>
+            <td rowspan="1" style="text-align: center;">?/1</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Closing the Window</td>
+            <td rowspan="1" style="text-align: center;">?/3</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Mouse event</td>
+            <td rowspan="1" style="text-align: center;">?/4</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Animated Sprites</td>
+            <td rowspan="1" style="text-align: center;">?/5</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Usage</td>
+            <td rowspan="1" style="text-align: center;">?/1</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Window Size</td>
+            <td rowspan="1" style="text-align: center;">?/3</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Window framerate</td>
+            <td rowspan="1" style="text-align: center;">?/3</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Animations</td>
+            <td rowspan="1" style="text-align: center;">?/4</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Movement</td>
+            <td rowspan="1" style="text-align: center;">?/4</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Score</td>
+            <td rowspan="1" style="text-align: center;">?/6</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Levels</td>
+            <td rowspan="1" style="text-align: center;">?/3</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Visual effects</td>
+            <td rowspan="1" style="text-align: center;">?/5</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Gameplay</td>
+            <td rowspan="1" style="text-align: center;">?/5</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Sound effects</td>
+            <td rowspan="1" style="text-align: center;">?/4</td>
         </tr>
     </tbody>
 </table>
