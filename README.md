@@ -1,8 +1,8 @@
-<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> <img src="https://img.shields.io/badge/Release-v0.3beta-ff0000">
+<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> <img src="https://img.shields.io/badge/Release-v0.4beta-ff0000">
 
 # Sujets Epitech <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/1598px-Epitech.png" width="60">
 
->Sur ce répertoire sont réunis tout les sujets et les fichiers liés à ces sujets de la première année à Epitech
+>Sur ce répertoire sont réunis tout les sujets et les fichiers liés à la première année d'Epitech
 
 <br>
 
