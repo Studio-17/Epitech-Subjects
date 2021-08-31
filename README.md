@@ -6,7 +6,7 @@
 
 <br>
 
->Les crédits valables ,la timeline ainsi que les test principaux de la moulinette pour ces projets sont aussi indiqués en cliquant sur les liens
+>Les crédits valables ,la timeline ,les tests de la moulinette (detail des tests, TAM, DEFENSE) pour ces projets sont aussi indiqués en cliquant sur les liens
 
 >Note: Comme la timeline change tout les ans elle ne sera pas définie pas des dates mais en nombres de semaines(jours, heures...)
 

@@ -25,6 +25,9 @@
 <table align="center">
     <thead>
         <tr>
+            <td colspan="3" align="center"><strong>MOULINETTE</strong></td>
+        </tr>
+        <tr>
             <th>SOMMAIRE</th>
             <th>NB DE TESTS</th>
             <th>DETAILS</th>
