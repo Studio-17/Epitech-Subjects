@@ -1,0 +1,169 @@
+# Count-n-log
+#
+# Count from 0 to 9 then restart to 0 and print the number on the log,
+# each separated by a newline
+
+######################################
+#              CHIPSETS              #
+######################################
+.chipsets:
+
+############# Inputs #############
+clock  cl_clock
+input  in_reset
+
+############# Counter #############
+4040   counter
+
+############# Counter output display #############
+output out_00
+output out_01
+output out_02
+output out_03
+output out_04
+output out_05
+output out_06
+output out_07
+
+############# Logic Gates #############
+4071   or_0
+4071   or_1
+4071   or_2
+4081   and_0
+4081   and_1
+4081   and_2
+4069   not
+
+############# 4-bits adders #############
+4008   adder_1
+4008   adder_2
+
+############# Logger #############
+logger logger
+
+############# const components #############
+false  false
+true   true
+
+
+#####################################
+#               LINKS               #
+#####################################
+.links:
+
+# Invert clock
+cl_clock:1 not:1
+
+############# Input Linkage to counter #############
+cl_clock:1 counter:10
+counter:9  and_0:1
+counter:5  and_0:2
+and_0:3    and_0:5
+not:2      and_0:6
+and_0:4    or_0:1
+in_reset:1 or_0:2
+or_0:3     counter:11
+
+############# Counter output linkage #############
+out_00:1   counter:9
+out_01:1   counter:7
+out_02:1   counter:6
+out_03:1   counter:5
+out_04:1   counter:3
+out_05:1   counter:2
+out_06:1   counter:4
+out_07:1   counter:13
+
+############# Add 48 to the computed number #############
+# 4-bits adder carry
+false:1    adder_1:9
+adder_1:14 adder_2:9
+
+# pin1
+counter:9  adder_1:7
+false:1    adder_1:6
+
+# pin2
+counter:7  adder_1:5
+false:1    adder_1:4
+
+# pin3
+counter:6  adder_1:3
+false:1    adder_1:2
+
+# pin4
+counter:5  adder_1:1
+false:1    adder_1:15
+
+# pin5
+counter:3  adder_2:7
+true:1     adder_2:6
+
+# pin6
+counter:2  adder_2:5
+true:1     adder_2:4
+
+# pin7
+counter:4  adder_2:3
+false:1    adder_2:2
+
+# pin8
+counter:13 adder_2:1
+false:1    adder_2:15
+
+############# Switch between adder output and newline char and Logger linkage #############
+# Logger Inputs
+true:1     logger:9
+false:1    logger:10
+
+# pin1
+adder_1:10 or_1:1
+cl_clock:1 or_1:2
+or_1:3     and_1:1
+not:2      and_1:2
+and_1:3    logger:1
+
+# pin2:
+adder_1:11 or_1:5
+cl_clock:1 or_1:6
+or_1:4     logger:2
+
+# pin3
+adder_1:12 or_1:8
+cl_clock:1 or_1:9
+or_1:10    and_1:5
+not:2      and_1:6
+and_1:4    logger:3
+
+# pin4
+adder_1:13 or_1:12
+cl_clock:1 or_1:13
+or_1:11    logger:4
+
+# pin5
+adder_2:10 or_2:1
+cl_clock:1 or_2:2
+or_2:3     and_1:8
+not:2      and_1:9
+and_1:10   logger:5
+
+# pin6
+adder_2:11 or_2:5
+cl_clock:1 or_2:6
+or_2:4     and_1:12
+not:2      and_1:13
+and_1:11   logger:6
+
+# pin7
+adder_2:12 or_2:8
+cl_clock:1 or_2:9
+or_2:10    and_2:1
+not:2      and_2:2
+and_2:3    logger:7
+
+# pin8
+adder_2:13 or_2:12
+cl_clock:1 or_2:13
+or_2:11    and_2:5
+not:2      and_2:6
+and_2:4    logger:8

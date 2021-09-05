@@ -1,0 +1,31 @@
+# Combinatory of AND
+#
+# in_a  -1-+---\
+#          |and |-3-+
+# in_b  -2-+---/    |
+#                   +-13-+---\
+# in_c  -5-+---\         |and |-11-+
+#          |and |-4---12-+---/     |
+# in_d  -6-+---/                   +-9-+---\
+#                                      |and |-10- out
+# in_e  -----------------------------8-+---/
+
+.chipsets:
+input in_a
+input in_b
+input in_c
+input in_d
+input in_e
+output out
+4081 and
+
+.links:
+in_a:1 and:1
+in_b:1 and:2
+and:3 and:13
+in_c:1 and:5
+in_d:1 and:6
+and:4 and:12
+and:11 and:9
+in_e:1 and:8
+and:10 out:1

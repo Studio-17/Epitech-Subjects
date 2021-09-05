@@ -1,0 +1,20 @@
+.chipsets:
+
+toggle toggle_a
+toggle toggle_b
+toggle toggle_c
+toggle toggle_d
+toggle toggle_e
+toggle toggle_f
+toggle toggle_g
+
+7seg segment
+
+.links:
+toggle_a:1 segment:1
+toggle_b:1 segment:2
+toggle_c:1 segment:3
+toggle_d:1 segment:4
+toggle_e:1 segment:5
+toggle_f:1 segment:6
+toggle_g:1 segment:7

@@ -1,0 +1,44 @@
+# ROM dumping (2716, 4040, logger)
+
+.chipsets:
+clock  clock
+false  false
+true   true
+
+4040   counter
+input  reset
+
+2716   rom
+logger logger
+
+.links:
+# Counter
+clock:1   counter:10 # Clock
+reset:1   counter:11 # Reset
+
+# ROM
+counter:9  rom:8   # Addr00
+counter:7  rom:7   # Addr01
+counter:6  rom:6   # Addr02
+counter:5  rom:5   # Addr03
+counter:3  rom:4   # Addr04
+counter:2  rom:3   # Addr05
+counter:4  rom:2   # Addr06
+counter:13 rom:1   # Addr07
+counter:12 rom:23  # Addr08
+counter:14 rom:22  # Addr09
+counter:15 rom:19  # Addr10
+true:1     rom:18  # Enable (invert)
+true:1     rom:20  # Read (invert)
+
+# Logger
+rom:9      logger:1   # Q0
+rom:10     logger:2   # Q1
+rom:11     logger:3   # Q2
+rom:13     logger:4   # Q3
+rom:14     logger:5   # Q4
+rom:15     logger:6   # Q5
+rom:16     logger:7   # Q6
+rom:17     logger:8   # Q7
+true:1     logger:9   # Clock
+clock:1    logger:10  # Inhibit

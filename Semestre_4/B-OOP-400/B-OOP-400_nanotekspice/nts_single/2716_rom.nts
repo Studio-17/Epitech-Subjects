@@ -1,0 +1,70 @@
+# 2048 Bytes ROM (2716)
+#
+#             addr_05 -3-+
+#           addr_04 -4-+ | +-2- addr_06
+#         addr_03 -5-+ | | | +-1- addr_07
+#       addr_02 -6-+ | | | | | +-23- addr_08
+#     addr_01 -7-+ | | | | | | | +-22- addr_09
+#   addr_00 -8-+ | | | | | | | | | +-19- addr_10
+#              | | | | | | | | | | |
+#            +-v-v-v-v-v-v-v-v-v-v-v-+
+#            |                       |
+# enable -18->                  ign -<-12-
+#            |                       |
+#        -21->- ign             ign -<-19-
+#            |                       |
+#   read -20->                  ign -<-24-
+#            | 2716 ROM              |
+#            +----v-v-v-v-v-v-v-v----+
+#                 | | | | | | | |       
+#        out_0 -9-+ | | | | | | +-17- out_7
+#         out_1 -10-+ | | | | +-16- out_6
+#           out_2 -11-+ | | +-15- out_5
+#             out_3 -13-+ +-14- out_4
+
+.chipsets:
+input enable
+input read
+input addr_00
+input addr_01
+input addr_02
+input addr_03
+input addr_04
+input addr_05
+input addr_06
+input addr_07
+input addr_08
+input addr_09
+input addr_10
+output out_0
+output out_1
+output out_2
+output out_3
+output out_4
+output out_5
+output out_6
+output out_7
+2716 rom
+
+.links:
+enable:1 rom:18
+read:1 rom:20
+addr_00:1 rom:8
+addr_01:1 rom:7
+addr_02:1 rom:6
+addr_03:1 rom:5
+addr_04:1 rom:4
+addr_05:1 rom:3
+addr_06:1 rom:2
+addr_07:1 rom:1
+addr_08:1 rom:23
+addr_09:1 rom:22
+addr_10:1 rom:19
+out_0:1 rom:9
+out_1:1 rom:10
+out_2:1 rom:11
+out_3:1 rom:13
+out_4:1 rom:14
+out_5:1 rom:15
+out_6:1 rom:16
+out_7:1 rom:17

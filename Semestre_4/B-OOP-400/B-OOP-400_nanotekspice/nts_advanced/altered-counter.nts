@@ -1,0 +1,45 @@
+# Altered counter
+#
+#                             +-4040-+
+# in_reset ---1-+---\         |      |
+#               | or |-3---11->      >-9---5-+---\
+#           +-2-+---/         |      |       | or |-4- out_1
+#           |                 |      >-7---6-+---/
+#           |    cl_clock -10->      |
+#           |                 |      >-6---9-+---\
+#           |                 |      |       | or |-10- out_2
+#           |                 |      >-5---8-+---/
+#           |                 |      |
+#           |                 |      >-3-----+
+#           |                 |      |       |
+#           |                 |      >-2-    |
+#           |                 |      >-4-    |
+#           |                 |      >-13-   |
+#           |                 |      >-12-   |
+#           |                 |      >-14-   |
+#           |                 |      >-15-   |
+#           |                 |      >-1-    |
+#           |                 |      |       |
+#           |                 +------+       |
+#           |                                |
+#           +--------------------------------+
+
+.chipsets:
+clock cl_clock
+input in_reset
+4040 counter
+4071 or
+output out_1
+output out_2
+
+.links:
+counter:9 or:5
+counter:7 or:6
+counter:6 or:9
+counter:5 or:8
+counter:3 or:2
+counter:10 cl_clock:1
+counter:11 or:3
+in_reset:1 or:1
+out_1:1 or:4
+out_2:1 or:10

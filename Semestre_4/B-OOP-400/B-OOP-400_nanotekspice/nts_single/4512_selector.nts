@@ -1,0 +1,51 @@
+# 8 Channel Data Selector (4512)
+#
+#          in_3 -4-+ +-5- in_4
+#        in_2 -3-+ | | +-6- in_5
+#      in_1 -2-+ | | | | +-7- in_6
+#    in_0 -1-+ | | | | | | +-8- in_7
+#            | | | | | | | |
+#          +-v-v-v-v-v-v-v-v-+
+#          |                 |
+# in_a -13->                 <-10- inhibit
+#          |                 |
+# in_b -12->                 |
+#          |                 |
+# in_c -11->                 <-15- enable
+#          |                 |
+#          +-4512---v--------+
+#                   |
+#                   +-14- out_data
+
+.chipsets:
+input in_a
+input in_b
+input in_c
+input in_0
+input in_1
+input in_2
+input in_3
+input in_4
+input in_5
+input in_6
+input in_7
+input inhibit
+input enable
+output out_data
+4512 selector
+
+.links:
+in_a:1 selector:13
+in_b:1 selector:12
+in_c:1 selector:11
+in_0:1 selector:1
+in_1:1 selector:2
+in_2:1 selector:3
+in_3:1 selector:4
+in_4:1 selector:5
+in_5:1 selector:6
+in_6:1 selector:7
+in_7:1 selector:9
+inhibit:1 selector:10
+enable:1 selector:15
+out_data:1 selector:14

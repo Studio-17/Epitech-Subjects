@@ -1,0 +1,27 @@
+# Combinatory of OR, AND and NOT
+#
+# in_a -1-|>o-2---3-|>o-4---1-+---\
+#                             | or |-3-+
+# in_b -5-|>o-6-------------2-+---/    +-9-|>o-8---1-+---\
+#                                                    |and |-3- out
+# in_c --------------------------------------------2-+---/
+
+.chipsets:
+input in_a
+input in_b
+input in_c
+output out
+4069 not
+4071 or
+4081 and
+
+.links:
+in_a:1 not:1
+not:2 not:3
+not:4 or:1
+in_b:1 not:5
+not:6 or:2
+or:3 not:9
+not:8 and:1
+in_c:1 and:2
+out:1 and:3

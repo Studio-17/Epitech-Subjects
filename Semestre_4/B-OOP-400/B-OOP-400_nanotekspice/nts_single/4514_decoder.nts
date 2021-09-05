@@ -1,0 +1,76 @@
+# 4-bits Decoder (4514)
+#
+#                              +-11- out_00
+#                              |   +-09- out_01
+#                              |   |   +-10- out_02
+#                              |   |   |   +-08- out_03
+#                              |   |   |   |   +-07- out_04
+#              inhibit -23-+   |   |   |   |   |   +-06- out_05
+#                          |   |   |   |   |   |   |
+#          +---4514--------v---^---^---^---^---^---^-------+
+#          |               |   |   |   |   |   |   |       |
+# in_0  -2->---+---+---+---+---+---+---+---+---+---+---+--->-05- out_06
+#          |   | L |   |                               |   |
+# in_1  -3->---| A |---|                               +--->-04- out_07
+#          |   | T |   |        4-to-16 DECODER        |   |
+# in_2 -21->---| C |---|                               +--->-18- out_08
+#          |   | H |   |                               |   |
+# in_3 -22->---+---+---+-------+---+---+---+---+---+---+--->-17- out_09
+#          |     |  ign ign    |   |   |   |   |   |       |
+#          +-----^---+---+-----v---v---v---v---v---v-------+
+#                |   |   |     |   |   |   |   |   |
+#      strobe -1-+   |   |     |   |   |   |   |   +-20- out_10
+#                -12-+   |     |   |   |   |   +-19- out_11
+#                    -24-+     |   |   |   +-14- out_12
+#                              |   |   +-13- out_13
+#                              |   +-16- out_14
+#                              +-15- out_15
+
+.chipsets:
+input in_0
+input in_1
+input in_2
+input in_3
+input strobe
+input inhibit
+output out_00
+output out_01
+output out_02
+output out_03
+output out_04
+output out_05
+output out_06
+output out_07
+output out_08
+output out_09
+output out_10
+output out_11
+output out_12
+output out_13
+output out_14
+output out_15
+4514 decoder
+
+.links:
+in_0:1 decoder:2
+in_1:1 decoder:3
+in_2:1 decoder:21
+in_3:1 decoder:22
+strobe:1 decoder:1
+inhibit:1 decoder:23
+out_00:1 decoder:11
+out_01:1 decoder:9
+out_02:1 decoder:10
+out_03:1 decoder:8
+out_04:1 decoder:7
+out_05:1 decoder:6
+out_06:1 decoder:5
+out_07:1 decoder:4
+out_08:1 decoder:18
+out_09:1 decoder:17
+out_10:1 decoder:20
+out_11:1 decoder:19
+out_12:1 decoder:14
+out_13:1 decoder:13
+out_14:1 decoder:16
+out_15:1 decoder:15
