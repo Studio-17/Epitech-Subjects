@@ -15,11 +15,11 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX/BackToTheFuture">BackToTheFuture</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX/BackToTheFuture">BackToTheFuture</a></td>
             <td align="center">∞</td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX/Review">Review</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX/Review">Review</a></td>
             <td align="center">∞</td>
         </tr>
     </tbody>
@@ -27,7 +27,7 @@
 
 <br>
 
-[↩️ Revenir au module Reste](https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste)
+[↩️ Revenir au Semestre 0](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

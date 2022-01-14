@@ -1,0 +1,58 @@
+# Dual D-Type Flip-Flop (4013)
+#
+#     cl_1_clock  -3-+
+#                    |
+#                +---v---+
+#                |   |   |
+#                | +-v-+ |
+#                | |   | |
+# in_1_data   -5->-> L | |
+#                | | A >->-1-  out_1_q
+# in_1_set    -6->-> T | |
+#                | | C >->-2-  out_1_qb
+# in_1_reset  -4->-> H | |
+#                | |   | |
+#                | +---+ |
+#                |       |
+#                | +---+ |
+#                | |   | |
+# in_2_data   -9->-> L | |
+#                | | A >->-13- out_2_q
+# in_2_set    -8->-> T | |
+#                | | C >->-12- out_2_qb
+# in_2_reset -10->-> H | |
+#                | |   | |
+#                | +-^-+ |
+#                |   |   |
+#                +---^---+
+#                    |
+#     cl_2_clock -11-+
+
+.chipsets:
+clock cl_1_clock
+input in_1_data
+input in_1_set
+input in_1_reset
+output out_1_q
+output out_1_qb
+# clock cl_2_clock
+# input in_2_data
+# input in_2_set
+# input in_2_reset
+# output out_2_q
+# output out_2_qb
+4013 flipflop
+
+.links:
+cl_1_clock:1 flipflop:3
+in_1_data:1 flipflop:5
+in_1_set:1 flipflop:6
+in_1_reset:1 flipflop:4
+out_1_q:1 flipflop:1
+out_1_qb:1 flipflop:2
+# cl_2_clock:1 flipflop:11
+# in_2_data:1 flipflop:9
+# in_2_set:1 flipflop:8
+# in_2_reset:1 flipflop:10
+# out_2_q:1 flipflop:13
+# out_2_qb:1 flipflop:12

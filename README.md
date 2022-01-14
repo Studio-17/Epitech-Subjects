@@ -22,16 +22,21 @@
     </thead>
     <tbody>
     <tr>
-            <td colspan="3" align="center"><strong>RESTE</strong></td>
+            <td colspan="3" align="center"><strong>SEMESTRE 0</strong></td>
     </tr>
     <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX">B-MET-XXX</a></td>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX">B-MET-XXX</a></td>
             <td rowspan="2" >0 crédit</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX/BackToTheFuture">BackToTheFuture</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX/BackToTheFuture">BackToTheFuture</a></td>
     </tr>
     <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Reste/B-MET-XXX/Review">Review</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX/Review">Review</a></td>
         </tr>
+        <tr>
+            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS">DOCUMENTS</a></td>
+            <td rowspan="1" >0 crédit</td>
+            <td>.</td>
+    </tr>
     <tr>
             <td colspan="3" align="center"><strong>SEMESTRE 1</strong></td>
     </tr>

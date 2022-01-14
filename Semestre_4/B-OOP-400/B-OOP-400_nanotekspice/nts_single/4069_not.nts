@@ -1,0 +1,58 @@
+# NOT logic gates (4069)
+#
+#           +----4069----+
+# in_01  -1-|>--+    ign-|-14-
+#           |  _|_       |
+#           |  \ /   +--<|-13- in_13
+#           |   v   _|_  |
+#           |   O   \ /  |
+#           |   |    v   |
+# out_02 -2-|<--+    O   |
+#           |        |   |
+# in_03  -3-|>--+    +-->|-12- out_12
+#           |  _|_       |
+#           |  \ /   +--<|-11- in_11
+#           |   v   _|_  |
+#           |   O   \ /  |
+#           |   |    v   |
+# out_04 -4-|<--+    O   |
+#           |        |   |
+# in_05  -5-|>--+    +-->|-10- out_10
+#           |  _|_       |
+#           |  \ /   +--<|-9-  in_09
+#           |   v   _|_  |
+#           |   O   \ /  |
+#           |   |    v   |
+# out_06 -6-|<--+    O   |
+#           |        |   |
+#        -7-|-ign    +-->|-8-  out_08
+#           +------------+
+
+.chipsets:
+input in_01
+output out_02
+input in_03
+output out_04
+input in_05
+output out_06
+output out_08
+input in_09
+output out_10
+input in_11
+output out_12
+input in_13
+4069 gate
+
+.links:
+in_01:1 gate:1
+out_02:1 gate:2
+in_03:1 gate:3
+out_04:1 gate:4
+in_05:1 gate:5
+out_06:1 gate:6
+out_08:1 gate:8
+in_09:1 gate:9
+out_10:1 gate:10
+in_11:1 gate:11
+out_12:1 gate:12
+in_13:1 gate:13

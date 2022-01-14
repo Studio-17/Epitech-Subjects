@@ -1,0 +1,47 @@
+# 12-bits Binary Counter (4040)
+#
+#      cl_clock -10-+     +-11- in_reset
+#                   |     |
+#    +------4040----v-----v--------------+
+# -8-|-ign   12-bit Binary Counter   ign-|-16-
+#    +------v-v-v-v-v-v-v-v-v-v-v-v------+
+#           | | | | | | | | | | | |
+# out_00 -9-+ | | | | | | | | | | +-1- out_11
+#   out_01 -7-+ | | | | | | | | +-15- out_10
+#     out_02 -6-+ | | | | | | +-14- out_09
+#       out_03 -5-+ | | | | +-12- out_08
+#         out_04 -3-+ | | +-13- out_07
+#           out_05 -2-+ +-4- out_06
+
+.chipsets:
+clock cl_clock
+input in_reset
+output out_00
+output out_01
+output out_02
+output out_03
+output out_04
+output out_05
+output out_06
+output out_07
+output out_08
+output out_09
+output out_10
+output out_11
+4040 counter
+
+.links:
+cl_clock:1 counter:10
+in_reset:1 counter:11
+out_00:1 counter:9
+out_01:1 counter:7
+out_02:1 counter:6
+out_03:1 counter:5
+out_04:1 counter:3
+out_05:1 counter:2
+out_06:1 counter:4
+out_07:1 counter:13
+out_08:1 counter:12
+out_09:1 counter:14
+out_10:1 counter:15
+out_11:1 counter:1

@@ -1,0 +1,85 @@
+# 1024 Bytes RAM (4801)
+#
+#            addr_4 -4-+ +-3- addr_5
+#          addr_3 -5-+ | | +-2- addr_6
+#        addr_2 -6-+ | | | | +-1- addr_7
+#      addr_1 -7-+ | | | | | | +-23- addr_8
+#    addr_0 -8-+ | | | | | | | | +-22- addr_9
+#              | | | | | | | | | |
+#            +-v-v-v-v-v-v-v-v-v-v-+
+#            |                     |
+# enable -18->                ign -<-12-
+#            |                     |
+#  write -21->                ign -<-19-
+#            |                     |
+#   read -20->                ign -<-24-
+#            | 4801 RAM            |
+#            +--v-v-v-v-v-v-v-v-v--+
+#               | | | | | | | |       
+#      out_0 -9-+ | | | | | | +-17- out_7
+#       out_1 -10-+ | | | | +-16- out_6
+#         out_2 -11-+ | | +-15- out_5
+#           out_3 -13-+ +-15- out_4
+
+.chipsets:
+input enable
+input write
+input read
+input addr_0
+input addr_1
+input addr_2
+input addr_3
+input addr_4
+input addr_5
+input addr_6
+input addr_7
+input addr_8
+input addr_9
+input in_0
+input in_1
+input in_2
+input in_3
+input in_4
+input in_5
+input in_6
+input in_7
+output out_0
+output out_1
+output out_2
+output out_3
+output out_4
+output out_5
+output out_6
+output out_7
+4801 ram
+
+.links:
+enable:1 ram:18
+write:1 ram:21
+read:1 ram:20
+addr_0:1 ram:8
+addr_1:1 ram:7
+addr_2:1 ram:6
+addr_3:1 ram:5
+addr_4:1 ram:4
+addr_5:1 ram:3
+addr_6:1 ram:2
+addr_7:1 ram:1
+addr_8:1 ram:23
+addr_9:1 ram:22
+in_0:1 ram:9
+in_1:1 ram:10
+in_2:1 ram:11
+in_3:1 ram:13
+in_4:1 ram:14
+in_5:1 ram:15
+in_6:1 ram:16
+in_7:1 ram:17
+out_0:1 ram:9
+out_1:1 ram:10
+out_2:1 ram:11
+out_3:1 ram:13
+out_4:1 ram:14
+out_5:1 ram:15
+out_6:1 ram:16
+out_7:1 ram:17

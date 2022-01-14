@@ -1,0 +1,50 @@
+# Johnson Decade Counter (4017)
+#
+#          +-4017----------------+
+#          |                     |
+# cl_0 -14->                     |
+#          |   JOHNSON DECADE    |
+# in_1 -13->       COUNTER       |
+#          |                     |
+# in_r -15->                     >-12- out_s
+#          |                     |
+#          +-v-v-v-v-v-v-v-v-v-v-+
+#            | | | | | | | | | |
+#   out_0 -3-+ | | | | | | | | +-11- out_9
+#     out_1 -2-+ | | | | | | +-9- out_8
+#       out_2 -4-+ | | | | +-6- out_7
+#         out_3 -7-+ | | +-5- out_6
+#          out_4 -10-+ +-1- out_5
+
+.chipsets:
+input in_0
+input in_1
+input in_r
+output out_0
+output out_1
+output out_2
+output out_3
+output out_4
+output out_5
+output out_6
+output out_7
+output out_8
+output out_9
+output out_s
+4017 johnson
+
+.links:
+in_0:1 johnson:14
+in_1:1 johnson:13
+in_r:1 johnson:15
+out_0:1 johnson:3
+out_1:1 johnson:2
+out_2:1 johnson:4
+out_3:1 johnson:7
+out_4:1 johnson:10
+out_5:1 johnson:1
+out_6:1 johnson:5
+out_7:1 johnson:6
+out_8:1 johnson:9
+out_9:1 johnson:11
+out_s:1 johnson:12
