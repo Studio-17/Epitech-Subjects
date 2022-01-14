@@ -1,0 +1,113 @@
+Module : B-SHL-300
+Language : /bin/sh
+Authorized binaries : /!\ See end of this file ! /!\
+Version: 3.0
+
+-------------------------------------------------------------------------------
+Warning : for all scripts, error messages must be written on stderr output, and
+program must exit with error code 1
+-------------------------------------------------------------------------------
+
+Subject: 
+  Write a shell script that allows you to manage a database in a json file.
+  You must create table, insert-update-remove data, run query, ...
+
+Database File:
+  The database file can be specified in 3 ways, in order of priority:
+	as argument in command line : -f file
+    in environment : BDSH_File=
+    in a configuration file : .bdshrc
+
+Syntax:
+$> ./bdsh
+Usage: ./bdsh [OPTION]... [COMMAND] [REQUEST]
+OPTION:
+  -h, --help		display help
+  -f, --file=FILE	json database file
+  -j			json formated output for select command
+
+COMMAND and REQUEST:
+  create		create database
+			Example: 
+			   ./bdsh -f file.json create database
+			   ./bdsh -f file.json create table user id,firstname,lastname
+			   ./bdsh -f file.json create table age id,firstname,lastname
+
+  insert		insert data in database
+			Example:
+			   ./bdsh -f file.json insert user id=1,firstname=John,lastname=SMITH
+			   ./bdsh -f file.json insert user id=4,firstname=Robert John,lastname=WILLIAMS
+			   ./bdsh -f file.json insert user id=2,firstname=Lisa,lastname=SIMPSON
+			   ./bdsh -f file.json insert user id=10,lastname=SMITH
+			   ./bdsh -f file.json insert user firstname=Laura,lastname=SMITH
+			   ./bdsh -f file.json insert user id=9
+			   ./bdsh -f file.json insert age id=1,age=42
+
+  update		update data in database
+			Example:
+			   ./bdsh -f file.json update user firstname=Marry where firstname=John
+			   ./bdsh -f file.json update user lastname=DAVIS,firstname=Marge where id=9
+			   ./bdsh -f file.json update user firstname=,lastname=SIMPSON where id=2
+				this request remove firstname
+
+  select		display data from database
+			Example:
+			   ./bdsh -f file.json select user firstname,lastname
+                firstname    | lastname
+                -------------------------
+                John         | SMITH
+                Robert John  | WILLIAMS
+                Lisa         | SIMPSON
+                             | SMITH
+                Laura        | SMITH
+                             |
+			   ./bdsh -f file.json select user firstname,id where lastname=SMITH
+                firstname  | id
+                -----------------
+                John       | 1
+                           | 10
+                Laura      |
+			   ./bdsh -f file.json select user firstname where lastname=SMITH orderby firstname
+                firstname
+                -----------
+                
+                John       
+                Laura      
+			   ./bdsh -f file.json select user,age age,firstname,lastname join id where age=42
+                age  | firstname  | lastname
+                ------------------------------
+                42   | John       | SMITH
+			   
+  delete		remove data from table
+			Example:
+			   ./bdsh -f file.json delete user where lastname=SMITH
+                3 row(s) deleted
+
+Shell:
+	Shell must be /bin/sh (#shebang)
+
+$> ./bdsh -f fic.json 
+
+
+-------------------------------------------------------------------------------
+
+The 'update' and 'delete' commands will not be tested automatically and will be considered as bonuses.
+
+Authorized binaries :
+  * [
+  * test
+  * expr
+  * wc
+  * head
+  * tail
+  * cat
+  * sort
+  * grep
+  * sed
+  * rm (be careful, you do not have writing permissions on your current directory !)
+  * cut
+  * ps
+  * tr
+  * touch
+  * mkdir
+  * find

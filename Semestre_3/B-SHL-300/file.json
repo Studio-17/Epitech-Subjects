@@ -1,0 +1,49 @@
+{
+    "desc_user": [
+      "id",
+      "firstname",
+      "lastname"
+    ],
+    "desc_age": [
+      "id",
+      "age"
+    ],
+    "data_user": [
+      {
+        "id": "1",
+        "firstname": "John",
+        "lastname" : "SMITH"
+      },
+      {
+        "id": "4",
+        "firstname": "Robert John",
+        "lastname" : "WILLIAMS"
+      },
+      {
+        "id": "2",
+        "firstname": "Lisa",
+        "lastname" : "SIMPSON"
+      },
+      {
+        "id": "10",
+        "firstname": "",
+        "lastname" : "SMITH"
+      },
+      {
+        "id": "",
+        "firstname": "Laura",
+        "lastname" : "SMITH"
+      },
+      {
+        "id": "9",
+        "firstname": "",
+        "lastname" : ""
+      }
+    ],
+    "data_age": [
+      {
+        "id": "1",
+        "age": "42"
+      }
+    ]
+}
