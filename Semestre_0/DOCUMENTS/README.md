@@ -1,4 +1,4 @@
-# Codin Styles
+# DOCUMENTS
 
 >Sur ce répertoire sont réunis tout les documents non catégorisés utiles à l'année
 

@@ -1,4 +1,4 @@
-# DOCUMENTS
+# Coding Styles
 
 >Sur ce répertoire sont réunis tout les documents non catégorisés utiles à l'année
 
@@ -26,6 +26,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../../voc17.gif" width="40"></a>
 
 </div>
