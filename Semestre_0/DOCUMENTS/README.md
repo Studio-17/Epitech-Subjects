@@ -8,8 +8,6 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS)
-
 [↩️ Revenir au Semestre 0](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
