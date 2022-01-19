@@ -26,7 +26,7 @@
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS">DOCUMENTS</a></td>
             <td rowspan="1" >0 crédit</td>
-            <td>...</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS/Coding_styles">Coding Styles</a></td>
         </tr>
     </tbody>
 </table>
