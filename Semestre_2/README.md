@@ -16,7 +16,7 @@
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200">B-AIA-200</a></td>
             <td rowspan="1" >3 crédits</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4stek">Need4Stek</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek">Need4Stek</a></td>
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-200">B-CPE-200</a></td>
