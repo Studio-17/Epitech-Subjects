@@ -80,9 +80,9 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300/BDSH">BDSH</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300">B-CPP-300</a></td>
+            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-CPP-300">B-CPP-300</a></td>
             <td rowspan="1" >X crédit</td>
-            <td>Obsolète</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-CPP-300">Obsolète</a></td>
         </tr>
     </tbody>
 </table>
