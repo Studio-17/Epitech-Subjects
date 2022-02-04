@@ -251,22 +251,22 @@
             <td colspan="3" align="center"><strong>SEMESTRE 3</strong></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="#">B-PRO-300</a></td>
+            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PRO-300">B-PRO-300</a></td>
             <td rowspan="1" >20 crédits</td>
-            <td><a href="#">Internship</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PRO-300/Internship">Internship</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="#">B-PDG-300</a></td>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PDG-300">B-PDG-300</a></td>
             <td rowspan="2" >5 crédits</td>
-            <td><a href="#">Pool</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PDG-300/Pool">Pool</a></td>
         </tr>
         <tr>
-            <td><a href="#">Rushs</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PDG-300/Rushs">Rushs</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="#">B-SHL-300</a></td>
+            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300">B-SHL-300</a></td>
             <td rowspan="1" >1 crédit</td>
-            <td><a href="#">BDSH</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300/BDSH">BDSH</a></td>
         </tr>
     </tbody>
 </table>
