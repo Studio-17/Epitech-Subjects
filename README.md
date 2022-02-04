@@ -126,19 +126,19 @@
         <tr>
             <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">B-MAT-100</a></td>
             <td rowspan="5" >2 crédits</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">101pong</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100/101pong">101pong</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">102architect</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100/102architect">102architect</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">103cipher</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100/103cipher">103cipher</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">104intersection</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100/104intersection">104intersection</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">105torus</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100/105torus">105torus</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100">B-NSA-100</a></td>
@@ -190,13 +190,13 @@
         <tr>
             <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200">B-FRE-200</a></td>
             <td rowspan="3" >2 crédits</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200">Lettre Vente</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200/Lettre Vente">Lettre Vente</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200">Mode d'Emploi</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200/ModeEmploi">Mode d'Emploi</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200">Faire Préciser</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200/FairePréciser">Faire Préciser</a></td>
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-210">B-PSU-210</a></td>
@@ -209,24 +209,24 @@
         <tr>
             <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">B-MAT-200</a></td>
             <td rowspan="5" >2 crédits</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">106bombyx</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200/106bombyx">106bombyx</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">107transfer</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200/107transfer">107transfer</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">108trigo</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200/108trigo">108trigo</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">109titration</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200/109titration">109titration</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">110borwein</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200/110borwein">110borwein</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SEC-200">B-SEC-200</a></td>
             <td rowspan="1" >2 crédits</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SEC-200">Noob</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SEC-200/Noob">Noob</a></td>
         </tr>
         <tr>
             <td rowspan="4" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210">B-CPE-210</a></td>
