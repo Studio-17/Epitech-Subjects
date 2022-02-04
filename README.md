@@ -229,8 +229,8 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SEC-200/Noob">Noob</a></td>
         </tr>
         <tr>
-            <td rowspan="4" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210">B-CPE-210</a></td>
-            <td rowspan="4" >0 crédit</td>
+            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210">B-CPE-210</a></td>
+            <td rowspan="3" >0 crédit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210/Solo_Stumpers">Solo_Stumpers</a></td>
         </tr>
         <tr>
@@ -240,7 +240,15 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210/Redemption">Redemption</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210/Synthesis_pool">Synthesis_Pool</a></td>
+            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200">B-SYN-200</a></td>
+            <td rowspan="3" >0 crédit</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200/AutoMakefile">AutoMakefile</a></td>
+        </tr>
+        <tr>
+        <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200/FASTAtools">FASTAtools</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200/Palindrome">Palindrome</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-DES-200">B-DES-200</a></td>
