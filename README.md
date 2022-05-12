@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> <img src="https://img.shields.io/badge/Release-v0.5beta-ff0000">
+<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> <img src="https://img.shields.io/badge/Release-v0.5beta-ff0000"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
 
 # Sujets Epitech <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/1598px-Epitech.png" width="60">
 
