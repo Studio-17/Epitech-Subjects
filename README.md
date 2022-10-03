@@ -4,7 +4,7 @@
 
 ## Tout les fichiers ne sont pas encore à jours (ils le seront petit à petit)
 
->Sur ce répertoire sont réunis tout les sujets et les fichiers liés à la 1ère et 2ème année d'Epitech
+>Sur ce répertoire sont réunis tous les sujets et les fichiers liés à la 1ère et 2ème année d'Epitech
 
 <br>
 
