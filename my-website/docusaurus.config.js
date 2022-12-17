@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Epitech Subjects',
   tagline: 'The best repo for Epitech subjects',
-  url: 'https://studio-17.github.io/Epitech-Subjects/',
+  url: 'https://studio-17.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
