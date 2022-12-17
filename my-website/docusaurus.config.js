@@ -9,7 +9,7 @@ const config = {
   title: 'Epitech Subjects',
   tagline: 'The best repo for Epitech subjects',
   url: 'https://studio-17.github.io/',
-  baseUrl: '/',
+  baseUrl: '/Epitech-Subjects/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/studio17-logo-noel.ico',
