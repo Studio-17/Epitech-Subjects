@@ -59,7 +59,7 @@ const config = {
             label: 'Subjects',
           },
           {
-            href: 'https://github.com/Studio-17',
+            href: 'https://github.com/Studio-17/Epitech-Subjects',
             label: 'GitHub',
             position: 'right',
           },
@@ -67,7 +67,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Made in ${new Date().getFullYear()} by the Studio 17`,
+        copyright: `Made by the Studio 17®`,
       },
       prism: {
         theme: lightCodeTheme,
