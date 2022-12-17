@@ -8,16 +8,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Epitech Subjects',
   tagline: 'The best repo for Epitech subjects',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://studio-17.github.io/',
+  baseUrl: '/Epitech-Subjects/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/studio17-logo-noel.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'studio17', // Usually your GitHub org/user name.
+  organizationName: 'Studio-17', // Usually your GitHub org/user name.
   projectName: 'Epitech-Subjects', // Usually your repo name.
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
