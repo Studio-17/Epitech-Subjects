@@ -4,6 +4,9 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const organizationName= 'Studio-17';
+const projectName = 'Epitech-Subjects';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Epitech Subjects',
@@ -13,12 +16,13 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/studio17-logo-noel.ico',
+  // GitHub Pages adds a trailing slash by default that I don't want
+  trailingSlash: false,
+
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Studio-17', // Usually your GitHub org/user name.
-  projectName: 'Epitech-Subjects', // Usually your repo name.
-  trailingSlash: false,
+  organizationName, // GitHub org/user name.
+  projectName, // repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -60,7 +64,7 @@ const config = {
             label: 'Subjects',
           },
           {
-            href: 'https://github.com/Studio-17/Epitech-Subjects',
+            href: `https://github.com/${organizationName}/${projectName}`,
             label: 'GitHub',
             position: 'right',
           },
@@ -68,7 +72,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Made by the Studio 17`,
+        copyright: `Made by the ${organizationName}`,
       },
       prism: {
         theme: lightCodeTheme,
