@@ -10,14 +10,23 @@ sidebar_position: 1
 
 Welcome to the **Epitech Subjects** website ! This directory contains all topics and files related to Epitech PGE program.
 
-:::danger Note
+:::important Note
 **This website is not official and is not related to Epitech in any way.**
 
 All the files are not yet up to date (they will be gradually)
 :::
 
 :::tip Featuring
-The valid credits, the timeline, the tests of Marvin: (details of the tests, TAM, DEFENSE) for these projects are also indicated by clicking on the links.
+The valid credits, the timeline, the tests (details of the Marvin tests, TAM, DEFENSE) for these projects are also indicated by clicking on the links.
 
-If you want to **contribute** or you have found a problem, you can do it by clicking [Here](https://github.com/Studio-17/Epitech-Subjects).
+If you want to **contribute** or you have found a problem, you can do it by creating a issue [Here](https://github.com/Studio-17/Epitech-Subjects/issues).
 :::
+
+## All these semesters are available
+
+- [Semester 1](/docs/category/semester-1)
+
+<!-- - [Semester 2](/docs/category/semester-2)
+- [Semester 3](/docs/category/semester-3)
+- [Semester 4](/docs/category/semester-4)
+- [Semester 5](/docs/category/semester-5) -->
