@@ -15,10 +15,10 @@ const config = {
   baseUrl: '/Epitech-Subjects/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  deploymentBranch: 'main',
   favicon: 'img/favicon.ico',
   // GitHub Pages adds a trailing slash by default that I don't want
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   // GitHub pages deployment config.
   organizationName, // GitHub org/user name.
