@@ -2,46 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![Studio 17](https://img.shields.io/badge/Github-Studio--17-06DFF9)
+![Version](https://img.shields.io/badge/Release-v0.5beta-ff0000)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
 
-## Getting Started
+Welcome to the **Epitech Subjects** website ! This directory contains all topics and files related to Epitech PGE program.
 
-Get started by **creating a new site**.
+:::important Note
+**This website is not official and is not related to Epitech in any way.**
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+All the files are not yet up to date (they will be gradually)
+:::
 
-### What you'll need
+:::tip Featuring
+The valid credits, the timeline, the tests (details of the Marvin tests, TAM, DEFENSE) for these projects are also indicated by clicking on the links.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+If you want to **contribute** or you have found a problem, you can do it by creating a issue [Here](https://github.com/Studio-17/Epitech-Subjects/issues).
+:::
 
-## Generate a new site
+## All these semesters are available
 
-Generate a new Docusaurus site using the **classic template**.
+- [Semester 1](/docs/category/semester-1)
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+<!-- - [Semester 2](/docs/category/semester-2)
+- [Semester 3](/docs/category/semester-3)
+- [Semester 4](/docs/category/semester-4)
+- [Semester 5](/docs/category/semester-5) -->
