@@ -11,7 +11,7 @@ const projectName = 'Epitech-Subjects';
 const config = {
   title: 'Epitech Subjects',
   tagline: 'The best repo for Epitech subjects',
-  url: 'https://studio-17.github.io/',
+  url: 'https://github.com',
   baseUrl: '/Epitech-Subjects/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
