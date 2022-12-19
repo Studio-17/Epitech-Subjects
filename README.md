@@ -6,7 +6,7 @@
 
 >**Go checkout the new website for Epitech Subjects!**
 
->**Link: [https://clement-fernandes.github.io/epitech-subjects-website/](https://clement-fernandes.github.io/epitech-subjects-website/)**
+>**Link: <a href="https://clement-fernandes.github.io/epitech-subjects-website/" target="_blank">https://clement-fernandes.github.io/epitech-subjects-website/</a>**
 
 This directory contains all the subjects and files related to Epitech
 
