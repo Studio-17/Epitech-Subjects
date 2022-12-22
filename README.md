@@ -1,6 +1,10 @@
 <img src="./bar.png">
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> <img src="https://img.shields.io/badge/Release-v0.5beta-ff0000"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
+
+</div>
 
 ## All the files are not yet up to date (they will be gradually)
 
