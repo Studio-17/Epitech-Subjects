@@ -10,7 +10,7 @@
 
 #### :star: Please star the repo if you found it useful!
 
-### If you see a problem, have some new subejcts or requests, feel free to open an [issue](https://github.com/Studio-17/Epitech-Subjects/issues) or a [pull request](https://github.com/Studio-17/Epitech-Subjects/pulls).
+### If you see a problem, have some new subejects or requests, feel free to open an [issue](https://github.com/Studio-17/Epitech-Subjects/issues) or a [pull request](https://github.com/Studio-17/Epitech-Subjects/pulls).
 
 > **Go checkout the [website for Epitech Subjects](https://clement-fernandes.github.io/epitech-subjects-website/) with some cool features in it!**
 
@@ -290,6 +290,91 @@
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400/Plazza">Plazza</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-DOP-400">B-DOP-400</a></td>
+            <td rowspan="2" >2 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-DOP-400/My_marvin">My Marvin</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-DOP-400/My_octopus">My Octopus</a></td>
+        </tr>
+        <tr>
+            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400">B-FRE-400</a></td>
+            <td rowspan="3" >2 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400/Back_in_line">Back In Line</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400/Slideshow">SlideShow</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400/Experience_report">Experience Report</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FUN-400">B-FUN-400</a></td>
+            <td rowspan="2" >? credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FUN-400/Wolfram">Wolfram</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">?</a></td>
+        </tr>
+        <tr>
+            <td rowspan="9" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400">B-MAT-400</a></td>
+            <td rowspan="9" >3 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/201Yams">201Yams</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/202Unsold">202Unsold</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/203Hotline">203Hotline</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/204ducks">204ducks</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/205IQ">205IQ</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/206neutrinos">206neutrinos</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/207demography">207demography</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/208dowels">208dowels</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/209poll">209poll</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-OOP-400">B-OOP-400</a></td>
+            <td rowspan="2" >4 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-OOP-400/NanoTekSpice">NanoTekSpice</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-OOP-400/Arcade">Arcade</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-PSU-400">B-PSU-400</a></td>
+            <td rowspan="2" >3 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-PSU-400/Malloc">Malloc</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-PSU-400/NmObjdump">NmObjdump</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-SEC-400">B-SEC-400</a></td>
+            <td rowspan="1" >2 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-SEC-400/Hydra">Hydra</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-YEP-400">B-YEP-400</a></td>
+            <td rowspan="2" >4x2 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-YEP-400/Indie-Studio">Indie-Studio</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-YEP-400/Zappy">Zappy</a></td>
         </tr>
     </tbody>
 </table>
