@@ -1,0 +1,26 @@
+name: Markdown Linter
+
+on:
+  workflow_call:
+  workflow_dispatch:
+  pull_request:
+      branches: [main]
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Main
+        run: ls
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.2
+        with:
+          commit_message: "Code Indented!\nCo-authored-by: Clément FERNANDES <clement.fernandes@epitech.eu>"
+          prettier_options: --write **/*.md
