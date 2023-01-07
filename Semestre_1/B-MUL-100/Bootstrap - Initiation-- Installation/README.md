@@ -1,8 +1,8 @@
 # Bootstrap Initiation Installation
 
->Timeline: 1 semaine
+> Timeline: 1 semaine
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 

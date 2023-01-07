@@ -4,7 +4,7 @@
 
 📂---[Bootstrap_my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter.pdf)
 
-|___[Bootstrap_my_hunter_sprintesheet.png](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter_spritesheet.png)
+|\_\_\_[Bootstrap_my_hunter_sprintesheet.png](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter_spritesheet.png)
 
 <br>
 

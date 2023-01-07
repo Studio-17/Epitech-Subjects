@@ -1,14 +1,14 @@
 # Rush1
 
->Timeline: 24h
+> Timeline: 24h
 
->Nombre de personnes sur le projet: 2
+> Nombre de personnes sur le projet: 2
 
 <br>
 
 📂---[Rush1.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Rushs/Rush1/Rush1.pdf)
 
-|___[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Rushs/Rush1/rush1_bins.tgz)
+|\_\_\_[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Rushs/Rush1/rush1_bins.tgz)
 
 <br>
 

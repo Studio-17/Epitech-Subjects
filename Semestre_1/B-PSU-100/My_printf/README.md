@@ -1,18 +1,18 @@
 # MyPrintf
 
->Timeline: 2 semaines
+> Timeline: 2 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[MyPrintf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/MyPrintf)
 
-ㅤㅤ|___[my_printf.pdf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/MyPrintf/my_printf.pdf)
+ㅤㅤ|\_\_\_[my_printf.pdf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/MyPrintf/my_printf.pdf)
 
-|___[Bootstrap_MyPrintf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/Bootstrap_MyPrint)
+|\_\_\_[Bootstrap_MyPrintf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/Bootstrap_MyPrint)
 
-ㅤㅤ|___[my_printf_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/Bootstrap_MyPrint/my_printf_bootstrap.pdf)
+ㅤㅤ|\_\_\_[my_printf_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/Bootstrap_MyPrint/my_printf_bootstrap.pdf)
 
 <br>
 

@@ -1,10 +1,11 @@
 # B-CPE-100
 
->Crédits disponibles: 4
+> Crédits disponibles: 4
 
 <br>
 
 ## Description du module
+
 Le C Pool est le socle du cursus Epitech.
 
 A L'AGENDA : shell UNIX, langage C, vie scolaire
@@ -14,19 +15,19 @@ A L'AGENDA : shell UNIX, langage C, vie scolaire
 - Des ateliers pratiques réguliers qui vous permettront d'appliquer les concepts initiaux que vous aurez acquis, et surtout vous permettront de commencer à formuler vos propres hypothèses et de commencer à effectuer des tests afin de trouver des solutions. Juste pour que vous le sachiez, le cours n'explique pas comment résoudre l'exercice.
 
 - Aussi, afin d'éviter de perdre le rythme le week-end :
-  * Rush : un type de mini-projet à réaliser en petits groupes
+  - Rush : un type de mini-projet à réaliser en petits groupes
 
 Cette toute première unité est importante. Elle marque le début d'une nouvelle approche pédagogique ; une nouvelle façon de travailler. Gardez à l'esprit l'objectif de l'école : vous transformer en des professionnels innovants et recherchés. Tant que vous vous contenterez d'apprendre des solutions existantes trouvées par d'autres, vous ne serez jamais capable de devenir inventif. Dès le tout premier exercice C-Pool qu'il vous sera demandé de soumettre, vous n'aurez pas tous les éléments clés et vous n'aurez pas maîtrisé tous les outils. Vous devrez formuler des hypothèses, effectuer des tests et comparer des notes avec des camarades de classe afin de partager des idées. Vous n'apprendrez rien si nous vous donnons la solution.
 
 ## Compétences à acquerir
 
 - Être capable d'utiliser correctement l'environnement UNIX pour toutes les opérations courantes liées au curriculum (courriels, web, système de fichiers, édition de fichiers, programmation, etc.).
- - Être capable de produire des programmes C simples tout en respectant la syntaxe et les instructions données - comme les enseignants et les assistants.
- - Être capable de soumettre un projet correct quand/où cela est nécessaire.
- - Être capable de faire preuve d'un haut niveau d'engagement et de suivre les règles pendant toute la durée du C-Pool
- - S'installer et trouver des partenaires de travail
- - Exécuter de manière indépendante des analyses et des conceptions dans un contexte de machine d'examen
- - Gérer pour comprendre les problèmes liés au travail de groupe
+- Être capable de produire des programmes C simples tout en respectant la syntaxe et les instructions données - comme les enseignants et les assistants.
+- Être capable de soumettre un projet correct quand/où cela est nécessaire.
+- Être capable de faire preuve d'un haut niveau d'engagement et de suivre les règles pendant toute la durée du C-Pool
+- S'installer et trouver des partenaires de travail
+- Exécuter de manière indépendante des analyses et des conceptions dans un contexte de machine d'examen
+- Gérer pour comprendre les problèmes liés au travail de groupe
 
 <br>
 

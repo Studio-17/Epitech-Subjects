@@ -1,6 +1,6 @@
 # Semestre 2
 
->Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables durant le 2ème semestre
+> Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables durant le 2ème semestre
 
 <br>
 

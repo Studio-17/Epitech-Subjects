@@ -6,17 +6,13 @@
 
 </div>
 
-## All the files are not yet up to date (they will be gradually)
+**This directory contains all the subjects and files related to Epitech**
 
->**Go checkout the new website for Epitech Subjects!**
+#### :star: Please star the repo if you found it useful!
 
->**Link: [https://clement-fernandes.github.io/epitech-subjects-website/](https://clement-fernandes.github.io/epitech-subjects-website/)**
+### If you see a problem, have some new subejcts or requests, feel free to open an [issue](https://github.com/Studio-17/Epitech-Subjects/issues) or a [pull request](https://github.com/Studio-17/Epitech-Subjects/pulls).
 
-This directory contains all the subjects and files related to Epitech
-
-The valid credits, the timeline, the tests of the mill (detail of the tests, TAM, DEFENSE) for these projects are also indicated by clicking on the links
-
->Note: As the timeline changes every year it will not be defined in dates but in numbers of weeks (days, hours...)
+> **Go checkout the [website for Epitech Subjects](https://clement-fernandes.github.io/epitech-subjects-website/) with some cool features in it!**
 
 <br>
 
@@ -283,6 +279,17 @@ The valid credits, the timeline, the tests of the mill (detail of the tests, TAM
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300">B-SHL-300</a></td>
             <td rowspan="1" >1 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300/BDSH">BDSH</a></td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center"><strong>SEMESTER 4</strong></td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400">B-CPP-400</a></td>
+            <td rowspan="2" >3 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400/Panoramix">Panoramix</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400/Plazza">Plazza</a></td>
         </tr>
     </tbody>
 </table>

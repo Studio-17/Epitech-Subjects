@@ -1,25 +1,29 @@
 # B-FRE-100
 
->Crédits disponibles: 2
+> Crédits disponibles: 2
 
 <br>
 
 ## Description du module
+
 Module d'écrits professionnels du semestre 1
 
 Module obligatoire sur le cycle :
 Vous devez valider 2 modules d'écrits professionnels dans votre cursus Bachelor.
 
------------------
+---
+
 Le module B1 est consacré aux bases de l'écrit professionnel.
 
 Ce module comporte 1 QCM et 3 projets :
- - 2 projets individuels :
-          *Projet 1 : courrier professionnel
-          *Projet 2 : lettre argumentée
+
+- 2 projets individuels :
+  *Projet 1 : courrier professionnel
+  *Projet 2 : lettre argumentée
 - 1 RUSH en groupe
 
--------------------------------
+---
+
 CONDITIONS DE VALIDATION DU MODULE
 
 ATTENTION : Vous devez réaliser au moins 2 projets au cours du semestre pour valider ce module d'écrits professionnels.
@@ -29,7 +33,6 @@ Le grade sera attribué en fonction des résultats obtenus lors de l'évaluation
 Les projets sont évalués lors des sessions d'évaluation prévues en cas de présence est obligatoire.
 
 Par ailleurs, votre implication dans la réalisation des projets, incluant votre organisation pour gérer le travail sur l'ensemble du module, votre capacité d'agir pour progresser, sont des critères pris en compte dans l'évaluation et l'attribution du grade.
-
 
 Les projets de ce module consistant à produire des documents écrits répondant aux critères de base de tout document professionnel.
 
@@ -41,8 +44,9 @@ Ces ressources sont en libre accès sur l'e-learning (Semestre 0 / Auto-formatio
 
 ## Compétences à acquerir
 
-1) Module Compétences transversales à tous les projets de ce :
-Savoir un écrit :
+1. Module Compétences transversales à tous les projets de ce :
+   Savoir un écrit :
+
 - identifié, en fournissant les réponses à ces questions : qui écrit à qui ? à propos de quoi ? de quand date l'écrit ?
 - complet et précis qui transmet toutes les informations dont l'interlocuteur a besoin;
 - concis et clair : compréhensible à la première lecture ;
@@ -50,13 +54,14 @@ Savoir un écrit :
 - contrôlé (orthographe et syntaxe corrigée).
 - adapté à l'interlocuteur, à l'objectif du document et au type d'écrit spécifique.
 
-2) Compétences spécifiques mises en œuvre dans le projet « Lettre argumentée » :
-Savoir un écrit :
+2. Compétences spécifiques mises en œuvre dans le projet « Lettre argumentée » :
+   Savoir un écrit :
+
 - avec ton professionnel maîtrisé ;
 - avec une argumentation professionnelle et pertinente.
 
-3) Compétences spécifiques mises en œuvre dans le projet RUSH :
-Savoir s'organiser en groupe pour mener un projet à terme.
+3. Compétences spécifiques mises en œuvre dans le projet RUSH :
+   Savoir s'organiser en groupe pour mener un projet à terme.
 
 <br>
 

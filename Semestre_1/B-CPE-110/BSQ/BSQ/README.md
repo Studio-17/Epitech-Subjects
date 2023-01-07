@@ -4,9 +4,9 @@
 
 📂---[BSQ.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
 
-|___[BSQ_board_generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
+|\_\_\_[BSQ_board_generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
 
-|___[maps-intermediate.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
+|\_\_\_[maps-intermediate.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
 
 <br>
 

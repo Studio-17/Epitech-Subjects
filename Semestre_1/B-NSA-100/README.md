@@ -1,11 +1,13 @@
 # B-NSA-100
 
->Crédits disponibles: 2
+> Crédits disponibles: 2
 
 <br>
 
 ## Description du module
+
 Au menu de cette unité :
+
 - Installation d'un système d'exploitation sans interface graphique (Arch Linux)
 - Paramétrage d'un système d'exploitation
 - Gestion des utilisateurs
@@ -14,7 +16,6 @@ Au menu de cette unité :
 - Installation de paquets
 
 ## Compétences à acquerir
-
 
 - Installation et configuration d'un système d'exploitation en ligne de commande
 - Gestion des utilisateurs et de leurs droits et autorisations

@@ -1,0 +1,45 @@
+name: Feature Request
+description: File a feature request
+title: "[Feature]: "
+labels: ["feature", "triage"]
+assignees:
+  - Clement-Fernandes
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe your feature shortly.
+      placeholder: Tell us what you want to see!
+      value: "A new feature!"
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behaviour
+    attributes:
+      label: Expected behaviour
+      description: Describe what you want to happen with as much details as possible.
+      placeholder: Tell us what you want to happen!
+      value: "This should happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Describe your environment with as much details as possible.
+      placeholder: Tell us what is your environment!
+      value: "- OS and version"
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed solution
+      description: If you have an idea of how to realise this feature, please write it down here, so we can begin discussing it.
+    validations:
+      required: false

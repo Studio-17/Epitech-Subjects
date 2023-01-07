@@ -1,20 +1,21 @@
 # B-CPE-101
 
->Crédits disponibles: 3
+> Crédits disponibles: 3
 
 <br>
 
 ## Description du module
+
 Le C Pool est le socle du cursus Epitech.
 
 C'est la deuxième partie de la piscine.
 
 À L'ORDRE DU JOUR:
+
 - le fameux Bistromatic, séparé en plusieurs étapes.
 - Aussi, afin d'éviter de perdre le rythme le premier week-end, un stumper (un projet à faire en groupe de 2 en très très peu de temps et sans aide extérieure).
 
 Cette unité est importante car elle sert de passerelle entre la première partie de la piscine, avec de nouvelles tâches chaque jour, et le reste de votre bourse chez Epitech.
-
 
 ## Compétences à acquerir
 

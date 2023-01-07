@@ -1,20 +1,20 @@
 # Navy
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1-2
+> Nombre de personnes sur le projet: 1-2
 
 <br>
 
 📂---[Navy](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Navy/Navy)
 
-ㅤㅤ|___[navy.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Navy/navy.pdf)
+ㅤㅤ|\_\_\_[navy.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Navy/navy.pdf)
 
-ㅤㅤ|___[Screen_Capture.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Navy/Screen_Capture.txt)
+ㅤㅤ|\_\_\_[Screen_Capture.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Navy/Screen_Capture.txt)
 
-|___[Bootstrap_Navy](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Navy/Bootstrap_Navy)
+|\_\_\_[Bootstrap_Navy](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Navy/Bootstrap_Navy)
 
-ㅤㅤ|___[navy_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Bootstrap_Navy/navy_bootstrap.pdf)
+ㅤㅤ|\_\_\_[navy_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Bootstrap_Navy/navy_bootstrap.pdf)
 
 <br>
 

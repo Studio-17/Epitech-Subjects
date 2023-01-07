@@ -1,16 +1,16 @@
 # B-CPE-110
 
->Crédits disponibles: 4
+> Crédits disponibles: 4
 
 <br>
 
 ## Description du module
+
 De diverses manières, cette unité vous formera (et vous permettra de pratiquer les bases de) la programmation et l'analyse de problèmes ainsi que la division et la mise en œuvre rigoureuse qu'elles exigent.
 
 Cette unité est composée de deux mini-projets.
 
 Cette unité couvre les aspects de programmation classiques tels que les tableaux de structures de données simples, les listes chaînées, les piles) dans différents scénarios (tri des données, identification des trous dans les cartes de grille)
-
 
 ## Compétences à acquerir
 

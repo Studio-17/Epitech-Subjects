@@ -1,13 +1,15 @@
 # B-PSU-101
 
->Crédits disponibles: 3
+> Crédits disponibles: 3
 
 <br>
 
 ## Description du module
+
 Script Shell et signaux
 
 Tout au long de cette première unité, vous apprendrez à développer les éléments constitutifs de votre propre shell et de la gestion des signaux. Une deuxième unité (B2) vous permettra d'aller encore plus loin.
+
 ## Compétences à acquerir
 
 Comprendre FileSystem, exécuter des fichiers binaires, gérer le processeur, interrompre et signaler.

@@ -1,18 +1,18 @@
 # Day02
 
->Timeline: 48h
+> Timeline: 48h
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[Day02.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day02/Day02.pdf)
 
-|___[passwd](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day02/passwd)
+|\_\_\_[passwd](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day02/passwd)
 
-|___[students.csv](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day02/students.csv)
+|\_\_\_[students.csv](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day02/students.csv)
 
-|___[task05](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day02/task05)
+|\_\_\_[task05](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day02/task05)
 
 <br>
 

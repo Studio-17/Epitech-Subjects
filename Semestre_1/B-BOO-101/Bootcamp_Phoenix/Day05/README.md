@@ -1,14 +1,14 @@
 # Day05
 
->Timeline: 15h
+> Timeline: 15h
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[day05.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day01/day05.pdf)
 
-|___ [star_examples.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05/star_examples.txt)
+|\_\_\_ [star_examples.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day05/star_examples.txt)
 
 <br>
 

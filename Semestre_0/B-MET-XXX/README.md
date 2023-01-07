@@ -1,8 +1,8 @@
 # B-MET-XXX
 
->Crédits disponibles: 0
+> Crédits disponibles: 0
 
->Sur ce répertoire sont réunis tout les sujets et les fichiers liés au BackToTheFuture et au Review
+> Sur ce répertoire sont réunis tout les sujets et les fichiers liés au BackToTheFuture et au Review
 
 <br>
 

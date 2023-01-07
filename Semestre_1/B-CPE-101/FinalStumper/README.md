@@ -1,16 +1,16 @@
 # FinalStumper
 
->Timeline: 24h
+> Timeline: 24h
 
->Nombre de personnes sur le projet: 2
+> Nombre de personnes sur le projet: 2
 
 <br>
 
 📂---[Final_Stumper](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/Final_Stumper)
 
-|___[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush1_bins.tgz)
+|\_\_\_[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush1_bins.tgz)
 
-|___[rush3.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush3.tgz)
+|\_\_\_[rush3.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush3.tgz)
 
 <br>
 

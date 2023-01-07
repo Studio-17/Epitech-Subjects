@@ -1,24 +1,24 @@
 # BSQ
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[BSQ](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/BSQ/BSQ)
 
-ㅤㅤ|___[BSQ.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
+ㅤㅤ|\_\_\_[BSQ.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
 
-ㅤㅤ|___[BSQ_board_generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
+ㅤㅤ|\_\_\_[BSQ_board_generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
 
-ㅤㅤ|___[maps-intermediate.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
+ㅤㅤ|\_\_\_[maps-intermediate.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
 
-|___[Bootstrap_BSQ](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/maps-intermediate.tgz)
+|\_\_\_[Bootstrap_BSQ](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/maps-intermediate.tgz)
 
-ㅤㅤ|___[BSQ_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
+ㅤㅤ|\_\_\_[BSQ_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
 
-ㅤㅤ|___[BSQ_Bootstrap_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
+ㅤㅤ|\_\_\_[BSQ_Bootstrap_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
 
 <br>
 

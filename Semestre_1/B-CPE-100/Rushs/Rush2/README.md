@@ -1,8 +1,8 @@
 # Rush2
 
->Timeline: 24h
+> Timeline: 24h
 
->Nombre de personnes sur le projet: 2
+> Nombre de personnes sur le projet: 2
 
 <br>
 

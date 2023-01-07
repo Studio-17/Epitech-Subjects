@@ -1,18 +1,18 @@
 # Minishell1
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[Minishell1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Minishell1/Minishell1)
 
-ㅤㅤ|___[minishell1.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Minishell1/Minishell1/minishell1.pdf)
+ㅤㅤ|\_\_\_[minishell1.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Minishell1/Minishell1/minishell1.pdf)
 
-|___[Bootstrap_Minishell1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Minishell1/Bootstrap_Minishell1)
+|\_\_\_[Bootstrap_Minishell1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Minishell1/Bootstrap_Minishell1)
 
-ㅤㅤ|___[minishell1_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Minishell1/Bootstrap_Minishell1/minishell1_bootstrap.pdf)
+ㅤㅤ|\_\_\_[minishell1_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Minishell1/Bootstrap_Minishell1/minishell1_bootstrap.pdf)
 
 <br>
 

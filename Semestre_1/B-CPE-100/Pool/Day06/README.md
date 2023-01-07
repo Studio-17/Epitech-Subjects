@@ -1,8 +1,8 @@
 # Day06
 
->Timeline: 48h
+> Timeline: 48h
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 

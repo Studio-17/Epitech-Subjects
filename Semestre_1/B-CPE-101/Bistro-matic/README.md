@@ -1,16 +1,16 @@
 # Bistro-matic
 
->Timeline: 14 jours
+> Timeline: 14 jours
 
->Nombre de personnes sur le projet: 3-4
+> Nombre de personnes sur le projet: 3-4
 
 <br>
 
 📂---[Bistro-matic.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/Bistro-matic.pdf)
 
-|___[bistro-matic.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/bistromatic.h)
+|\_\_\_[bistro-matic.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/bistromatic.h)
 
-|___[main.c](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/main.c)
+|\_\_\_[main.c](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/main.c)
 
 <br>
 
