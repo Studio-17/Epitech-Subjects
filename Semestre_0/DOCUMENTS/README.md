@@ -1,14 +1,14 @@
 # DOCUMENTS
 
->Sur ce répertoire sont réunis tout les documents non catégorisés utiles à l'année
+> Sur ce répertoire sont réunis tout les documents non catégorisés utiles à l'année
 
 <br>
 
 📂---[Coding_styles](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS/Coding_styles)
 
-ㅤㅤ|___[epitech_c_coding_style.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Coding_styles/epitech_c_coding_style.pdf)
+ㅤㅤ|\_\_\_[epitech_c_coding_style.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Coding_styles/epitech_c_coding_style.pdf)
 
-ㅤㅤ|___[epitech_haskell_coding_style.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Coding_styles/epitech_haskell_coding_style.pdf)
+ㅤㅤ|\_\_\_[epitech_haskell_coding_style.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Coding_styles/epitech_haskell_coding_style.pdf)
 
 <br>
 

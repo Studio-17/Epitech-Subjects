@@ -1,14 +1,12 @@
 # Coding Styles
 
->Sur ce répertoire sont réunis tout les documents non catégorisés utiles à l'année
+> Sur ce répertoire sont réunis tout les documents non catégorisés utiles à l'année
 
 <br>
 
 📂---[epitech_c_coding_style.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Coding_styles/epitech_c_coding_style.pdf)
 
-|___[epitech_haskell_coding_style.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Coding_styles/epitech_haskell_coding_style.pdf)
-
-
+|\_\_\_[epitech_haskell_coding_style.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Coding_styles/epitech_haskell_coding_style.pdf)
 
 <br>
 

@@ -1,6 +1,6 @@
 # Rushs
 
->Timeline totale des projets: 2 jours
+> Timeline totale des projets: 2 jours
 
 <br>
 

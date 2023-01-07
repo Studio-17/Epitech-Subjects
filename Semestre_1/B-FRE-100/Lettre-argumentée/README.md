@@ -1,8 +1,8 @@
 # Lettre argumentée
 
->Timeline: 4 semaines
+> Timeline: 4 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 

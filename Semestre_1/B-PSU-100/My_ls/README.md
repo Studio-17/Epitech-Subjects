@@ -1,18 +1,18 @@
 # MyLs
 
->Timeline: 2 semaines
+> Timeline: 2 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[MyLs](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_ls/MyLs)
 
-ㅤㅤ|___[my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-100/My_ls/MyLs/my_ls.pdf)
+ㅤㅤ|\_\_\_[my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-100/My_ls/MyLs/my_ls.pdf)
 
-|___[Bootstrap_MyLs](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_ls/Bootstrap_MyLs)
+|\_\_\_[Bootstrap_MyLs](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_ls/Bootstrap_MyLs)
 
-ㅤㅤ|___[Bootstrap_my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-100/My_ls/Bootstrap_MyLs/my_ls_bootstrap.pdf)
+ㅤㅤ|\_\_\_[Bootstrap_my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-100/My_ls/Bootstrap_MyLs/my_ls_bootstrap.pdf)
 
 <br>
 

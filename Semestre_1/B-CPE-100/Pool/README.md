@@ -1,6 +1,6 @@
 # Pool
 
->Timeline totale des projets: 12 jours
+> Timeline totale des projets: 12 jours
 
 <br>
 

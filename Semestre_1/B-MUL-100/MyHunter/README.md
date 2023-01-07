@@ -1,20 +1,20 @@
 # MyHunter
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[MyHunter](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyHunter/MyHunter)
 
-ㅤㅤ|___[my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/MyHunter/my_hunter.pdf)
+ㅤㅤ|\_\_\_[my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/MyHunter/my_hunter.pdf)
 
-|___[Bootstrap_MyHunter](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter)
+|\_\_\_[Bootstrap_MyHunter](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter)
 
-ㅤㅤ|___[Bootstrap_my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter.pdf)
+ㅤㅤ|\_\_\_[Bootstrap_my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter.pdf)
 
-ㅤㅤ|___[Bootstrap_my_hunter_sprintesheet.png](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter_spritesheet.png)
+ㅤㅤ|\_\_\_[Bootstrap_my_hunter_sprintesheet.png](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter_spritesheet.png)
 
 <br>
 

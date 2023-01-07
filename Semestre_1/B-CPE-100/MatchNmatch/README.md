@@ -1,16 +1,16 @@
 # MatchNmatch
 
->Timeline: 6 jours
+> Timeline: 6 jours
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[MatchNmatch.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/MatchNmatch/MatchNmatch.pdf)
 
-|___[match.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/MatchNmatch/match.tgz)
+|\_\_\_[match.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/MatchNmatch/match.tgz)
 
-|___[nmatch.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/MatchNmatch/nmatch.tgz)
+|\_\_\_[nmatch.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/MatchNmatch/nmatch.tgz)
 
 <br>
 

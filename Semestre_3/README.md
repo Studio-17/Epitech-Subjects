@@ -1,6 +1,6 @@
 # Semestre 3
 
->Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables durant le 3ème semestre
+> Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables durant le 3ème semestre
 
 <br>
 

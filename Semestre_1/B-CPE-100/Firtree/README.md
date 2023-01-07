@@ -1,14 +1,14 @@
 # Firtree
 
->Timeline: 5 jours
+> Timeline: 5 jours
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[Tree.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Firtree/Tree.pdf)
 
-|___[firtree.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Firtree/firtree.tgz)
+|\_\_\_[firtree.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Firtree/firtree.tgz)
 
 <br>
 

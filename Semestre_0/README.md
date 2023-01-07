@@ -1,8 +1,8 @@
 # Reste
 
->Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables toute l'année ou alors hors module
+> Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables toute l'année ou alors hors module
 
->Ce répertoire ne possède ni de timeline ni de moulinette
+> Ce répertoire ne possède ni de timeline ni de moulinette
 
 <br>
 

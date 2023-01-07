@@ -1,10 +1,11 @@
 # B-MUL-100
 
->Crédits disponibles: 5
+> Crédits disponibles: 5
 
 <br>
 
 ## Description du module
+
 La programmation graphique consiste à créer des images/animations et une gestion de scènes à l'aide d'algorithmes et de ressources graphiques.
 
 Cette unité a pour objectif de vous initier à ce domaine et, à moyen terme, de vous préparer aux principaux enjeux du MyRPG, qui est le projet principal de cette unité en fin d'année.
@@ -16,9 +17,10 @@ Avant chaque projet, vous pouvez choisir de choisir le jeu ou le projet mathéma
 Pour être clair, vous n'êtes pas obligé de sélectionner tous les jeux ou tous les projets mathématiques, vous pouvez basculer votre focus entre les projets.
 
 Pour la première unité, les projets de l'axe mathématiques sont :
+
 - MyScreensaver : Animations basées sur la lumière ou tout autre effet visuel et utilisant des particules.
 - MyRadar : Détection de collision entre un grand nombre d'avions en vol au sein d'un espace 2D.
-et ceux dans l'axe du jeu sont :
+  et ceux dans l'axe du jeu sont :
 - MyHunter : Jeu avec une caméra fixe, dans lequel le joueur peut tirer dans certains éléments en mouvement.
 - MyRunner : Jeu avec une caméra défilante dans laquelle le personnage doit rester, tout en évitant les obstacles.
 
@@ -29,6 +31,7 @@ Pour toute question, n'hésitez pas à consulter "MUL 2023" sur Yammer.
 ## Compétences à acquerir
 
 Projets de jeux
+
 - Gestion des ressources, des événements et des fenêtres.
 - Stockage de données persistant (par exemple, meilleur score ou progression)
 - Menus de démarrage et de pause simples
@@ -37,6 +40,7 @@ Projets de jeux
 - Effets visuels célèbres (par exemple, parallaxe)
 
 Mathématiques
+
 - Gestion des cadres et fenêtres
 - Dessiner des formes (simples et complexes) avec une fonction de dessin en pixels.
 - Mise en place d'astuces simples pour rendre des effets visuels complexes.

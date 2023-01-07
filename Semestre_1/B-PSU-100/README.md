@@ -1,26 +1,30 @@
 # B-PSU-100
 
->Crédits disponibles: 2
+> Crédits disponibles: 2
 
 <br>
 
 ## Description du module
+
 Tous les éléments fondamentaux de la programmation UNIX
 
 SUJETS COUVERTS
 Nous aborderons la gestion des fichiers et des référentiels, ainsi que la gestion avancée des terminaux et des listes d'arguments.
 
 Mini projets à réaliser :
+
 - my_printf
 - my_ls
 
 ## Compétences à acquerir
 
 +Compétences techniques (doit en acquérir deux pour valider l'unité)
+
 - Savoir exécuter des appels système
 - Être capable de résoudre des problèmes algorithmiques
 
 +Compétences personnelles (obligatoire pour valider l'unité)
+
 - Savoir être méticuleux lors du développement de projet
 
 <br>

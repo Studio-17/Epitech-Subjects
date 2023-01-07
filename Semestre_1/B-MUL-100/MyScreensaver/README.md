@@ -1,18 +1,18 @@
 # MyScreensaver
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[Myscreensaver](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyScreensaver/MyScreensaver)
 
-ㅤㅤ|___[my_screensaver.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyScreensaver/MyScreensaver/my_screensaver.pdf)
+ㅤㅤ|\_\_\_[my_screensaver.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyScreensaver/MyScreensaver/my_screensaver.pdf)
 
-|___[Bootstrap_MyScreensaver](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyScreensaver/Bootstrap_MyScreensaver)
+|\_\_\_[Bootstrap_MyScreensaver](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyScreensaver/Bootstrap_MyScreensaver)
 
-ㅤㅤ|___[Bootstrap_my_screensaver.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyScreensaver/Bootstrap_MyScreensaver/Bootstrap_my_screensaver.pdf)
+ㅤㅤ|\_\_\_[Bootstrap_my_screensaver.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyScreensaver/Bootstrap_MyScreensaver/Bootstrap_my_screensaver.pdf)
 
 <br>
 

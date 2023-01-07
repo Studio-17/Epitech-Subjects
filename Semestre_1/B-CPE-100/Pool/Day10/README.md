@@ -1,14 +1,14 @@
 # Day10
 
->Timeline: 48h
+> Timeline: 48h
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[Day10.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day10/Day10.pdf)
 
-|___[my_opp.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day10/my_opp.h)
+|\_\_\_[my_opp.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day10/my_opp.h)
 
 <br>
 

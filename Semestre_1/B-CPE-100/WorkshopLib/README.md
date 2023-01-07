@@ -1,8 +1,8 @@
 # WorkshopLib
 
->Timeline: 6 jours
+> Timeline: 6 jours
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 

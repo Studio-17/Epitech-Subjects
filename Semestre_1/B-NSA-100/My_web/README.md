@@ -1,18 +1,18 @@
 # MyWeb
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1-2
+> Nombre de personnes sur le projet: 1-2
 
 <br>
 
 📂---[MyWeb](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100/My_web/MyWeb)
 
-ㅤㅤ|___[my-web.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-NSA-100/My_web/MyWeb/my-web.pdf)
+ㅤㅤ|\_\_\_[my-web.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-NSA-100/My_web/MyWeb/my-web.pdf)
 
-|___[Bootstrap_MyWeb](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100/My_web/Bootstrap_MyWeb)
+|\_\_\_[Bootstrap_MyWeb](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100/My_web/Bootstrap_MyWeb)
 
-ㅤㅤ|___[my-web_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-NSA-100/My_web/Bootstrap_MyWeb/my-web_bootstrap.pdf)
+ㅤㅤ|\_\_\_[my-web_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-NSA-100/My_web/Bootstrap_MyWeb/my-web_bootstrap.pdf)
 
 <br>
 

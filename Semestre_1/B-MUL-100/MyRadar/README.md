@@ -1,18 +1,18 @@
 # MyRadar
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[MyRadar](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyRadar/MyRadar)
 
-ㅤㅤ|___[my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyRadar/MyRadar/my_radar.pdf)
+ㅤㅤ|\_\_\_[my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyRadar/MyRadar/my_radar.pdf)
 
-|___[Bootstrap_MyRadar](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyRadar/Bootstrap_MyRadar)
+|\_\_\_[Bootstrap_MyRadar](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyRadar/Bootstrap_MyRadar)
 
-ㅤㅤ|___[Bootstrap_my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyRadar/Bootstrap_MyRadar/Bootstrap_my_radar.pdf)
+ㅤㅤ|\_\_\_[Bootstrap_my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyRadar/Bootstrap_MyRadar/Bootstrap_my_radar.pdf)
 
 <br>
 
@@ -76,7 +76,6 @@
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
 <br>
-
 
 <br>
 

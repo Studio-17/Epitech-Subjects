@@ -1,10 +1,11 @@
 # B-MAT-100
 
->Crédits disponibles: 2
+> Crédits disponibles: 2
 
 <br>
 
 ## Description du module
+
 La première partie de cette unité porte sur les outils mathématiques. Cette unité est une introduction complémentaire à la programmation (passage en revue de certains éléments du bassin) et est également une introduction à la programmation scientifique.
 
 SUJETS COUVERTS:
@@ -23,6 +24,7 @@ Doit montrer sa capacité à maîtriser des algorithmes simples.
 Chaque projet comprend un certain nombre de compétences à acquérir (3 à 5).
 
 Vous serez noté sur les points suivants :
+
 - le nombre de compétences validées
 - la qualité des présentations Pitch
 - précision

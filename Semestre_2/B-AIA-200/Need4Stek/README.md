@@ -1,20 +1,20 @@
 # Need4Stek
 
->Timeline: 5 semaines
+> Timeline: 5 semaines
 
->Nombre de personnes sur le projet: 2-3
+> Nombre de personnes sur le projet: 2-3
 
 <br>
 
 📂---[Need4Stek](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek/Need4Stek)
 
-ㅤㅤ|___[need4stek.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Need4Stek/need4stek.pdf)
+ㅤㅤ|\_\_\_[need4stek.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Need4Stek/need4stek.pdf)
 
-|___[Bootstrap_Need4Stek](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek)
+|\_\_\_[Bootstrap_Need4Stek](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek)
 
-ㅤㅤ|___[n4s_package.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/n4s_package.tgz)
+ㅤㅤ|\_\_\_[n4s_package.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/n4s_package.tgz)
 
-ㅤㅤ|___[need4stek_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/need4stek_bootstrap.pdf)
+ㅤㅤ|\_\_\_[need4stek_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/need4stek_bootstrap.pdf)
 
 <br>
 

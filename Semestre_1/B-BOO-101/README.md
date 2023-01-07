@@ -1,6 +1,7 @@
 # B-BOO-101
 
->Crédits disponibles: 0
+> Crédits disponibles: 0
+
 ## Description du module
 
 Prenez du recul et prenez le temps de réfléchir au travail inachevé que vous avez laissé derrière vous.

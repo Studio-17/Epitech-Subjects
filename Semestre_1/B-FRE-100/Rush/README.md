@@ -1,14 +1,14 @@
 # Rush
 
->Timeline: 12h
+> Timeline: 12h
 
->Nombre de personnes sur le projet: 5-10
+> Nombre de personnes sur le projet: 5-10
 
 <br>
 
 📂---[B1-RUSH-Consignes-generales-V3.4.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-FRE-100/Rush/B1-RUSH-Consignes-generales-V3.4.pdf)
 
-|___[B1-RUSH-doc-principal-V3.3.docx](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-FRE-100/Rush/B1-RUSH-doc-principal-V3.3.docx)
+|\_\_\_[B1-RUSH-doc-principal-V3.3.docx](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-FRE-100/Rush/B1-RUSH-doc-principal-V3.3.docx)
 
 <br>
 

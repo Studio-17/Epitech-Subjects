@@ -1,8 +1,8 @@
 # 101pong
 
->Timeline: 2 semaines
+> Timeline: 2 semaines
 
->Nombre de personnes sur le projet: 2
+> Nombre de personnes sur le projet: 2
 
 <br>
 

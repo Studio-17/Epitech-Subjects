@@ -1,24 +1,24 @@
 # Pushswap
 
->Timeline: 3 semaines
+> Timeline: 3 semaines
 
->Nombre de personnes sur le projet: 1
+> Nombre de personnes sur le projet: 1
 
 <br>
 
 📂---[Pushswap](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Pushswap/Pushswap)
 
-ㅤㅤ|___[Pushswap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Pushswap/Pushswap.pdf)
+ㅤㅤ|\_\_\_[Pushswap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Pushswap/Pushswap.pdf)
 
-ㅤㅤ|___[intermediate-tests.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Pushswap/intermediate-tests.tgz)
+ㅤㅤ|\_\_\_[intermediate-tests.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Pushswap/intermediate-tests.tgz)
 
-ㅤㅤ|___[pushswap-tester.tar.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Pushswap/pushswap-tester.tar.gz)
+ㅤㅤ|\_\_\_[pushswap-tester.tar.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Pushswap/pushswap-tester.tar.gz)
 
-|___[Bootstrap_Pushswap](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Pushswap/Bootstrap_Pushswap)
+|\_\_\_[Bootstrap_Pushswap](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Pushswap/Bootstrap_Pushswap)
 
-ㅤㅤ|___[Pushswap_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Bootstrap_Pushswap/Pushswap_Bootstrap.pdf)
+ㅤㅤ|\_\_\_[Pushswap_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Bootstrap_Pushswap/Pushswap_Bootstrap.pdf)
 
-ㅤㅤ|___[Pushswap_Bootstrap.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Bootstrap_Pushswap/Pushswap_Bootstrap.tgz)
+ㅤㅤ|\_\_\_[Pushswap_Bootstrap.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Pushswap/Bootstrap_Pushswap/Pushswap_Bootstrap.tgz)
 
 <br>
 
