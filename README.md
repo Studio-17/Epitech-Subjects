@@ -10,7 +10,7 @@
 
 #### :star: Please star the repo if you found it useful!
 
-### If you see a problem, have some new subejects or requests, feel free to open an [issue](https://github.com/Studio-17/Epitech-Subjects/issues) or a [pull request](https://github.com/Studio-17/Epitech-Subjects/pulls).
+### If you see a problem, have some new subjects or requests, feel free to open an [issue](https://github.com/Studio-17/Epitech-Subjects/issues) or a [pull request](https://github.com/Studio-17/Epitech-Subjects/pulls).
 
 > **Go checkout the [website for Epitech Subjects](https://clement-fernandes.github.io/epitech-subjects-website/) with some cool features in it!**
 
