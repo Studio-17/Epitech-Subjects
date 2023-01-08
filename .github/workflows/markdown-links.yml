@@ -16,3 +16,6 @@ jobs:
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         file-extension: .md
+        max-depth: 0
+        base-branch: main
+        file-path: ./README.md

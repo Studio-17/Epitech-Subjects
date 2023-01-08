@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> <img src="https://img.shields.io/badge/Release-v0.5beta-ff0000"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
+<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
 
 </div>
 
@@ -29,7 +29,7 @@
             <td colspan="3" align="center"><strong>SEMESTER 0</strong></td>
     </tr>
     <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX">B-MET-XXX</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX">B-MET-XXX</a></td>
             <td rowspan="2" >0 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX/BackToTheFuture">BackToTheFuture</a></td>
     </tr>
@@ -37,7 +37,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/B-MET-XXX/Review">Review</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS">DOCUMENTS</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS">DOCUMENTS</a></td>
             <td rowspan="1" >0 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS/Coding_styles">Coding Styles</a></td>
     </tr>
@@ -45,7 +45,7 @@
             <td colspan="3" align="center"><strong>SEMESTER 1</strong></td>
     </tr>
         <tr>
-            <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100">B-CPE-100</a></td>
+            <td rowspan="5"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100">B-CPE-100</a></td>
             <td rowspan="5" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Pool">Pool</a></td>
         </tr>
@@ -62,7 +62,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/WorkshopLib">WorkshopLib</a></td>
         </tr>
         <tr>
-            <td rowspan="4" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101">B-CPE-101</a></td>
+            <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101">B-CPE-101</a></td>
             <td rowspan="4" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101/EvalExpr">EvalExpr</a></td>
         </tr>
@@ -76,7 +76,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101/FinalStumper">FinalStumper</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110">B-CPE-110</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110">B-CPE-110</a></td>
             <td rowspan="3" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/BSQ">BSQ</a></td>
         </tr>
@@ -87,7 +87,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Antman">Antman</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-FRE-100">B-FRE-100</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-FRE-100">B-FRE-100</a></td>
             <td rowspan="3" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-FRE-100/Rush">Rush</a></td>
         </tr>
@@ -98,7 +98,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-FRE-100">Mail Pro</a></td>
         </tr>
         <tr>
-            <td rowspan="4" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100">B-MUL-100</a></td>
+            <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100">B-MUL-100</a></td>
             <td rowspan="4" >5 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyHunter">MyHunter</a></td>
         </tr>
@@ -112,7 +112,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyRadar">MyRadar</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100">B-PSU-100</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100">B-PSU-100</a></td>
             <td rowspan="2" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf">My_printf</a></td>
         </tr>
@@ -120,7 +120,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_ls">My_ls</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101">B-PSU-101</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101">B-PSU-101</a></td>
             <td rowspan="2" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Minishell1">Minishell1</a></td>
         </tr>
@@ -128,7 +128,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Navy">Navy</a></td>
         </tr>
         <tr>
-            <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">B-MAT-100</a></td>
+            <td rowspan="5"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100">B-MAT-100</a></td>
             <td rowspan="5" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100/101pong">101pong</a></td>
         </tr>
@@ -145,12 +145,12 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MAT-100/105torus">105torus</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100">B-NSA-100</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100">B-NSA-100</a></td>
             <td rowspan="1" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100/My_web">My_web</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="./Semestre_1/B-BOO-101">B-BOO-101</a></td>
+            <td rowspan="1"><a href="./Semestre_1/B-BOO-101">B-BOO-101</a></td>
             <td rowspan="1" >0 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix">Bootcamp Phoenix</a></td>
         </tr>
@@ -158,12 +158,12 @@
             <td colspan="3" align="center"><strong>SEMESTER 2</strong></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200">B-AIA-200</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200">B-AIA-200</a></td>
             <td rowspan="1" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek">Need4Stek</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-200">B-CPE-200</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-200">B-CPE-200</a></td>
             <td rowspan="2" >5 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-200/Matchstick">Matchstick</a></td>
         </tr>
@@ -171,12 +171,12 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-200/Dante">Dante</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-201">B-CPE-201</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-201">B-CPE-201</a></td>
             <td rowspan="1" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-201/Corewar">Corewar</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MUL-200">B-MUL-200</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MUL-200">B-MUL-200</a></td>
             <td rowspan="3" >9 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MUL-200/MyDefender">MyDefender</a></td>
         </tr>
@@ -187,12 +187,12 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MUL-200/MyRPG">MyRPG</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-200">B-PSU-200</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-200">B-PSU-200</a></td>
             <td rowspan="1" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-200/My_sokoban">My_sokoban</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200">B-FRE-200</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200">B-FRE-200</a></td>
             <td rowspan="3" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200/Lettre Vente">Lettre Vente</a></td>
         </tr>
@@ -203,7 +203,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-FRE-200/FairePréciser">Faire Préciser</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-210">B-PSU-210</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-210">B-PSU-210</a></td>
             <td rowspan="2" >5 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-210/minishell2">Minishell2</a></td>
         </tr>
@@ -211,7 +211,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-PSU-210/42sh">42sh</a></td>
         </tr>
         <tr>
-            <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">B-MAT-200</a></td>
+            <td rowspan="5"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200">B-MAT-200</a></td>
             <td rowspan="5" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200/106bombyx">106bombyx</a></td>
         </tr>
@@ -228,12 +228,12 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-MAT-200/110borwein">110borwein</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SEC-200">B-SEC-200</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SEC-200">B-SEC-200</a></td>
             <td rowspan="1" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SEC-200/Noob">Noob</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210">B-CPE-210</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210">B-CPE-210</a></td>
             <td rowspan="3" >0 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210/Solo_Stumpers">Solo_Stumpers</a></td>
         </tr>
@@ -244,7 +244,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-CPE-210/Redemption">Redemption</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200">B-SYN-200</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200">B-SYN-200</a></td>
             <td rowspan="3" >0 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200/AutoMakefile">AutoMakefile</a></td>
         </tr>
@@ -255,7 +255,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-SYN-200/Palindrome">Palindrome</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-DES-200">B-DES-200</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-DES-200">B-DES-200</a></td>
             <td rowspan="1" >1 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-DES-200">DesignSprint</a></td>
         </tr>
@@ -263,12 +263,12 @@
             <td colspan="3" align="center"><strong>SEMESTER 3</strong></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PRO-300">B-PRO-300</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PRO-300">B-PRO-300</a></td>
             <td rowspan="1" >20 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PRO-300/Internship">Internship</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PDG-300">B-PDG-300</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PDG-300">B-PDG-300</a></td>
             <td rowspan="2" >5 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PDG-300/Pool">Pool</a></td>
         </tr>
@@ -276,7 +276,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-PDG-300/Rushs">Rushs</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300">B-SHL-300</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300">B-SHL-300</a></td>
             <td rowspan="1" >1 credit</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_3/B-SHL-300/BDSH">BDSH</a></td>
         </tr>
@@ -284,7 +284,7 @@
             <td colspan="3" align="center"><strong>SEMESTER 4</strong></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400">B-CPP-400</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400">B-CPP-400</a></td>
             <td rowspan="2" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400/Panoramix">Panoramix</a></td>
         </tr>
@@ -292,7 +292,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-CPP-400/Plazza">Plazza</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-DOP-400">B-DOP-400</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-DOP-400">B-DOP-400</a></td>
             <td rowspan="2" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-DOP-400/My_marvin">My Marvin</a></td>
         </tr>
@@ -300,7 +300,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-DOP-400/My_octopus">My Octopus</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400">B-FRE-400</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400">B-FRE-400</a></td>
             <td rowspan="3" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400/Back_in_line">Back In Line</a></td>
         </tr>
@@ -311,7 +311,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FRE-400/Experience_report">Experience Report</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FUN-400">B-FUN-400</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FUN-400">B-FUN-400</a></td>
             <td rowspan="2" >? credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-FUN-400/Wolfram">Wolfram</a></td>
         </tr>
@@ -319,7 +319,7 @@
             <td><a href="#">?</a></td>
         </tr>
         <tr>
-            <td rowspan="9" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400">B-MAT-400</a></td>
+            <td rowspan="9"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400">B-MAT-400</a></td>
             <td rowspan="9" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/201Yams">201Yams</a></td>
         </tr>
@@ -348,7 +348,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-MAT-400/209poll">209poll</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-OOP-400">B-OOP-400</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-OOP-400">B-OOP-400</a></td>
             <td rowspan="2" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-OOP-400/NanoTekSpice">NanoTekSpice</a></td>
         </tr>
@@ -356,7 +356,7 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-OOP-400/Arcade">Arcade</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-PSU-400">B-PSU-400</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-PSU-400">B-PSU-400</a></td>
             <td rowspan="2" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-PSU-400/Malloc">Malloc</a></td>
         </tr>
@@ -364,16 +364,17 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-PSU-400/NmObjdump">NmObjdump</a></td>
         </tr>
         <tr>
-            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-SEC-400">B-SEC-400</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-SEC-400">B-SEC-400</a></td>
             <td rowspan="1" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-SEC-400/Hydra">Hydra</a></td>
         </tr>
         <tr>
-            <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-YEP-400">B-YEP-400</a></td>
-            <td rowspan="2" >4x2 credits</td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-YEP-400">B-YEP-400</a></td>
+            <td rowspan="1" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-YEP-400/Indie-Studio">Indie-Studio</a></td>
         </tr>
         <tr>
+            <td rowspan="1" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_4/B-YEP-400/Zappy">Zappy</a></td>
         </tr>
     </tbody>
