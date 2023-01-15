@@ -356,6 +356,14 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-OOP-400/Arcade">Arcade</a></td>
         </tr>
         <tr>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-NWP-400">B-NWP-400</a></td>
+            <td rowspan="2" >? credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-NWP-400/My_ftp">My_ftp</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-NWP-400/My_teams">My_teams</a></td>
+        </tr>
+        <tr>
             <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400">B-PSU-400</a></td>
             <td rowspan="2" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/Malloc">Malloc</a></td>
@@ -364,9 +372,30 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/NmObjdump">NmObjdump</a></td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-SEC-400">B-SEC-400</a></td>
-            <td rowspan="1" >2 credits</td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-402">B-PSU-402</a></td>
+            <td rowspan="2" >? credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-402/Ftrace">Ftrace</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-402/Strace">Strace</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-SEC-400">B-SEC-400</a></td>
+            <td rowspan="2" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-SEC-400/Hydra">Hydra</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-SEC-400/Shodan">Shodan</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-ASM-400">B-ASM-400</a></td>
+            <td rowspan="1" >? credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-ASM-400/MiniLibC">MiniLibC</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-CNA-410">B-CNA-410</a></td>
+            <td rowspan="1" >? credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-CNA-410/Trade">Trade</a></td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-YEP-400">B-YEP-400</a></td>
