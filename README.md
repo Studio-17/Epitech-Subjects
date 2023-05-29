@@ -410,70 +410,70 @@
             <td colspan="3" align="center"><strong>SEMESTER 5</strong></td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="#">B-CPP-500</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-CPP-500">B-CPP-500</a></td>
             <td rowspan="1" >6 credits</td>
-            <td><a href="#">Rtype</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-CPP-500/Rtype">Rtype</a></td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="#">B-DEV-500</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DEV-500">B-DEV-500</a></td>
             <td rowspan="1" >6 credits</td>
-            <td><a href="#">Area</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DEV-500/Area">Area</a></td>
         </tr>
         <tr>
-            <td rowspan="2"><a href="#">B-DOP-500</a></td>
+            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DOP-500">B-DOP-500</a></td>
             <td rowspan="2" >3 credits</td>
-            <td><a href="#">Bernstein</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DOP-500/Bernstein">Bernstein</a></td>
         </tr>
         <tr>
-            <td><a href="#">Whanos</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DOP-500/Whanos">Whanos</a></td>
         </tr>
         <tr>
-            <td rowspan="4"><a href="#">B-FRE-501</a></td>
+            <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FRE-501">B-FRE-501</a></td>
             <td rowspan="4" >2 credits</td>
-            <td><a href="#">Devil's Advocate</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FRE-501/Devils_advocate">Devil's Advocate</a></td>
         </tr>
         <tr>
-            <td><a href="#">3 emails</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FRE-501/3_emails">3 emails</a></td>
         </tr>
         <tr>
-            <td><a href="#">Profesional memo</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FRE-501/Professional_memo">Profesional memo</a></td>
         </tr>
         <tr>
-            <td><a href="#">The Geek Magazine</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FRE-501/The_Geek_Magazine">The Geek Magazine</a></td>
         </tr>
         <tr>
-            <td rowspan="9"><a href="#">B-MAT-500</a></td>
+            <td rowspan="9"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500">B-MAT-500</a></td>
             <td rowspan="9" >3 credits</td>
-            <td><a href="#">301dannon</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/301dannon">301dannon</a></td>
         </tr>
         <tr>
-            <td><a href="#">302separation</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/302separation">302separation</a></td>
         </tr>
         <tr>
-            <td><a href="#">303make</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/303make">303make</a></td>
         </tr>
         <tr>
-            <td><a href="#">304pacman</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/304pacman">304pacman</a></td>
         </tr>
         <tr>
-            <td><a href="#">305construction</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/305construction">305construction</a></td>
         </tr>
         <tr>
-            <td><a href="#">306radiator</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/306radiator">306radiator</a></td>
         </tr>
         <tr>
-            <td><a href="#">307multigrains</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/307multigrains">307multigrains</a></td>
         </tr>
         <tr>
-            <td><a href="#">308reedpipes</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/308reedpipes">308reedpipes</a></td>
         </tr>
         <tr>
-            <td><a href="#">309pollution</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/309pollution">309pollution</a></td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="#">B-PRO-500</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-PRO-500">B-PRO-500</a></td>
             <td rowspan="1" >7 credits</td>
-            <td><a href="#">Part-Time Internship</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-PRO-500/Part-Time_Internship">Part-Time Internship</a></td>
         </tr>
     </tbody>
 </table>
