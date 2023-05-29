@@ -406,6 +406,75 @@
             <td rowspan="1" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-YEP-400/Zappy">Zappy</a></td>
         </tr>
+        <tr>
+            <td colspan="3" align="center"><strong>SEMESTER 5</strong></td>
+        </tr>
+        <tr>
+            <td rowspan="1"><a href="#">B-CPP-500</a></td>
+            <td rowspan="1" >6 credits</td>
+            <td><a href="#">Rtype</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1"><a href="#">B-DEV-500</a></td>
+            <td rowspan="1" >6 credits</td>
+            <td><a href="#">Area</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2"><a href="#">B-DOP-500</a></td>
+            <td rowspan="2" >3 credits</td>
+            <td><a href="#">Bernstein</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">Whanos</a></td>
+        </tr>
+        <tr>
+            <td rowspan="4"><a href="#">B-FRE-501</a></td>
+            <td rowspan="4" >2 credits</td>
+            <td><a href="#">Devil's Advocate</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">3 emails</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">Profesional memo</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">The Geek Magazine</a></td>
+        </tr>
+        <tr>
+            <td rowspan="9"><a href="#">B-MAT-500</a></td>
+            <td rowspan="9" >3 credits</td>
+            <td><a href="#">301dannon</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">302separation</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">303make</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">304pacman</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">305construction</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">306radiator</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">307multigrains</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">308reedpipes</a></td>
+        </tr>
+        <tr>
+            <td><a href="#">309pollution</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1"><a href="#">B-PRO-500</a></td>
+            <td rowspan="1" >7 credits</td>
+            <td><a href="#">Part-Time Internship</a></td>
+        </tr>
     </tbody>
 </table>
 
