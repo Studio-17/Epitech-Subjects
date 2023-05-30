@@ -1,10 +1,12 @@
 <img src="./bar.png">
 
+<!-- markdown-link-check-disable -->
 <div align="center">
 
 <img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
 
 </div>
+<!-- markdown-link-check-enable -->
 
 **This directory contains all the subjects and files related to Epitech**
 
