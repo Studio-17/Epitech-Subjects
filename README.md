@@ -428,7 +428,7 @@
         </tr>
         <tr>
             <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-AIA-500">B-AIA-500</a></td>
-            <td rowspan="1" >3 credits</td>
+            <td rowspan="1" >2 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-AIA-500/Gomoku">Gomoku</a></td>
         </tr>
         <tr>
