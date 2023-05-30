@@ -420,6 +420,16 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DEV-500/Area">Area</a></td>
         </tr>
         <tr>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FUN-500">B-FUN-500</a></td>
+            <td rowspan="1" >6 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FUN-500/GlaDOS">GlaDOS</a></td>
+        </tr>
+        <tr>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-AIA-500">B-AIA-500</a></td>
+            <td rowspan="1" >3 credits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-AIA-500/Gomoku">Gomoku</a></td>
+        </tr>
+        <tr>
             <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DOP-500">B-DOP-500</a></td>
             <td rowspan="2" >3 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DOP-500/Bernstein">Bernstein</a></td>
