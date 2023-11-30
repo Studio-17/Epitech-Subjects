@@ -47,8 +47,8 @@
             <td colspan="3" align="center"><strong>SEMESTER 1</strong></td>
     </tr>
         <tr>
-            <td rowspan="5"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100">B-CPE-100</a></td>
-            <td rowspan="5" >4 credits</td>
+            <td rowspan="6"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100">B-CPE-100</a></td>
+            <td rowspan="6" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Pool">Pool</a></td>
         </tr>
         <tr>
@@ -56,6 +56,9 @@
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Firtree">Firtree</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Star">Star</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/MatchNmatch">MatchNmatch</a></td>
