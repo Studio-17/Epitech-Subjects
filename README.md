@@ -81,12 +81,15 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/FinalStumper">FinalStumper</a></td>
         </tr>
         <tr>
-            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110">B-CPE-110</a></td>
-            <td rowspan="3" >4 credits</td>
+            <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110">B-CPE-110</a></td>
+            <td rowspan="4" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/BSQ">BSQ</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Pushswap">Pushswap</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Organised">Organised</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Antman">Antman</a></td>
