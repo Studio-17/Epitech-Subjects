@@ -168,12 +168,15 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-AIA-200/Need4Stek">Need4Stek</a></td>
         </tr>
         <tr>
-            <td rowspan="2"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200">B-CPE-200</a></td>
-            <td rowspan="2" >5 credits</td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200">B-CPE-200</a></td>
+            <td rowspan="3" >5 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200/Matchstick">Matchstick</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200/Dante">Dante</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200/RobotFactory">Robot Factory</a></td>
         </tr>
         <tr>
             <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-201">B-CPE-201</a></td>
@@ -181,8 +184,8 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-201/Corewar">Corewar</a></td>
         </tr>
         <tr>
-            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-MUL-200">B-MUL-200</a></td>
-            <td rowspan="3" >9 credits</td>
+            <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-MUL-200">B-MUL-200</a></td>
+            <td rowspan="4" >9 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-MUL-200/MyDefender">MyDefender</a></td>
         </tr>
         <tr>
@@ -190,6 +193,9 @@
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-MUL-200/MyRPG">MyRPG</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-MUL-200/MyPaint">My Paint</a></td>
         </tr>
         <tr>
             <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-PSU-200">B-PSU-200</a></td>
