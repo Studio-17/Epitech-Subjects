@@ -81,12 +81,15 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/FinalStumper">FinalStumper</a></td>
         </tr>
         <tr>
-            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110">B-CPE-110</a></td>
-            <td rowspan="3" >4 credits</td>
+            <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110">B-CPE-110</a></td>
+            <td rowspan="4" >4 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/BSQ">BSQ</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Pushswap">Pushswap</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Organised">Organised</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Antman">Antman</a></td>
@@ -168,8 +171,8 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-AIA-200/Need4Stek">Need4Stek</a></td>
         </tr>
         <tr>
-            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200">B-CPE-200</a></td>
-            <td rowspan="3" >5 credits</td>
+            <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200">B-CPE-200</a></td>
+            <td rowspan="4" >5 credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200/Matchstick">Matchstick</a></td>
         </tr>
         <tr>
@@ -177,6 +180,9 @@
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200/RobotFactory">Robot Factory</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-200/Amazed">Amazed</a></td>
         </tr>
         <tr>
             <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-CPE-201">B-CPE-201</a></td>
