@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from bs4 import BeautifulSoup
 import time
 from sys import argv
 
@@ -84,6 +83,26 @@ def display_help():
     exit(0)
 #endregion
         
+#region Test_Category Definition
+class test_category:
+    def __init__(self, name :str, amount :int, rest :list[str]) -> None:
+        self.name = name
+        self.test_amount = amount
+        self.rest = rest
+#endregion
+
+#region Parser Definition
+class parser:
+    def __init__(self, test_content : list[list[str]]) -> None:
+        self.content = test_content
+        self.test = []
+
+    def parse(self):
+        for category in self.content:
+            self.test.append(test_category(category[0], (int)(category[3].split(": ")), category[7:]))
+        exit(0)
+
+#endregion
 
 def main():
     (browser, url) = parse_param(argv)
