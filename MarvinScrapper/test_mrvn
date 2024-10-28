@@ -1,0 +1,86 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from bs4 import BeautifulSoup
+import time
+from sys import argv
+
+BASE_MRVN_URL = "https://my.epitech.eu"
+# Dictionnaire des flags avec un id dans les resultat
+VALID_FLAGS = {"-h" : -1, "-b" : 0, '-url' : 1}
+
+#region Scrapper Definition
+class mrvn_scrapper:
+    def __init__(self, browser : str = "e", destination_url :str = None) -> None:
+        if destination_url == None or destination_url.find(BASE_MRVN_URL) == -1:
+            raise ValueError("Invalid url passed use -h for help")
+        match browser:
+            case "e":
+                self.driver = webdriver.Edge()
+            case "f":
+                self.driver = webdriver.Firefox()
+            case "c":
+                self.driver = webdriver.Chrome()
+        self.destination_url = destination_url
+
+    def check_driver(self):
+        if (self.driver == None):
+            raise ValueError("Invalid driver")
+
+    def search(self):
+        if (self.driver != None):
+            self.driver.get(self.destination_url)
+
+    def login(self):
+        self.check_driver()
+        try:
+            # Récupération du bouton de login de la page
+            login_button = self.driver.find_element(By.XPATH, "/html/body/div/div/a")
+            login_button.click()
+        except:
+            # TODO Si il n'y a pas de boutons voir comment check la page actuelle
+            pass
+        # TODO  remplacer ça par le choix de connection
+        time.sleep(5)
+        if (self.driver.current_url.find("https://my.epitech.eu") == -1):
+            # TODO Choisir l'adresse mail qui finis en @epitech.eu
+            exit(0)
+
+    def get_tests_content(self) -> list[list[str]]:
+        test_cells = self.driver.find_elements(By.CSS_SELECTOR, ".skill-cell.mdl-grid")
+        test_content = [cell.text.split("\n") for cell in test_cells]
+        return test_content
+    
+    def quit_driver(self):
+        time.sleep(3)
+        self.driver.quit()
+        self.driver = None
+#endregion
+
+#region Parameters
+def parse_param(args : list[str]) -> tuple[str, str]:
+    res = ["", ""]
+    i = 1
+    while (i < len(args)):
+        if args[i] not in VALID_FLAGS.keys():
+            raise ValueError(f"Invalid parameter {args[i]}")
+        if (args[i] == '-h'):
+            #TODO print help
+            exit(0)
+        value = VALID_FLAGS[args[i]]
+        res[value] = args[i + 1]
+        i += 2
+    return tuple(res)
+#endregion
+        
+
+def main():
+    (browser, url) = parse_param(argv)
+    # TODO Faire le parsing des param
+    scrapper = mrvn_scrapper(browser=browser, destination_url=url)
+    scrapper.search()
+    scrapper.login()
+    test_content = scrapper.get_tests_content()
+    scrapper.quit_driver()
+
+if __name__ == "__main__":
+    main()

@@ -41,6 +41,18 @@ Cette unité couvre les aspects de programmation classiques tels que les tableau
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Pushswap">Pushswap</a></td>
             <td align="center">3 semaines</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Setting-up">Setting-up</a></td>
+            <td align="center">3 semaines</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Organized">Organized</a></td>
+            <td align="center">3 semaines</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Secured">Secured</a></td>
+            <td align="center">3 semaines</td>
+        </tr>
     </tbody>
 </table>
 
