@@ -42,6 +42,20 @@
                 "-url",
                 "https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804"
             ]
-        }
+        },
+        {
+            "name": "Python Debugger: Help Edge with url",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "-b",
+                "e",
+                "-h",
+                "-url",
+                "https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804"
+            ]
+        },
     ]
 }
