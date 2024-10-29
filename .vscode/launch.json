@@ -14,7 +14,11 @@
                 "-b",
                 "e",
                 "-url",
-                "https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804"
+                "https://my.epitech.eu/#d/2023/B-CPE-110/settingup/5909713",
+                "-p",
+                "1",
+                "-t",
+                "3"
             ]
         },
         {

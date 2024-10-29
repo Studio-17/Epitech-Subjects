@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 from sys import argv
+import param
 
 EPI_DOMAIN_NAME = "@epitech.eu" 
 BASE_MRVN_URL = "https://my.epitech.eu"
@@ -65,26 +66,6 @@ class mrvn_scrapper:
         self.driver.quit()
         self.driver = None
 #endregion
-
-#region Parameters
-def parse_param(args : list[str], valid_flags : dict[str, int], source : str) -> tuple[str, str]:
-    res = ["", ""]
-    i = 1
-    while (i < len(args)):
-        if args[i] not in valid_flags.keys():
-            raise ValueError(f"Invalid parameter {args[i]}")
-        if (args[i] == '-h'):
-            display_help(source)
-        value = VALID_FLAGS[args[i]]
-        res[value] = args[i + 1]
-        i += 2
-    return tuple(res)
-
-def display_help(source : str):
-    with open(f"MarvinScrapper/help/help_{source}.txt", "r") as f:
-        print(f.read())
-    exit(0)
-#endregion
         
 #region Test_Category Definition
 class test_category:
@@ -121,10 +102,4 @@ def get_mrvn_test(browser : str, url : str):
     scrapper.quit_driver()
     content_parser = parser(test_content)
     content_parser.parse()
-
-def main():
-    (browser, url) = parse_param(argv, VALID_FLAGS, "scrapper")
-    get_mrvn_test(browser, url)
-
-if __name__ == "__main__":
-    main()
+    return content_parser.test
