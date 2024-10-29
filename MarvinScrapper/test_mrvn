@@ -37,20 +37,23 @@ class mrvn_scrapper:
             login_button = self.driver.find_element(By.XPATH, "/html/body/div/div/a")
             login_button.click()
         except:
-            # TODO Si il n'y a pas de boutons voir comment check la page actuelle
             pass
-        # TODO  remplacer ça par le choix de connection
         time.sleep(3)
+        # Vérification de la page actuelle
         if (self.driver.current_url.find(BASE_MRVN_URL) == -1):
             try:
+                # Récupération de tout les comptes microsoft enregistré
                 all_accounts = self.driver.find_elements(By.CSS_SELECTOR, ".table")
                 valid_account = next((x for x in all_accounts if x.accessible_name.find(EPI_DOMAIN_NAME) != -1), None)
                 if (valid_account == None):
-                    exit(0)
+                    exit(1)
                 valid_account.click()
             except:
-                exit(0)
+                exit(1)
         time.sleep(3)
+        # Vérification de la page actuelle
+        if (self.driver.current_url.find(BASE_MRVN_URL) == -1):
+            exit(1)
 
     def get_tests_content(self) -> list[list[str]]:
         test_cells = self.driver.find_elements(By.CSS_SELECTOR, ".skill-cell.mdl-grid")
@@ -89,6 +92,13 @@ class test_category:
         self.name = name
         self.test_amount = amount
         self.rest = rest
+        self.test_names = []
+        if (self.rest != None):
+            self.parse_test()
+    
+    def parse_test(self) -> None:
+        arrow_id = [i for i in range(len(self.rest)) if self.rest[i] == 'keyboard_arrow_right']
+        self.test_names = [self.rest[i] for i in range(len(self.rest)) if (i + 1) in arrow_id]
 #endregion
 
 #region Parser Definition
@@ -99,8 +109,7 @@ class parser:
 
     def parse(self):
         for category in self.content:
-            self.test.append(test_category(category[0], (int)(category[3].split(": ")), category[7:]))
-        exit(0)
+            self.test.append(test_category(category[0], (int)(category[3].split(": ")[1]), category[7:]))
 
 #endregion
 
@@ -111,6 +120,8 @@ def main():
     scrapper.login()
     test_content = scrapper.get_tests_content()
     scrapper.quit_driver()
+    content_parser = parser(test_content)
+    content_parser.parse()
 
 if __name__ == "__main__":
     main()
