@@ -25,11 +25,11 @@ Comprendre FileSystem, exécuter des fichiers binaires, gérer le processeur, in
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Minishell1">Minishell1</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101/Minishell1">Minishell1</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Navy">Navy</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101/Navy">Navy</a></td>
             <td align="center">3 semaines</td>
         </tr>
     </tbody>
@@ -37,7 +37,7 @@ Comprendre FileSystem, exécuter des fichiers binaires, gérer le processeur, in
 
 <br>
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

@@ -2,17 +2,17 @@
 
 <br>
 
-📂---[Antman.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Antman/Antman/Antman.pdf)
+📂---[Antman.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Antman/Antman/Antman.pdf)
 
-|\_\_\_[test_files_students.zip](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Antman/Antman/test_files_students.zip)
+|\_\_\_[test_files_students.zip](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Antman/Antman/test_files_students.zip)
 
 <br>
 
-[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Antman)
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Antman)
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

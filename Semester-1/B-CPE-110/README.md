@@ -30,27 +30,27 @@ Cette unité couvre les aspects de programmation classiques tels que les tableau
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Antman">Antman</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Antman">Antman</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/BSQ">BSQ</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/BSQ">BSQ</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Pushswap">Pushswap</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Pushswap">Pushswap</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Setting-up">Setting-up</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Setting-up">Setting-up</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Organized">Organized</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Organized">Organized</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Secured">Secured</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Secured">Secured</a></td>
             <td align="center">3 semaines</td>
         </tr>
     </tbody>
@@ -58,7 +58,7 @@ Cette unité couvre les aspects de programmation classiques tels que les tableau
 
 <br>
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

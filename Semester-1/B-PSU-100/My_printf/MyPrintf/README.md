@@ -2,15 +2,15 @@
 
 <br>
 
-📂---[my_printf.pdf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf/MyPrintf/my_printf.pdf)
+📂---[my_printf.pdf](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_printf/MyPrintf/my_printf.pdf)
 
 <br>
 
-[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf)
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_printf)
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

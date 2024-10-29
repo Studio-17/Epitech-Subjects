@@ -40,23 +40,23 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Pool">Pool</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Pool">Pool</a></td>
             <td align="center">12 jours</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Rushs">Rushs</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Rushs">Rushs</a></td>
             <td align="center">2 jours</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Firtree">Firtree</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Firtree">Firtree</a></td>
             <td align="center">5 jours</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/MatchNmatch">MatchNmatch</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/MatchNmatch">MatchNmatch</a></td>
             <td align="center">6 jours</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/WorkshopLib">WorkshopLib</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/WorkshopLib">WorkshopLib</a></td>
             <td align="center">6 jours</td>
         </tr>
     </tbody>
@@ -64,7 +64,7 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
 
 <br>
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

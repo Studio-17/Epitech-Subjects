@@ -74,15 +74,15 @@ Ces ressources sont en libre accès sur l'e-learning (Semestre 0 / Auto-formatio
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-FRE-100/Lettre-argument%C3%A9e">Lettre-argumentée</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/Lettre-argument%C3%A9e">Lettre-argumentée</a></td>
             <td align="center">4 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-FRE-100/MailPro">Mail Pro</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/MailPro">Mail Pro</a></td>
             <td align="center">2 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-FRE-100/Rush">Rush</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/Rush">Rush</a></td>
             <td align="center">12h</td>
         </tr>
     </tbody>
@@ -90,7 +90,7 @@ Ces ressources sont en libre accès sur l'e-learning (Semestre 0 / Auto-formatio
 
 <br>
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

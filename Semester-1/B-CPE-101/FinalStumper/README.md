@@ -6,11 +6,11 @@
 
 <br>
 
-📂---[Final_Stumper](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/Final_Stumper)
+📂---[Final_Stumper](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/FinalStumper/Final_Stumper)
 
-|\_\_\_[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush1_bins.tgz)
+|\_\_\_[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/FinalStumper/rush1_bins.tgz)
 
-|\_\_\_[rush3.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/FinalStumper/rush3.tgz)
+|\_\_\_[rush3.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/FinalStumper/rush3.tgz)
 
 <br>
 
@@ -74,9 +74,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

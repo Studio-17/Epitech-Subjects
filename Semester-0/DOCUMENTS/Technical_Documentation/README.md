@@ -4,15 +4,15 @@
 
 <br>
 
-📂---[doc_docker.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Technical_Documentation/doc_docker.pdf)
+📂---[doc_docker.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-0/DOCUMENTS/Technical_Documentation/doc_docker.pdf)
 
-ㅤㅤ|\_\_\_[epitech_makefile.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Technical_Documentation/epitech_makefile.pdf)
+ㅤㅤ|\_\_\_[epitech_makefile.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-0/DOCUMENTS/Technical_Documentation/epitech_makefile.pdf)
 
-ㅤㅤ|\_\_\_[how_to_write_unit_tests.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_0/DOCUMENTS/Technical_Documentation/how_to_write_unit_tests.pdf)
+ㅤㅤ|\_\_\_[how_to_write_unit_tests.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-0/DOCUMENTS/Technical_Documentation/how_to_write_unit_tests.pdf)
 
 <br>
 
-[↩️ Revenir au Semestre 0](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_0/DOCUMENTS)
+[↩️ Revenir au Semestre 0](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-0/DOCUMENTS)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

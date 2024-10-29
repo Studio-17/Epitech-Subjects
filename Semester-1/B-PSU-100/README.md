@@ -38,11 +38,11 @@ Mini projets à réaliser :
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_printf">MyPrintf</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_printf">MyPrintf</a></td>
             <td align="center">2 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_ls">MyLs</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_ls">MyLs</a></td>
             <td align="center">2 semaines</td>
         </tr>
     </tbody>
@@ -50,7 +50,7 @@ Mini projets à réaliser :
 
 <br>
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

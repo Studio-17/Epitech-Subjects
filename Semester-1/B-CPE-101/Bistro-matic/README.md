@@ -6,11 +6,11 @@
 
 <br>
 
-📂---[Bistro-matic.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/Bistro-matic.pdf)
+📂---[Bistro-matic.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/Bistro-matic/Bistro-matic.pdf)
 
-|\_\_\_[bistro-matic.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/bistromatic.h)
+|\_\_\_[bistro-matic.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/Bistro-matic/bistromatic.h)
 
-|\_\_\_[main.c](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/main.c)
+|\_\_\_[main.c](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/Bistro-matic/main.c)
 
 <br>
 
@@ -290,9 +290,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

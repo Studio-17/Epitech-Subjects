@@ -6,7 +6,7 @@
 
 <br>
 
-📂---[day04.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix/Day01/day04.pdf)
+📂---[day04.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-BOO-101/Bootcamp_Phoenix/Day01/day04.pdf)
 
 <br>
 
@@ -57,11 +57,11 @@
 
 <br>
 
-[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix)
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-BOO-101/Bootcamp_Phoenix)
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-BOO-101)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

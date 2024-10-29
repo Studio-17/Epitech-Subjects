@@ -6,13 +6,13 @@
 
 <br>
 
-📂---[Minishell1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Minishell1/Minishell1)
+📂---[Minishell1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101/Minishell1/Minishell1)
 
-ㅤㅤ|\_\_\_[minishell1.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Minishell1/Minishell1/minishell1.pdf)
+ㅤㅤ|\_\_\_[minishell1.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PSU-101/Minishell1/Minishell1/minishell1.pdf)
 
-|\_\_\_[Bootstrap_Minishell1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Minishell1/Bootstrap_Minishell1)
+|\_\_\_[Bootstrap_Minishell1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101/Minishell1/Bootstrap_Minishell1)
 
-ㅤㅤ|\_\_\_[minishell1_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Minishell1/Bootstrap_Minishell1/minishell1_bootstrap.pdf)
+ㅤㅤ|\_\_\_[minishell1_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PSU-101/Minishell1/Bootstrap_Minishell1/minishell1_bootstrap.pdf)
 
 <br>
 
@@ -208,9 +208,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

@@ -38,19 +38,19 @@ Cette unité est importante car elle sert de passerelle entre la première parti
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101/Bistro-matic">Bistro-matic</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/Bistro-matic">Bistro-matic</a></td>
             <td align="center">14 jours</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101/EvalExpr">EvalExpr</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/EvalExpr">EvalExpr</a></td>
             <td align="center">5 jours</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101/FinalStumper">FinalStumper</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/FinalStumper">FinalStumper</a></td>
             <td align="center">24h</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101/InfinAdd">InfinAdd</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/InfinAdd">InfinAdd</a></td>
             <td align="center">48h</td>
         </tr>
     </tbody>
@@ -58,7 +58,7 @@ Cette unité est importante car elle sert de passerelle entre la première parti
 
 <br>
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

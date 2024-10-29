@@ -6,7 +6,7 @@
 
 <br>
 
-📂---[Day03.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day03/Day03.pdf)
+📂---[Day03.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-100/Pool/Day03/Day03.pdf)
 
 <br>
 
@@ -72,11 +72,11 @@
 
 <br>
 
-[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Pool)
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Pool)
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

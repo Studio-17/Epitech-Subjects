@@ -6,13 +6,13 @@
 
 <br>
 
-📂---[MyWeb](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100/My_web/MyWeb)
+📂---[MyWeb](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-NSA-100/My_web/MyWeb)
 
-ㅤㅤ|\_\_\_[my-web.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-NSA-100/My_web/MyWeb/my-web.pdf)
+ㅤㅤ|\_\_\_[my-web.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-NSA-100/My_web/MyWeb/my-web.pdf)
 
-|\_\_\_[Bootstrap_MyWeb](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100/My_web/Bootstrap_MyWeb)
+|\_\_\_[Bootstrap_MyWeb](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-NSA-100/My_web/Bootstrap_MyWeb)
 
-ㅤㅤ|\_\_\_[my-web_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-NSA-100/My_web/Bootstrap_MyWeb/my-web_bootstrap.pdf)
+ㅤㅤ|\_\_\_[my-web_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-NSA-100/My_web/Bootstrap_MyWeb/my-web_bootstrap.pdf)
 
 <br>
 
@@ -100,9 +100,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-NSA-100)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

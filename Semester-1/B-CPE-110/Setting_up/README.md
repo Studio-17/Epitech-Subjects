@@ -6,19 +6,19 @@
 
 <br>
 
-📂---[Setting_up](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/Setting_up/Setting_up)
+📂---[Setting_up](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Setting_up/Setting_up)
 
-ㅤㅤ|\_\_\_[Setting_up.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Setting_up/Setting_up/Setting_up.pdf)
+ㅤㅤ|\_\_\_[Setting_up.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Setting_up/Setting_up/Setting_up.pdf)
 
-ㅤㅤ|\_\_\_[Setting_Up_Generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Setting_up/Setting_up/Setting_Up_Generator.pl)
+ㅤㅤ|\_\_\_[Setting_Up_Generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Setting_up/Setting_up/Setting_Up_Generator.pl)
 
-ㅤㅤ|\_\_\_[example_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Setting_up/Setting_up/example_files.tgz)
+ㅤㅤ|\_\_\_[example_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Setting_up/Setting_up/example_files.tgz)
 
-|\_\_\_[Bootstrap_Setting_up](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Setting_up/Setting_up/maps-intermediate.tgz)
+|\_\_\_[Bootstrap_Setting_up](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Setting_up/Setting_up/maps-intermediate.tgz)
 
-ㅤㅤ|\_\_\_[Setting_up_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Setting_up/Bootstrap_Setting_up/Setting_Up_Bootstrap.pdf)
+ㅤㅤ|\_\_\_[Setting_up_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Setting_up/Bootstrap_Setting_up/Setting_Up_Bootstrap.pdf)
 
-ㅤㅤ|\_\_\_[Setting_up_Bootstrap_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/Setting_up/Bootstrap_Setting_up/Setting_Up_Bootstrap_file.tgz)
+ㅤㅤ|\_\_\_[Setting_up_Bootstrap_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/Setting_up/Bootstrap_Setting_up/Setting_Up_Bootstrap_file.tgz)
 
 <br>
 
@@ -235,9 +235,9 @@
 
 </br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

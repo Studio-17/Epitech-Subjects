@@ -6,13 +6,13 @@
 
 <br>
 
-📂---[MyLs](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_ls/MyLs)
+📂---[MyLs](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_ls/MyLs)
 
-ㅤㅤ|\_\_\_[my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-100/My_ls/MyLs/my_ls.pdf)
+ㅤㅤ|\_\_\_[my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PSU-100/My_ls/MyLs/my_ls.pdf)
 
-|\_\_\_[Bootstrap_MyLs](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100/My_ls/Bootstrap_MyLs)
+|\_\_\_[Bootstrap_MyLs](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_ls/Bootstrap_MyLs)
 
-ㅤㅤ|\_\_\_[Bootstrap_my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-100/My_ls/Bootstrap_MyLs/my_ls_bootstrap.pdf)
+ㅤㅤ|\_\_\_[Bootstrap_my_ls.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PSU-100/My_ls/Bootstrap_MyLs/my_ls_bootstrap.pdf)
 
 <br>
 
@@ -93,9 +93,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

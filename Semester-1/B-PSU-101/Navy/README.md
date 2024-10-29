@@ -6,15 +6,15 @@
 
 <br>
 
-📂---[Navy](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Navy/Navy)
+📂---[Navy](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101/Navy/Navy)
 
-ㅤㅤ|\_\_\_[navy.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Navy/navy.pdf)
+ㅤㅤ|\_\_\_[navy.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PSU-101/Navy/Navy/navy.pdf)
 
-ㅤㅤ|\_\_\_[Screen_Capture.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Navy/Screen_Capture.txt)
+ㅤㅤ|\_\_\_[Screen_Capture.txt](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PSU-101/Navy/Navy/Screen_Capture.txt)
 
-|\_\_\_[Bootstrap_Navy](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101/Navy/Bootstrap_Navy)
+|\_\_\_[Bootstrap_Navy](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101/Navy/Bootstrap_Navy)
 
-ㅤㅤ|\_\_\_[navy_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-PSU-101/Navy/Bootstrap_Navy/navy_bootstrap.pdf)
+ㅤㅤ|\_\_\_[navy_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PSU-101/Navy/Bootstrap_Navy/navy_bootstrap.pdf)
 
 <br>
 
@@ -58,9 +58,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-PSU-101)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-101)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

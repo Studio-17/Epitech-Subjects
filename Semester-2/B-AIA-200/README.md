@@ -38,7 +38,7 @@ Les principaux mots clés sont dans la description du projet. A vous de savoir u
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek">Need4Stek</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-AIA-200/Need4Stek">Need4Stek</a></td>
             <td align="center">5 semaines</td>
         </tr>
     </tbody>
@@ -46,7 +46,7 @@ Les principaux mots clés sont dans la description du projet. A vous de savoir u
 
 <br>
 
-[↩️ Revenir au Semestre_2](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2)
+[↩️ Revenir au Semester-2](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

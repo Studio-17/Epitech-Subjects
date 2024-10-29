@@ -32,7 +32,7 @@ Au menu de cette unité :
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-NSA-100/My_web">MyWeb</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-NSA-100/My_web">MyWeb</a></td>
             <td align="center">3 semaines</td>
         </tr>
     </tbody>
@@ -40,7 +40,7 @@ Au menu de cette unité :
 
 <br>
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

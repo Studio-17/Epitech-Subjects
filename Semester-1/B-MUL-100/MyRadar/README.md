@@ -6,13 +6,13 @@
 
 <br>
 
-📂---[MyRadar](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyRadar/MyRadar)
+📂---[MyRadar](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyRadar/MyRadar)
 
-ㅤㅤ|\_\_\_[my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyRadar/MyRadar/my_radar.pdf)
+ㅤㅤ|\_\_\_[my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-MUL-100/MyRadar/MyRadar/my_radar.pdf)
 
-|\_\_\_[Bootstrap_MyRadar](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyRadar/Bootstrap_MyRadar)
+|\_\_\_[Bootstrap_MyRadar](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyRadar/Bootstrap_MyRadar)
 
-ㅤㅤ|\_\_\_[Bootstrap_my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyRadar/Bootstrap_MyRadar/Bootstrap_my_radar.pdf)
+ㅤㅤ|\_\_\_[Bootstrap_my_radar.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-MUL-100/MyRadar/Bootstrap_MyRadar/Bootstrap_my_radar.pdf)
 
 <br>
 
@@ -69,9 +69,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

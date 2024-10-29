@@ -6,19 +6,19 @@
 
 <br>
 
-📂---[BSQ](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110/BSQ/BSQ)
+📂---[BSQ](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/BSQ/BSQ)
 
-ㅤㅤ|\_\_\_[BSQ.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
+ㅤㅤ|\_\_\_[BSQ.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
 
-ㅤㅤ|\_\_\_[BSQ_board_generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
+ㅤㅤ|\_\_\_[BSQ_board_generator.pl](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
 
-ㅤㅤ|\_\_\_[maps-intermediate.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
+ㅤㅤ|\_\_\_[maps-intermediate.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/BSQ/BSQ/BSQ_board_generator.pl)
 
-|\_\_\_[Bootstrap_BSQ](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/maps-intermediate.tgz)
+|\_\_\_[Bootstrap_BSQ](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/BSQ/BSQ/maps-intermediate.tgz)
 
-ㅤㅤ|\_\_\_[BSQ_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
+ㅤㅤ|\_\_\_[BSQ_Bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
 
-ㅤㅤ|\_\_\_[BSQ_Bootstrap_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
+ㅤㅤ|\_\_\_[BSQ_Bootstrap_files.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-110/BSQ/BSQ/BSQ.pdf)
 
 <br>
 
@@ -96,9 +96,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-110)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

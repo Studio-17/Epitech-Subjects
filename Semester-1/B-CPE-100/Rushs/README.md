@@ -13,11 +13,11 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Rushs/Rush1">Rush1</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Rushs/Rush1">Rush1</a></td>
             <td align="center">24h</td>
         </tr>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Rushs/Rush2">Rush2</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Rushs/Rush2">Rush2</a></td>
             <td align="center">24h</td>
         </tr>
     </tbody>
@@ -27,9 +27,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100)
 
-[↩️ Revenir au Semestre 1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semestre 1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
