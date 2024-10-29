@@ -60,6 +60,6 @@ Mini projets à réaliser :
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../assets/voc17.gif" width="40"></a>
 
 </div>

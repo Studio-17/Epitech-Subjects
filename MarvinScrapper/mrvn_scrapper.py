@@ -67,21 +67,21 @@ class mrvn_scrapper:
 #endregion
 
 #region Parameters
-def parse_param(args : list[str]) -> tuple[str, str]:
+def parse_param(args : list[str], valid_flags : dict[str, int], source : str) -> tuple[str, str]:
     res = ["", ""]
     i = 1
     while (i < len(args)):
-        if args[i] not in VALID_FLAGS.keys():
+        if args[i] not in valid_flags.keys():
             raise ValueError(f"Invalid parameter {args[i]}")
         if (args[i] == '-h'):
-            display_help()
+            display_help(source)
         value = VALID_FLAGS[args[i]]
         res[value] = args[i + 1]
         i += 2
     return tuple(res)
 
-def display_help():
-    with open("MarvinScrapper/help.txt", "r") as f:
+def display_help(source : str):
+    with open(f"MarvinScrapper/help/help_{source}.txt", "r") as f:
         print(f.read())
     exit(0)
 #endregion
@@ -113,8 +113,7 @@ class parser:
 
 #endregion
 
-def main():
-    (browser, url) = parse_param(argv)
+def get_mrvn_test(browser : str, url : str):
     scrapper = mrvn_scrapper(browser=browser, destination_url=url)
     scrapper.search()
     scrapper.login()
@@ -122,6 +121,10 @@ def main():
     scrapper.quit_driver()
     content_parser = parser(test_content)
     content_parser.parse()
+
+def main():
+    (browser, url) = parse_param(argv, VALID_FLAGS, "scrapper")
+    get_mrvn_test(browser, url)
 
 if __name__ == "__main__":
     main()
