@@ -89,7 +89,7 @@ class writer:
         <tr>
             <td rowspan="{test_cat.test_amount}">{test_cat.name}</td>
             <td rowspan="{test_cat.test_amount}" style="text-align: center;">{test_cat.test_amount}</td>
-            <td>{test_cat.test_names[0]}
+            <td>{test_cat.test_names[0]}</td>
         </tr>
     """)
         for i in range(1, test_cat.test_amount):

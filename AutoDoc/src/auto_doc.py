@@ -30,8 +30,9 @@ def main():
         doc.write_project_details(destination_path, person, time)
         doc.write_break(1)
         doc.write_directory_content(destination_path, 0)
-        doc.write_break(1)
-        doc.write_unit_tests(browser, url)
+        if (url != " "):
+            doc.write_break(1)
+            doc.write_unit_tests(browser, url)
         doc.write_break(1)
         doc.write_footer(destination_path)
     print(browser, url)

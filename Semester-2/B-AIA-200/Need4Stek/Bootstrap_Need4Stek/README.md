@@ -2,9 +2,7 @@
 
 <br>
 
-📂---[n4s_package.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/n4s_package.tgz)
-
-|\_\_\_[need4stek_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/need4stek_bootstrap.pdf)
+📂---[need4stek_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/need4stek_bootstrap.pdf)
 
 <br>
 
