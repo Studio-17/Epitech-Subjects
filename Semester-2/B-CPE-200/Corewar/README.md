@@ -45,7 +45,7 @@
         <tr>
             <td rowspan="1">Check binary</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>corewar
+            <td>corewar</td>
         </tr>
 	</tbody>
 </table>

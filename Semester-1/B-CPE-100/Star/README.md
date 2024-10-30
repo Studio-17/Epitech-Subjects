@@ -29,12 +29,12 @@
         <tr>
             <td rowspan="1">A - Basic star</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>01 - Star of size 1
+            <td>01 - Star of size 1</td>
         </tr>
         <tr>
             <td rowspan="3">B - Functionality</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>01 - Stars of small sizes
+            <td>01 - Stars of small sizes</td>
         </tr>
     		<tr>
 			<td>02 - Stars of medium sizes</td>
@@ -45,7 +45,7 @@
         <tr>
             <td rowspan="1">C - Error handling</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>01 - Star of size 0
+            <td>01 - Star of size 0</td>
         </tr>
 	</tbody>
 </table>

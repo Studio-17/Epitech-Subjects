@@ -29,7 +29,7 @@
         <tr>
             <td rowspan="7">1 - simple print</td>
             <td rowspan="7" style="text-align: center;">7</td>
-            <td>11. Empty
+            <td>11. Empty</td>
         </tr>
     		<tr>
 			<td>12. Simple word</td>
@@ -52,7 +52,7 @@
         <tr>
             <td rowspan="2">2 - % Flags</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>21. %% - 1
+            <td>21. %% - 1</td>
         </tr>
     		<tr>
 			<td>22. %% - 2</td>
@@ -60,7 +60,7 @@
         <tr>
             <td rowspan="2">3 - c Flags</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>31. %c - 1
+            <td>31. %c - 1</td>
         </tr>
     		<tr>
 			<td>32. %c - 2</td>
@@ -68,7 +68,7 @@
         <tr>
             <td rowspan="2">4 - s Flags</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>41. %s - 1
+            <td>41. %s - 1</td>
         </tr>
     		<tr>
 			<td>42. %s - 2</td>
@@ -76,7 +76,7 @@
         <tr>
             <td rowspan="4">5 - d/i Flags</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>51. %d - 1
+            <td>51. %d - 1</td>
         </tr>
     		<tr>
 			<td>52. %d - 2</td>
@@ -90,7 +90,7 @@
         <tr>
             <td rowspan="4">6 - Multiple options</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>61. %c, %s, %d
+            <td>61. %c, %s, %d</td>
         </tr>
     		<tr>
 			<td>62. %s, %s</td>

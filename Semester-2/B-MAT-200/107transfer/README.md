@@ -27,7 +27,7 @@
         <tr>
             <td rowspan="3">basic</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>proj example 1
+            <td>proj example 1</td>
         </tr>
     		<tr>
 			<td>proj example 2</td>
@@ -38,7 +38,7 @@
         <tr>
             <td rowspan="3">mathematical rigor</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>division by zero 1
+            <td>division by zero 1</td>
         </tr>
     		<tr>
 			<td>division by zero 2</td>
@@ -49,7 +49,7 @@
         <tr>
             <td rowspan="10">polynomials</td>
             <td rowspan="10" style="text-align: center;">10</td>
-            <td>algorithm speed
+            <td>algorithm speed</td>
         </tr>
     		<tr>
 			<td>four components</td>
@@ -81,7 +81,7 @@
         <tr>
             <td rowspan="9">rigor</td>
             <td rowspan="9" style="text-align: center;">9</td>
-            <td>invalid arguments 1
+            <td>invalid arguments 1</td>
         </tr>
     		<tr>
 			<td>invalid arguments 2</td>

@@ -37,7 +37,7 @@
         <tr>
             <td rowspan="4">Algorithm app. - Hash function</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>01 - All input data is used during hashing #1
+            <td>01 - All input data is used during hashing #1</td>
         </tr>
     		<tr>
 			<td>02 - All input data is used during hashing #2</td>
@@ -51,7 +51,7 @@
         <tr>
             <td rowspan="5">Algorithm app. - Hash table</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>01 - Filling hash table
+            <td>01 - Filling hash table</td>
         </tr>
     		<tr>
 			<td>02 - Inserting after deleting</td>
@@ -68,7 +68,7 @@
         <tr>
             <td rowspan="6">Basics</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>01 - Creating hash table
+            <td>01 - Creating hash table</td>
         </tr>
     		<tr>
 			<td>02 - Dumping hash table</td>
@@ -88,7 +88,7 @@
         <tr>
             <td rowspan="5">Data structure</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>01 - One collision in an index
+            <td>01 - One collision in an index</td>
         </tr>
     		<tr>
 			<td>02 - Updating existing key</td>
@@ -105,7 +105,7 @@
         <tr>
             <td rowspan="5">Optimization</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>01 - Inserting & deleting 1.000 items
+            <td>01 - Inserting & deleting 1.000 items</td>
         </tr>
     		<tr>
 			<td>02 - Inserting & deleting 5.000 items</td>
@@ -122,7 +122,7 @@
         <tr>
             <td rowspan="10">Robustness</td>
             <td rowspan="10" style="text-align: center;">10</td>
-            <td>01 - Checking new_hashtable params (len)
+            <td>01 - Checking new_hashtable params (len)</td>
         </tr>
     		<tr>
 			<td>02 - Checking ht_insert params (ht)</td>

@@ -29,7 +29,7 @@
         <tr>
             <td rowspan="6">basic</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>project example 1 - correlation
+            <td>project example 1 - correlation</td>
         </tr>
     		<tr>
 			<td>project example 1 - fit1</td>
@@ -49,7 +49,7 @@
         <tr>
             <td rowspan="3">correlation</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>five codes
+            <td>five codes</td>
         </tr>
     		<tr>
 			<td>one code</td>
@@ -60,7 +60,7 @@
         <tr>
             <td rowspan="3">correlation (eval)</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>four codes
+            <td>four codes</td>
         </tr>
     		<tr>
 			<td>seven codes</td>
@@ -71,7 +71,7 @@
         <tr>
             <td rowspan="6">fits</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>five codes - fit1
+            <td>five codes - fit1</td>
         </tr>
     		<tr>
 			<td>five codes - fit2</td>
@@ -91,7 +91,7 @@
         <tr>
             <td rowspan="6">fits (eval)</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>four codes - fit1
+            <td>four codes - fit1</td>
         </tr>
     		<tr>
 			<td>four codes - fit2</td>
@@ -111,7 +111,7 @@
         <tr>
             <td rowspan="4">rigor</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>invalid code 1
+            <td>invalid code 1</td>
         </tr>
     		<tr>
 			<td>invalid code 2</td>

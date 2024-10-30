@@ -33,7 +33,7 @@
         <tr>
             <td rowspan="5">01 - basic tests</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>Empty directory listing (test3)
+            <td>Empty directory listing (test3)</td>
         </tr>
     		<tr>
 			<td>Multiple file listing (test1)</td>
@@ -50,7 +50,7 @@
         <tr>
             <td rowspan="7">02 - '-l' option tests</td>
             <td rowspan="7" style="text-align: center;">7</td>
-            <td>Access rights on directory (test11)
+            <td>Access rights on directory (test11)</td>
         </tr>
     		<tr>
 			<td>Access rights on regular file (test8)</td>
@@ -73,13 +73,13 @@
         <tr>
             <td rowspan="1">03 - '-R' option test</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>Recursive file listing (test13)
+            <td>Recursive file listing (test13)</td>
         </tr>
     
         <tr>
             <td rowspan="3">04 - combining option tests</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>Recursive listing (-lR) , testing access rights (test14)
+            <td>Recursive listing (-lR) , testing access rights (test14)</td>
         </tr>
     		<tr>
 			<td>Recursive listing including hidden file (-l -R), separated options (test16)</td>
@@ -90,7 +90,7 @@
         <tr>
             <td rowspan="2">05 - '-t' option tests</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>Time sorting #1 (test17)
+            <td>Time sorting #1 (test17)</td>
         </tr>
     		<tr>
 			<td>Time sorting #2 (test18)</td>
@@ -98,7 +98,7 @@
         <tr>
             <td rowspan="1">06 - char device tests</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>Testing device type & major (test21)
+            <td>Testing device type & major (test21)</td>
         </tr>
     
 	</tbody>

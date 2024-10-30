@@ -27,13 +27,13 @@
         <tr>
             <td rowspan="1">minimal functions</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>Minimal functions
+            <td>Minimal functions</td>
         </tr>
     
         <tr>
             <td rowspan="1">repository size</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>Repository size
+            <td>Repository size</td>
         </tr>
     
 	</tbody>

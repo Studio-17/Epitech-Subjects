@@ -37,7 +37,7 @@
         <tr>
             <td rowspan="8">Algorithm app</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>01 - 5 materials: Little handling
+            <td>01 - 5 materials: Little handling</td>
         </tr>
     		<tr>
 			<td>02 - 5 materials: Moderate handling</td>
@@ -63,7 +63,7 @@
         <tr>
             <td rowspan="4">Basics</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>01 - ADD: One material
+            <td>01 - ADD: One material</td>
         </tr>
     		<tr>
 			<td>02 - DEL: One material</td>
@@ -77,7 +77,7 @@
         <tr>
             <td rowspan="7">Optimization</td>
             <td rowspan="7" style="text-align: center;">7</td>
-            <td>01 - 100 materials
+            <td>01 - 100 materials</td>
         </tr>
     		<tr>
 			<td>02 - 500 materials</td>
@@ -100,7 +100,7 @@
         <tr>
             <td rowspan="3">Parsing</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>ADD: Several adding
+            <td>ADD: Several adding</td>
         </tr>
     		<tr>
 			<td>DEL: Several deleting</td>
@@ -111,7 +111,7 @@
         <tr>
             <td rowspan="7">Robustness</td>
             <td rowspan="7" style="text-align: center;">7</td>
-            <td>01 - ADD: No args
+            <td>01 - ADD: No args</td>
         </tr>
     		<tr>
 			<td>02 - ADD: Bad type</td>

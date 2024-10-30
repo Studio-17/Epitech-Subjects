@@ -27,7 +27,7 @@
         <tr>
             <td rowspan="3">basic</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>nothing
+            <td>nothing</td>
         </tr>
     		<tr>
 			<td>project example 1</td>
@@ -38,7 +38,7 @@
         <tr>
             <td rowspan="5">eval</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>test 10
+            <td>test 10</td>
         </tr>
     		<tr>
 			<td>test 6</td>
@@ -55,7 +55,7 @@
         <tr>
             <td rowspan="5">intermediate</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>test 1
+            <td>test 1</td>
         </tr>
     		<tr>
 			<td>test 2</td>
@@ -72,7 +72,7 @@
         <tr>
             <td rowspan="4">mathematical rigor</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>division by 0
+            <td>division by 0</td>
         </tr>
     		<tr>
 			<td>negative sd</td>
@@ -86,7 +86,7 @@
         <tr>
             <td rowspan="8">rigor</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>negative n
+            <td>negative n</td>
         </tr>
     		<tr>
 			<td>no arguments</td>

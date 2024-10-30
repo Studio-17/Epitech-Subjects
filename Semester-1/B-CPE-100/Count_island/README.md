@@ -33,17 +33,17 @@
         <tr>
             <td rowspan="1">01 - Count Island</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>01 - Count island
+            <td>01 - Count island</td>
         </tr>
         <tr>
             <td rowspan="1">02 - Return Value</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>01 - Return value
+            <td>01 - Return value</td>
         </tr>
         <tr>
             <td rowspan="1">03 - Error handling</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>01 - Error handling
+            <td>01 - Error handling</td>
         </tr>
 	</tbody>
 </table>

@@ -33,7 +33,7 @@
         <tr>
             <td rowspan="4">Simpson</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Simpson 1
+            <td>Simpson 1</td>
         </tr>
     		<tr>
 			<td>Simpson 2</td>
@@ -47,7 +47,7 @@
         <tr>
             <td rowspan="3">basic</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>proj example Simpson
+            <td>proj example Simpson</td>
         </tr>
     		<tr>
 			<td>proj example midpoint</td>
@@ -58,7 +58,7 @@
         <tr>
             <td rowspan="4">midpoint</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>midpoint 1
+            <td>midpoint 1</td>
         </tr>
     		<tr>
 			<td>midpoint 2</td>
@@ -72,7 +72,7 @@
         <tr>
             <td rowspan="5">rigor</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>decimal n
+            <td>decimal n</td>
         </tr>
     		<tr>
 			<td>negative n</td>
@@ -89,7 +89,7 @@
         <tr>
             <td rowspan="4">trapezoidal</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>trapezoidal 1
+            <td>trapezoidal 1</td>
         </tr>
     		<tr>
 			<td>trapezoidal 2</td>

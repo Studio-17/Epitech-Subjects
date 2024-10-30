@@ -35,7 +35,7 @@
         <tr>
             <td rowspan="8">01 - base tests</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>Double string format #1
+            <td>Double string format #1</td>
         </tr>
     		<tr>
 			<td>Double string format #2</td>
@@ -61,7 +61,7 @@
         <tr>
             <td rowspan="12">02 - easy tests</td>
             <td rowspan="12" style="text-align: center;">12</td>
-            <td>Bad parameter
+            <td>Bad parameter</td>
         </tr>
     		<tr>
 			<td>Binary number</td>
@@ -99,7 +99,7 @@
         <tr>
             <td rowspan="6">03 - medium tests</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>multiple integer display #1
+            <td>multiple integer display #1</td>
         </tr>
     		<tr>
 			<td>multiple integer display #2</td>
@@ -119,7 +119,7 @@
         <tr>
             <td rowspan="6">04 - hard tests</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>double %E
+            <td>double %E</td>
         </tr>
     		<tr>
 			<td>double %F</td>
@@ -139,7 +139,7 @@
         <tr>
             <td rowspan="9">05 - easy format tests</td>
             <td rowspan="9" style="text-align: center;">9</td>
-            <td>Decimal formating #1
+            <td>Decimal formating #1</td>
         </tr>
     		<tr>
 			<td>Decimal formating #2</td>
@@ -168,7 +168,7 @@
         <tr>
             <td rowspan="6">06 - medium format tests</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>Composed character formating
+            <td>Composed character formating</td>
         </tr>
     		<tr>
 			<td>Composed hexa formating</td>
@@ -188,7 +188,7 @@
         <tr>
             <td rowspan="6">07 - hard format tests</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>Long formating
+            <td>Long formating</td>
         </tr>
     		<tr>
 			<td>Percent formating #1</td>
@@ -208,7 +208,7 @@
         <tr>
             <td rowspan="12">08 - easy tests final</td>
             <td rowspan="12" style="text-align: center;">12</td>
-            <td>Character
+            <td>Character</td>
         </tr>
     		<tr>
 			<td>Hexa number #1</td>
@@ -246,7 +246,7 @@
         <tr>
             <td rowspan="6">09 - medium tests final</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>multiple integer display #1
+            <td>multiple integer display #1</td>
         </tr>
     		<tr>
 			<td>multiple integer display #2</td>
@@ -266,7 +266,7 @@
         <tr>
             <td rowspan="9">10 - easy format tests final</td>
             <td rowspan="9" style="text-align: center;">9</td>
-            <td>Decimal formating #1
+            <td>Decimal formating #1</td>
         </tr>
     		<tr>
 			<td>Decimal formating #2</td>
@@ -295,7 +295,7 @@
         <tr>
             <td rowspan="6">11 - medium format tests final</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>Composed character formating
+            <td>Composed character formating</td>
         </tr>
     		<tr>
 			<td>Composed hexa formating</td>
@@ -315,7 +315,7 @@
         <tr>
             <td rowspan="6">12 - hard format tests final</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>Long formating
+            <td>Long formating</td>
         </tr>
     		<tr>
 			<td>Percent formating #1</td>

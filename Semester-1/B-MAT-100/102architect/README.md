@@ -27,7 +27,7 @@
         <tr>
             <td rowspan="22">1-rigor</td>
             <td rowspan="22" style="text-align: center;">22</td>
-            <td>1a-no arguments
+            <td>1a-no arguments</td>
         </tr>
     		<tr>
 			<td>1b-not enough arguments</td>
@@ -95,7 +95,7 @@
         <tr>
             <td rowspan="12">2-transformation matrices</td>
             <td rowspan="12" style="text-align: center;">12</td>
-            <td>2a-translation (y axis)
+            <td>2a-translation (y axis)</td>
         </tr>
     		<tr>
 			<td>2b-translation (x axis)</td>
@@ -133,7 +133,7 @@
         <tr>
             <td rowspan="6">3-matrix product</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>3a-translation
+            <td>3a-translation</td>
         </tr>
     		<tr>
 			<td>3b-scaling</td>
@@ -153,7 +153,7 @@
         <tr>
             <td rowspan="6">4-complex transformations</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>4a-complex transformation t r
+            <td>4a-complex transformation t r</td>
         </tr>
     		<tr>
 			<td>4b-complex transformation s z</td>

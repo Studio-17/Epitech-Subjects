@@ -35,7 +35,7 @@
         <tr>
             <td rowspan="3">Algorithm app.</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>04 - Direct path from start to end
+            <td>04 - Direct path from start to end</td>
         </tr>
     		<tr>
 			<td>05 - One intermediate room between start and end</td>
@@ -46,7 +46,7 @@
         <tr>
             <td rowspan="3">Basics</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>01 - Number of robots
+            <td>01 - Number of robots</td>
         </tr>
     		<tr>
 			<td>02 - Rooms</td>
@@ -57,7 +57,7 @@
         <tr>
             <td rowspan="3">Data Structure</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>01 - Multiple valid paths
+            <td>01 - Multiple valid paths</td>
         </tr>
     		<tr>
 			<td>02 - Loops nearby</td>
@@ -68,7 +68,7 @@
         <tr>
             <td rowspan="2">Optimization</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>01 - Multiple valid paths, find your way
+            <td>01 - Multiple valid paths, find your way</td>
         </tr>
     		<tr>
 			<td>02 - Multiple valid paths, find multiple ways</td>
@@ -76,7 +76,7 @@
         <tr>
             <td rowspan="9">Parsing</td>
             <td rowspan="9" style="text-align: center;">9</td>
-            <td>01 - Room end given before start
+            <td>01 - Room end given before start</td>
         </tr>
     		<tr>
 			<td>02 - Comment at beginning of the file</td>
@@ -105,7 +105,7 @@
         <tr>
             <td rowspan="13">Robustness</td>
             <td rowspan="13" style="text-align: center;">13</td>
-            <td>01 - Bad robots number
+            <td>01 - Bad robots number</td>
         </tr>
     		<tr>
 			<td>02 - No room</td>

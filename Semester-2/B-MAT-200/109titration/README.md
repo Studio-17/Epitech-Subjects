@@ -29,7 +29,7 @@
         <tr>
             <td rowspan="2">basic</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>proj example derivatives
+            <td>proj example derivatives</td>
         </tr>
     		<tr>
 			<td>proj example interpolation</td>
@@ -37,7 +37,7 @@
         <tr>
             <td rowspan="3">derivatives</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>easy
+            <td>easy</td>
         </tr>
     		<tr>
 			<td>hard</td>
@@ -48,7 +48,7 @@
         <tr>
             <td rowspan="3">edge cases</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>constant derivative
+            <td>constant derivative</td>
         </tr>
     		<tr>
 			<td>linear derivative</td>
@@ -59,7 +59,7 @@
         <tr>
             <td rowspan="3">interpolation</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>easy
+            <td>easy</td>
         </tr>
     		<tr>
 			<td>hard</td>
@@ -70,7 +70,7 @@
         <tr>
             <td rowspan="9">rigor</td>
             <td rowspan="9" style="text-align: center;">9</td>
-            <td>empty file
+            <td>empty file</td>
         </tr>
     		<tr>
 			<td>invalid data 1</td>

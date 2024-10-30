@@ -27,7 +27,7 @@
         <tr>
             <td rowspan="7">1-rigor</td>
             <td rowspan="7" style="text-align: center;">7</td>
-            <td>1a-no arguments
+            <td>1a-no arguments</td>
         </tr>
     		<tr>
 			<td>1b-not enough arguments</td>
@@ -50,7 +50,7 @@
         <tr>
             <td rowspan="8">2-matrix</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>2a-length of key: 1
+            <td>2a-length of key: 1</td>
         </tr>
     		<tr>
 			<td>2b-length of key: 3</td>
@@ -76,7 +76,7 @@
         <tr>
             <td rowspan="8">3-encryption</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>3a-length of key: 1
+            <td>3a-length of key: 1</td>
         </tr>
     		<tr>
 			<td>3b-length of key: 3</td>
@@ -102,7 +102,7 @@
         <tr>
             <td rowspan="6">4-decryption</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>4a-length of key: 1
+            <td>4a-length of key: 1</td>
         </tr>
     		<tr>
 			<td>4b-length of key: 3</td>
@@ -122,7 +122,7 @@
         <tr>
             <td rowspan="2">5-decryption size 4 (bonus)</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>5a-length of key: 16
+            <td>5a-length of key: 16</td>
         </tr>
     		<tr>
 			<td>5b-length of key: 16 bis</td>

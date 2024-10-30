@@ -27,7 +27,7 @@
         <tr>
             <td rowspan="10">1-rigor</td>
             <td rowspan="10" style="text-align: center;">10</td>
-            <td>1a-no arguments
+            <td>1a-no arguments</td>
         </tr>
     		<tr>
 			<td>1b-not enough arguments</td>
@@ -59,7 +59,7 @@
         <tr>
             <td rowspan="10">3-vector</td>
             <td rowspan="10" style="text-align: center;">10</td>
-            <td>2a-vector coordinates 1
+            <td>2a-vector coordinates 1</td>
         </tr>
     		<tr>
 			<td>2b-vector coordinates 2</td>
@@ -91,7 +91,7 @@
         <tr>
             <td rowspan="5">4-trigonometry</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>3a-incident angle 1
+            <td>3a-incident angle 1</td>
         </tr>
     		<tr>
 			<td>3b-incident angle 2</td>
@@ -108,7 +108,7 @@
         <tr>
             <td rowspan="6">5-mathematical rigor</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>4a-speed vector with z = 0
+            <td>4a-speed vector with z = 0</td>
         </tr>
     		<tr>
 			<td>4b-0 degree angle</td>

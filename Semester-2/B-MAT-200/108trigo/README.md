@@ -27,7 +27,7 @@
         <tr>
             <td rowspan="3">basic</td>
             <td rowspan="3" style="text-align: center;">3</td>
-            <td>proj example 1
+            <td>proj example 1</td>
         </tr>
     		<tr>
 			<td>proj example 2</td>
@@ -38,7 +38,7 @@
         <tr>
             <td rowspan="5">cosine</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>size 1
+            <td>size 1</td>
         </tr>
     		<tr>
 			<td>size 16</td>
@@ -55,7 +55,7 @@
         <tr>
             <td rowspan="5">exponential</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>size 1
+            <td>size 1</td>
         </tr>
     		<tr>
 			<td>size 16</td>
@@ -72,7 +72,7 @@
         <tr>
             <td rowspan="5">hyperbolic cosine</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>size 1
+            <td>size 1</td>
         </tr>
     		<tr>
 			<td>size 16</td>
@@ -89,7 +89,7 @@
         <tr>
             <td rowspan="5">hyperbolic sine</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>size 1
+            <td>size 1</td>
         </tr>
     		<tr>
 			<td>size 16</td>
@@ -106,7 +106,7 @@
         <tr>
             <td rowspan="8">rigor</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>invalid arguments 1
+            <td>invalid arguments 1</td>
         </tr>
     		<tr>
 			<td>invalid arguments 2</td>
@@ -132,7 +132,7 @@
         <tr>
             <td rowspan="5">sine</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>size 1
+            <td>size 1</td>
         </tr>
     		<tr>
 			<td>size 16</td>

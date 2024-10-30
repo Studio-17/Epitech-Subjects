@@ -37,13 +37,13 @@
         <tr>
             <td rowspan="1">00 - cheater</td>
             <td rowspan="1" style="text-align: center;">1</td>
-            <td>Is not a cheater
+            <td>Is not a cheater</td>
         </tr>
     
         <tr>
             <td rowspan="2">01 - basic signal</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>Player connection
+            <td>Player connection</td>
         </tr>
     		<tr>
 			<td>Player waiting connection</td>
@@ -51,7 +51,7 @@
         <tr>
             <td rowspan="8">02 - rigor</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>2 boats has same length
+            <td>2 boats has same length</td>
         </tr>
     		<tr>
 			<td>Bad boat length</td>
@@ -77,7 +77,7 @@
         <tr>
             <td rowspan="8">02 - rigor - eval</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>2 boats has same length
+            <td>2 boats has same length</td>
         </tr>
     		<tr>
 			<td>Bad boat length</td>
@@ -103,7 +103,7 @@
         <tr>
             <td rowspan="4">03 - protocol</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Player 1 attack
+            <td>Player 1 attack</td>
         </tr>
     		<tr>
 			<td>Player 1 wait for attack</td>
@@ -117,7 +117,7 @@
         <tr>
             <td rowspan="4">03 - protocol - eval</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Player 1 attack
+            <td>Player 1 attack</td>
         </tr>
     		<tr>
 			<td>Player 1 wait for attack</td>
@@ -131,7 +131,7 @@
         <tr>
             <td rowspan="8">04 - game</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>Attack again after wrong position
+            <td>Attack again after wrong position</td>
         </tr>
     		<tr>
 			<td>Attack same position twice</td>
@@ -157,7 +157,7 @@
         <tr>
             <td rowspan="8">04 - game - eval</td>
             <td rowspan="8" style="text-align: center;">8</td>
-            <td>Attack again after wrong position.final.sh
+            <td>Attack again after wrong position.final.sh</td>
         </tr>
     		<tr>
 			<td>Attack same position twice</td>

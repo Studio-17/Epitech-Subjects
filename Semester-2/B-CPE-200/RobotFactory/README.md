@@ -39,7 +39,7 @@
         <tr>
             <td rowspan="5">Algorithm app.</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>Header - comment
+            <td>Header - comment</td>
         </tr>
     		<tr>
 			<td>Header - full</td>
@@ -56,7 +56,7 @@
         <tr>
             <td rowspan="5">Data structure</td>
             <td rowspan="5" style="text-align: center;">5</td>
-            <td>Champion 1
+            <td>Champion 1</td>
         </tr>
     		<tr>
 			<td>Champion 42</td>
@@ -73,7 +73,7 @@
         <tr>
             <td rowspan="18">Parsing</td>
             <td rowspan="18" style="text-align: center;">18</td>
-            <td>Label - add
+            <td>Label - add</td>
         </tr>
     		<tr>
 			<td>Label - aff</td>
@@ -129,7 +129,7 @@
         <tr>
             <td rowspan="35">Robustness</td>
             <td rowspan="35" style="text-align: center;">35</td>
-            <td>Chars after comment
+            <td>Chars after comment</td>
         </tr>
     		<tr>
 			<td>Chars after name</td>

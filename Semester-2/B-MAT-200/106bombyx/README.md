@@ -27,7 +27,7 @@
         <tr>
             <td rowspan="4">basic</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>example: number of individuals
+            <td>example: number of individuals</td>
         </tr>
     		<tr>
 			<td>example: synthetic scheme</td>
@@ -41,7 +41,7 @@
         <tr>
             <td rowspan="4">mathematical rigor</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>1000
+            <td>1000</td>
         </tr>
     		<tr>
 			<td>2000</td>
@@ -55,7 +55,7 @@
         <tr>
             <td rowspan="10">number of individuals</td>
             <td rowspan="10" style="text-align: center;">10</td>
-            <td>number of individuals 1
+            <td>number of individuals 1</td>
         </tr>
     		<tr>
 			<td>number of individuals 10</td>
@@ -87,7 +87,7 @@
         <tr>
             <td rowspan="13">rigor</td>
             <td rowspan="13" style="text-align: center;">13</td>
-            <td>invalid argument if 1
+            <td>invalid argument if 1</td>
         </tr>
     		<tr>
 			<td>invalid argument if 2</td>
@@ -128,7 +128,7 @@
         <tr>
             <td rowspan="11">synthetic scheme</td>
             <td rowspan="11" style="text-align: center;">11</td>
-            <td>synthetic scheme 1
+            <td>synthetic scheme 1</td>
         </tr>
     		<tr>
 			<td>synthetic scheme 10</td>

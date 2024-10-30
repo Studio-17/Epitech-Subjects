@@ -33,7 +33,7 @@
         <tr>
             <td rowspan="4">01 - usage and input checks</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Call with an argument which is not a file
+            <td>Call with an argument which is not a file</td>
         </tr>
     		<tr>
 			<td>Call with an invalid map</td>
@@ -47,7 +47,7 @@
         <tr>
             <td rowspan="4">02 - basic moves</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Mini Map : '#####\n#PXO#\n#####\n' (Free test)
+            <td>Mini Map : '#####\n#PXO#\n#####\n' (Free test)</td>
         </tr>
     		<tr>
 			<td>Move around a map (Free test)</td>
@@ -61,7 +61,7 @@
         <tr>
             <td rowspan="4">03 - basic collisions and box on targets</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Move box on a target
+            <td>Move box on a target</td>
         </tr>
     		<tr>
 			<td>Move box on a target (Free test)</td>
@@ -75,7 +75,7 @@
         <tr>
             <td rowspan="6">04 - intermediate moves and collisions</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>Move 1
+            <td>Move 1</td>
         </tr>
     		<tr>
 			<td>Move 2</td>
@@ -95,7 +95,7 @@
         <tr>
             <td rowspan="4">05 - intermediate maps tests</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Double map
+            <td>Double map</td>
         </tr>
     		<tr>
 			<td>Map with lot of box and target</td>
@@ -109,7 +109,7 @@
         <tr>
             <td rowspan="2">06 - intermediate winning and losing conditions</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>Losing a game
+            <td>Losing a game</td>
         </tr>
     		<tr>
 			<td>Winning a game</td>
@@ -117,7 +117,7 @@
         <tr>
             <td rowspan="6">07 - final moves and collisions</td>
             <td rowspan="6" style="text-align: center;">6</td>
-            <td>Move 1 - final
+            <td>Move 1 - final</td>
         </tr>
     		<tr>
 			<td>Move 2 - final</td>
@@ -137,7 +137,7 @@
         <tr>
             <td rowspan="4">08 - final maps tests</td>
             <td rowspan="4" style="text-align: center;">4</td>
-            <td>Double map - final
+            <td>Double map - final</td>
         </tr>
     		<tr>
 			<td>Map with lot of box and target - final</td>
@@ -151,7 +151,7 @@
         <tr>
             <td rowspan="2">09 - final winning and losing conditions</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>Losing a game - final
+            <td>Losing a game - final</td>
         </tr>
     		<tr>
 			<td>Winning a game - final</td>

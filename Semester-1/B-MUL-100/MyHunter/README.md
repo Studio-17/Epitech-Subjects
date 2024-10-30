@@ -35,7 +35,7 @@
         <tr>
             <td rowspan="2">minimal functions</td>
             <td rowspan="2" style="text-align: center;">2</td>
-            <td>Minimal functions
+            <td>Minimal functions</td>
         </tr>
     		<tr>
 			<td>Repository size</td>
