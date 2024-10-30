@@ -1,4 +1,4 @@
-# MyRPG
+# MyPaint
 
 > Timeline: 3 semaines
 
@@ -6,7 +6,13 @@
 
 <br>
 
-📂---[my_rpg.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-MUL-200/MyRPG/my_rpg.pdf)
+📂---[Bootstrap_paint](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-MUL-200/MyPaint/Bootstrap_paint)
+
+ㅤㅤ|\_\_\_[bootstrap_my_paint.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-MUL-200/MyPaint/Bootstrap_paint/bootstrap_my_paint.pdf)
+
+|\_\_\_[My_paint](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-MUL-200/MyPaint/My_paint)
+
+ㅤㅤ|\_\_\_[B-MUL-200_my_paint.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-MUL-200/MyPaint/My_paint/B-MUL-200_my_paint.pdf)
 
 
 <br>
@@ -31,7 +37,7 @@
         </tr>
     
         <tr>
-            <td rowspan="1">repository size</td>
+            <td rowspan="1">repository file</td>
             <td rowspan="1" style="text-align: center;">1</td>
             <td>Repository size
         </tr>
