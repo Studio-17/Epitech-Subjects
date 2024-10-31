@@ -10,9 +10,9 @@ BASE_MRVN_URL = "https://my.epitech.eu"
 VALID_FLAGS = {"-h" : -1, "-b" : 0, '-url' : 1}
 
 #region Scrapper Definition
-class mrvn_scrapper:
+class scrapper:
     def __init__(self, browser :str = "e", destination_url :str = None) -> None:
-        if destination_url == None or destination_url.find(BASE_MRVN_URL) == -1:
+        if destination_url == None:
             raise ValueError("Invalid url passed use -h for help")
         match browser:
             case "e":
@@ -23,16 +23,52 @@ class mrvn_scrapper:
                 self.driver = webdriver.Chrome()
         self.destination_url = destination_url
 
-    def check_driver(self):
+    def scrape(self):
+        self._search()
+        self._login()
+        content = self._get_desired_content()
+        self._quit_driver()
+        return self._parse_content(content)
+
+    def _login(self):
+        """
+            Overrided by other scrapper
+        """
+        raise NotImplementedError()
+
+    def _check_driver(self):
         if (self.driver == None):
             raise ValueError("Invalid driver")
 
-    def search(self):
-        if (self.driver != None):
-            self.driver.get(self.destination_url)
+    def _parse_content(self, content):
+        """
+            Overrided by other scrapper
+        """
+        raise NotImplementedError()
 
-    def login(self):
-        self.check_driver()
+    def _get_desired_content(self):
+        """
+            Overrided by other scrapper
+        """
+        raise NotImplementedError()
+
+    def _search(self):
+        self._check_driver()
+        self.driver.get(self.destination_url)
+
+    def _quit_driver(self):
+        time.sleep(3)
+        self.driver.quit()
+        self.driver = None
+
+class mrvn_scrapper(scrapper):
+    def __init__(self, browser :str = "e", destination_url :str = None) -> None:
+        if destination_url == None or destination_url.find(BASE_MRVN_URL) == -1:
+            raise ValueError("Invalid url passed use -h for help")
+        super().__init__(browser, destination_url)
+
+    def _login(self):
+        self._check_driver()
         try:
             # Récupération du bouton de login de la page
             login_button = self.driver.find_element(By.XPATH, "/html/body/div/div/a")
@@ -56,15 +92,16 @@ class mrvn_scrapper:
         if (self.driver.current_url.find(BASE_MRVN_URL) == -1):
             exit(1)
 
-    def get_tests_content(self) -> list[list[str]]:
+    def _get_desired_content(self) -> list[list[str]]:
         test_cells = self.driver.find_elements(By.CSS_SELECTOR, ".skill-cell.mdl-grid")
         test_content = [cell.text.split("\n") for cell in test_cells]
         return test_content
     
-    def quit_driver(self):
-        time.sleep(3)
-        self.driver.quit()
-        self.driver = None
+    def _parse_content(self, content):
+        tests = []
+        for category in content:
+            tests.append(test_category(category[0], (int)(category[3].split(": ")[1]), category[7:]))
+        return tests
 #endregion
         
 #region Test_Category Definition
@@ -82,24 +119,6 @@ class test_category:
         self.test_names = [self.rest[i] for i in range(len(self.rest)) if (i + 1) in arrow_id]
 #endregion
 
-#region Parser Definition
-class parser:
-    def __init__(self, test_content : list[list[str]]) -> None:
-        self.content = test_content
-        self.test = []
-
-    def parse(self):
-        for category in self.content:
-            self.test.append(test_category(category[0], (int)(category[3].split(": ")[1]), category[7:]))
-
-#endregion
-
 def get_mrvn_test(browser :str, url :str):
     scrapper = mrvn_scrapper(browser=browser, destination_url=url)
-    scrapper.search()
-    scrapper.login()
-    test_content = scrapper.get_tests_content()
-    scrapper.quit_driver()
-    content_parser = parser(test_content)
-    content_parser.parse()
-    return content_parser.test
+    return scrapper.scrape()
