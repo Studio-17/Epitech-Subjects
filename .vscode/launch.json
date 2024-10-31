@@ -16,7 +16,10 @@
                 "-p",
                 "1",
                 "-t",
-                "3"
+                "3",
+                "-cp",
+                "-url",
+                "https://my.epitech.eu/index.html#d/2023/B-PSU-200/minishell2/6317872"
             ]
         },
         {

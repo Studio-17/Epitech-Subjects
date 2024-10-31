@@ -11,7 +11,7 @@ VALID_FLAGS = {"-h" : -1, "-b" : 0, '-url' : 1}
 
 #region Scrapper Definition
 class mrvn_scrapper:
-    def __init__(self, browser : str = "e", destination_url :str = None) -> None:
+    def __init__(self, browser :str = "e", destination_url :str = None) -> None:
         if destination_url == None or destination_url.find(BASE_MRVN_URL) == -1:
             raise ValueError("Invalid url passed use -h for help")
         match browser:
@@ -94,7 +94,7 @@ class parser:
 
 #endregion
 
-def get_mrvn_test(browser : str, url : str):
+def get_mrvn_test(browser :str, url :str):
     scrapper = mrvn_scrapper(browser=browser, destination_url=url)
     scrapper.search()
     scrapper.login()

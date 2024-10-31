@@ -7,5 +7,6 @@ Arguments:
     -url    => url d'une mouli du projet
     -p      => nombre de personnes sur le projet
     -t      => temp en semaines pour le projet
+    -cp     => Copy to clipboard 
 
 Permet de créer un Readme qui suis les normes établies pour les projet uniquement

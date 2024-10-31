@@ -53,11 +53,11 @@ class Data:
     duration: int
     floating: bool
     seed: int
-    path: str
+    path:str
     max_speed: int
     min_speed: int
     spawn: bool
-    output: str
+    output:str
 
 
 class TooManyTowersException(Exception):
@@ -91,7 +91,7 @@ class CustomHelpFormatter(argparse.ArgumentDefaultsHelpFormatter):
     Class meant to overload the HelpFormatter class from the argparse lib
     Is mainly used to make a beautiful --help
     """
-    def __init__(self, prog: str) -> None:
+    def __init__(self, prog:str) -> None:
         """Calls original constructor with custom arguments"""
         super().__init__(prog, max_help_position=10, width=80)
 
@@ -103,11 +103,11 @@ class CustomHelpFormatter(argparse.ArgumentDefaultsHelpFormatter):
         """
         if not action.option_strings or action.nargs == 0:
             return super()._format_action_invocation(action)
-        default: str = self._get_default_metavar_for_optional(action)
-        args_string: str = self._format_args(action, default)
+        default:str = self._get_default_metavar_for_optional(action)
+        args_string:str = self._format_args(action, default)
         return ', '.join(action.option_strings) + ' ' + args_string
 
-    def _fill_text(self, text: str, width: int, indent: str) -> str:
+    def _fill_text(self, text:str, width: int, indent:str) -> str:
         """
         Re-write of the function used to format epilog & description arguments
 
@@ -196,7 +196,7 @@ class Towers:
         """
         return '\n'.join(['T ' + ' '.join(map(str, tower)) for tower in self._towers])
 
-    def __get_towers_file(self, path: str) -> list[list[int]]:
+    def __get_towers_file(self, path:str) -> list[list[int]]:
         """
         Retrives the towers in a file passed as argument
 
