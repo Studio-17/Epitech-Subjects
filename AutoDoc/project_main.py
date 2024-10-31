@@ -1,5 +1,5 @@
 import src.auto_doc as doc
-import src.enum.type_enum as enum
+import AutoDoc.src.type_enum as enum
 
 def main():
     doc.main(enum.type_enum.PROJECT)

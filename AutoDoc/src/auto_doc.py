@@ -13,7 +13,7 @@ CURRENT_DIR = os.getcwd()
 if(CURRENT_DIR != SOURCE_DIR):
     sys.path.append(os.path.dirname(__file__))
 
-import src.enum.type_enum as enum
+import type_enum as enum
 import writter
 import param
 #endregion
@@ -36,8 +36,7 @@ def main(doc_type : enum.type_enum):
             case enum.type_enum.PROJECT.value:
                 doc = writter.project_writer(readme, REPO_BASE_LINK)
             case enum.type_enum.MODULE.value:
-                #TODO write module content
-                return 0
+                doc = writter.module_writer(readme, REPO_BASE_LINK)
             case enum.type_enum.SEMESTER.value:
                 #TODO write semester content
                 return 0

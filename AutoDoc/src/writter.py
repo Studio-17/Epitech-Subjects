@@ -1,11 +1,10 @@
-import AutoDoc.src.scrapper as mrvn
-import src.enum.type_enum  as enum
+import scrapper
+import type_enum  as enum
 import os
 
 class writer:
     def __init__(self, readme, repo_base_path :str) -> None:
         self.readme = readme
-        
         self.repo_base = repo_base_path
 
     def _get_github_path(self, dir_path :str, file :str, isdir : bool = False) ->str:
@@ -96,7 +95,7 @@ class project_writer(writer):
     def __write_table_end(self) -> None:
         self.readme.write('\n\t</tbody>\n</table>\n')
 
-    def __write_one_test_cat(self, test_cat : mrvn.test_category) -> None:
+    def __write_one_test_cat(self, test_cat : scrapper.test_category) -> None:
         self.readme.write(f"""
         <tr>
             <td rowspan="{test_cat.test_amount}">{test_cat.name}</td>
@@ -111,7 +110,7 @@ class project_writer(writer):
         return 0
 
     def __write_unit_tests(self, browser :str, url:str):
-        test_cats = mrvn.get_mrvn_test(browser, url)
+        test_cats = scrapper.get_mrvn_test(browser, url)
         if test_cats == None or len(test_cats) == 0:
             return
         self.__write_table_head()
@@ -141,3 +140,54 @@ class project_writer(writer):
 class module_writer(writer):
     def __init__(self, readme, repo_base_path: str) -> None:
         super().__init__(readme, repo_base_path)
+
+    def __write_head_table(self):
+        self.readme.write("""
+<table align="center">
+    <thead>
+        <tr>
+            <th>PROJETS</th>
+            <th>TIMELINE</th>
+        </tr>
+    </thead>
+    <tbody>""")
+        
+    def __write_end_table(self):
+        self.readme.write("""
+    </tbody>
+</table>""")
+    
+    def __write_one_project(self, project_path):
+        files = os.listdir(project_path)
+        project_name = None
+        project_time = None
+        for file in files:
+            if file != "README.md":
+                continue
+            file_path = f"{project_path}/{file}"
+            with open (file_path, 'r', encoding='utf-8') as project_readme:
+                content = project_readme.read()
+            project_name = content[content.find("# ") + 2:content.find("\n")]
+            project_time = content[content.find("> Timeline: ") + len("> Timeline: "):].split("\n", 1)[0]
+            break
+        if (project_name != None and project_time != None):
+            self.readme.write(f"""
+        <tr>
+            <td><a href="{self._get_github_path(project_path, "", True)}">{project_name}</a></td>
+            <td align="center">{project_time}</td>
+        </tr>""")
+
+
+    def __write_project_list(self, destination_path):
+        self.__write_head_table()
+        files = os.listdir(destination_path)
+        for file in files:
+            file_path = f"{destination_path}/{file}"
+            if os.path.isdir(file_path):
+                self.__write_one_project(file_path)
+        self.__write_end_table()
+        self._write_break(1)
+
+    def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
+        self.__write_project_list(destination_path)
+        self._write_footer(destination_path, enum.type_enum.PROJECT)
