@@ -50,6 +50,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="https://github.com/Kaiwinta/Epitech-Subjects/blob/feat/Pge2028-first-year/assets/voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../../assets/voc17.gif" width="40"></a>
 
 </div>

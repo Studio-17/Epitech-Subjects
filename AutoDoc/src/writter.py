@@ -11,6 +11,10 @@ class writer:
         rel_path = dir_path.split("Epitech-Subjects/")[1] + "/" + file
         link = self.repo_base + ("tree" if isdir else "blob") + "/main/" + rel_path
         return link
+
+    def _get_gif_relative_path( dir_path :str) ->str:
+        test = "../" * dir_path.split("Epitech-Subjects")[1].count('/') + "assets/voc17.gif"
+        return test
     
     def write(self) -> int:
         """
@@ -35,7 +39,7 @@ class writer:
 
         self._write_break(1)
 
-        footer = '---\n\n<div align="center">\n\n<a href="https://github.com/Studio-17" target="_blank"><img src="https://github.com/Kaiwinta/Epitech-Subjects/blob/feat/Pge2028-first-year/assets/voc17.gif" width="40"></a>\n\n</div>'
+        footer = f'---\n\n<div align="center">\n\n<a href="https://github.com/Studio-17" target="_blank"><img src="{self._get_gif_relative_path(destination_path)}" width="40"></a>\n\n</div>'
         self.readme.write(footer)
     #endregion
 
