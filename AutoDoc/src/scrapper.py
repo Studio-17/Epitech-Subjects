@@ -62,6 +62,8 @@ class scrapper:
         self.driver = None
 
 class mrvn_scrapper(scrapper):
+
+    
     def __init__(self, browser :str = "e", destination_url :str = None) -> None:
         if destination_url == None or destination_url.find(BASE_MRVN_URL) == -1:
             raise ValueError("Invalid url passed use -h for help")

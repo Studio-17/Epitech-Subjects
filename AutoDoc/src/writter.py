@@ -1,4 +1,4 @@
-import mrvn_scrapper as mrvn
+import AutoDoc.src.scrapper as mrvn
 import src.enum.type_enum  as enum
 import os
 
@@ -36,7 +36,7 @@ class writer:
 
         self._write_break(1)
 
-        footer = '---\n\n<div align="center">\n\n<a href="https://github.com/Studio-17" target="_blank"><img src="../../../assets/voc17.gif" width="40"></a>\n\n</div>'
+        footer = '---\n\n<div align="center">\n\n<a href="https://github.com/Studio-17" target="_blank"><img src="https://github.com/Kaiwinta/Epitech-Subjects/blob/feat/Pge2028-first-year/assets/voc17.gif" width="40"></a>\n\n</div>'
         self.readme.write(footer)
     #endregion
 
