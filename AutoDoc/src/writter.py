@@ -145,6 +145,9 @@ class module_writer(writer):
     def __init__(self, readme, repo_base_path: str) -> None:
         super().__init__(readme, repo_base_path)
 
+    def __write_module_details(self, browser :str, url :str):
+        details = scrapper.get_module_details(browser, url)
+
     def __write_head_table(self):
         self.readme.write("""
 <table align="center">
@@ -200,6 +203,7 @@ class module_writer(writer):
         self._write_break()
 
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
+        self.__write_module_details(browser, url)
         self.__write_header(destination_path)
         self.__write_project_list(destination_path)
         self._write_footer(destination_path, enum.type_enum.MODULE)

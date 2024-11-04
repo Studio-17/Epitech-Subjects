@@ -6,6 +6,8 @@ import param
 
 EPI_DOMAIN_NAME = "@epitech.eu" 
 BASE_MRVN_URL = "https://my.epitech.eu"
+BASE_INTRA_URL = "https://intra.epitech.eu"
+BASE_MICROSOFT_LOGIN_URL = "https://login.microsoftonline.com"
 # Dictionnaire des flags avec un id dans les resultat
 VALID_FLAGS = {"-h" : -1, "-b" : 0, '-url' : 1}
 
@@ -22,6 +24,29 @@ class scrapper:
             case "c":
                 self.driver = webdriver.Chrome()
         self.destination_url = destination_url
+
+    def _click_button(self, by : By, value :str, max_iteration :int = 10):
+        iteration = 0
+        clicked = False
+        while(iteration < max_iteration and clicked == False):
+            iteration += 1
+            try:
+                button = self.driver.find_element(by, value)
+                button.click()
+                clicked = True
+            except:
+                time.sleep(0.5)
+        if clicked == False:
+            exit(1)
+        
+    def _check_url(self, destination_url: str):
+        iteration = 0
+        # Vérification du changement de page
+        while (self.driver.current_url.find(destination_url) == -1 and iteration < 20):
+            time.sleep(0.5)
+            iteration += 1
+        if (self.driver.current_url.find(destination_url) == -1):
+            exit(1)
 
     def scrape(self):
         self._search()
@@ -51,6 +76,32 @@ class scrapper:
             Overrided by other scrapper
         """
         raise NotImplementedError()
+    
+    def _select_epi_account(self, base_url : str):
+        # On attends d'être sur la page de login
+        self._check_url(BASE_MICROSOFT_LOGIN_URL)
+        iteration = 0
+        clicked = False
+
+        # Récupération du bouton une fois la page chargée
+        while (clicked == False and iteration < 20):
+            iteration += 1
+            try:
+                # Récupération de tout les comptes microsoft enregistré
+                all_accounts = self.driver.find_elements(By.CSS_SELECTOR, ".table")
+                valid_account = next((x for x in all_accounts if x.accessible_name.find(EPI_DOMAIN_NAME) != -1), None)
+                if (valid_account == None):
+                    time.sleep(0.5)
+                    continue
+                valid_account.click()
+                clicked = True
+            except:
+                time.sleep(0.5)
+        if (clicked == False):
+            exit(1)
+
+        # Vérification du retour à l'url de base
+        self._check_url(base_url)
 
     def _search(self):
         self._check_driver()
@@ -69,28 +120,9 @@ class mrvn_scrapper(scrapper):
 
     def _login(self):
         self._check_driver()
-        try:
-            # Récupération du bouton de login de la page
-            login_button = self.driver.find_element(By.XPATH, "/html/body/div/div/a")
-            login_button.click()
-        except:
-            pass
-        time.sleep(3)
+        self._click_button(By.XPATH, "/html/body/div/div/a")
         # Vérification de la page actuelle
-        if (self.driver.current_url.find(BASE_MRVN_URL) == -1):
-            try:
-                # Récupération de tout les comptes microsoft enregistré
-                all_accounts = self.driver.find_elements(By.CSS_SELECTOR, ".table")
-                valid_account = next((x for x in all_accounts if x.accessible_name.find(EPI_DOMAIN_NAME) != -1), None)
-                if (valid_account == None):
-                    exit(1)
-                valid_account.click()
-            except:
-                exit(1)
-        time.sleep(3)
-        # Vérification de la page actuelle
-        if (self.driver.current_url.find(BASE_MRVN_URL) == -1):
-            exit(1)
+        self._select_epi_account(BASE_MRVN_URL)
 
     def _get_desired_content(self) -> list[list[str]]:
         test_cells = self.driver.find_elements(By.CSS_SELECTOR, ".skill-cell.mdl-grid")
@@ -119,6 +151,22 @@ class test_category:
         self.test_names = [self.rest[i] for i in range(len(self.rest)) if (i + 1) in arrow_id]
 #endregion
 
+class intra_scraped(scrapper):
+    def __init__(self, browser: str = "e", destination_url: str = None) -> None:
+        if destination_url == None or destination_url.find(BASE_INTRA_URL) == -1:
+            raise ValueError("Invalid url passed use -h for help")
+        super().__init__(browser, destination_url)
+    
+    def _login(self):
+        self._check_driver()
+        self._click_button(By.CSS_SELECTOR, ".login-student", max_iteration=20) # Longer because of DDOS security
+        self._select_epi_account(BASE_MRVN_URL)
+        time.sleep(200)
+
 def get_mrvn_test(browser :str, url :str):
     scrapper = mrvn_scrapper(browser=browser, destination_url=url)
+    return scrapper.scrape()
+
+def get_module_details(browser :str, url :str):
+    scrapper = intra_scraped(browser=browser, destination_url=url)
     return scrapper.scrape()

@@ -27,6 +27,8 @@ def main(doc_type : enum.type_enum):
     (browser, url, person, time, copy) = param.parse_param(sys.argv, VALID_FLAGS, "auto_doc")
     destination_path = filedialog.askdirectory(initialdir=CURRENT_DIR)
 
+    if (os.path.exists(destination_path) == False):
+        exit(84)
     if (type(copy) is bool and copy == True):
         filename = "README" + str(datetime.now().timestamp()) + ".md"
 
