@@ -65,7 +65,7 @@
 
 [↩️ Revenir au Semester-2](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2)
 
-[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects/)
+[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
 <br>
 

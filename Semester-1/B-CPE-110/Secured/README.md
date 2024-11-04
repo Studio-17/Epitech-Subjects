@@ -160,7 +160,7 @@
 
 [↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1)
 
-[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects/)
+[↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
 <br>
 

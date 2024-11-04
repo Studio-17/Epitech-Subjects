@@ -12,7 +12,7 @@ class writer:
         link = self.repo_base + ("tree" if isdir else "blob") + "/main/" + rel_path
         return link
 
-    def _get_gif_relative_path( dir_path :str) ->str:
+    def _get_gif_relative_path(self, dir_path :str) ->str:
         test = "../" * dir_path.split("Epitech-Subjects")[1].count('/') + "assets/voc17.gif"
         return test
     
@@ -24,11 +24,11 @@ class writer:
 
     #region Footer
     def _write_footer(self, destination_path :str, type : enum.type_enum):
-        github_path = self._get_github_path(destination_path, "README.md")
+        github_path = self._get_github_path(destination_path, "README.md", isdir=True)
         module_path = github_path[:github_path.find("/", github_path.find("/B-") + 1)]
         semester_path = github_path[:github_path.find("/", github_path.find("/Semester-") + 1)]
         semester_name = semester_path[github_path.find("/", github_path.find("/Semester-")) + 1: ]
-        home_path = self.repo_base
+        home_path = self.repo_base[:-1]
 
         if (type.value >= enum.type_enum.PROJECT.value):
             self.readme.write(f"[↩️ Revenir au module]({module_path})\n\n")
@@ -37,13 +37,13 @@ class writer:
         if (type.value >= enum.type_enum.SEMESTER.value):
             self.readme.write(f"[↩️ Revenir à l'accueil]({home_path})\n")
 
-        self._write_break(1)
+        self._write_break()
 
         footer = f'---\n\n<div align="center">\n\n<a href="https://github.com/Studio-17" target="_blank"><img src="{self._get_gif_relative_path(destination_path)}" width="40"></a>\n\n</div>'
         self.readme.write(footer)
     #endregion
 
-    def _write_break(self, amount : int):
+    def _write_break(self, amount : int = 1):
         break_lines = '\n<br>\n\n' * amount
         self.readme.write(break_lines)
 
@@ -77,7 +77,7 @@ class project_writer(writer):
             if is_dir and (identation_level + 1 <= max_identation or max_identation == -1):
                 self.__write_directory_content(file_path, identation_level + 1)
         if (identation_level == 0):
-            self._write_break(1)
+            self._write_break()
     #endregion
     
     #region UnitTests
@@ -121,7 +121,7 @@ class project_writer(writer):
         for test_cat in test_cats:
             self.__write_one_test_cat(test_cat)
         self.__write_table_end()
-        self._write_break(1)
+        self._write_break()
     #endregion
 
     #region Project Details
@@ -138,7 +138,7 @@ class project_writer(writer):
         self.readme.write(f"# {project_name}\n\n")
         self.readme.write(f"> Timeline: {time} semaines\n\n")
         self.readme.write(f"> Nombre de personnes sur le projet: {person}\n")
-        self._write_break(1)
+        self._write_break()
     #endregion
 
 class module_writer(writer):
@@ -181,6 +181,13 @@ class module_writer(writer):
             <td align="center">{project_time}</td>
         </tr>""")
 
+    def __write_header(self, destination_path):
+        self.readme.write(f"# {destination_path.split('/')[-1]}\n\n")
+        self.readme.write("> Crédits disponibles: ?")
+        self._write_break()
+        self.readme.write("## Description du module\n\n")
+        self.readme.write("## Compétences à acquerir")
+        self._write_break()
 
     def __write_project_list(self, destination_path):
         self.__write_head_table()
@@ -190,8 +197,9 @@ class module_writer(writer):
             if os.path.isdir(file_path):
                 self.__write_one_project(file_path)
         self.__write_end_table()
-        self._write_break(1)
+        self._write_break()
 
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
+        self.__write_header(destination_path)
         self.__write_project_list(destination_path)
-        self._write_footer(destination_path, enum.type_enum.PROJECT)
+        self._write_footer(destination_path, enum.type_enum.MODULE)
