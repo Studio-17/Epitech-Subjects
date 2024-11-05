@@ -147,6 +147,12 @@ class module_writer(writer):
 
     def __write_module_details(self, browser :str, url :str):
         details = scrapper.get_module_details(browser, url)
+        self.readme.write(f"# {details.name}  ({details.shortname})\n\n")
+        self.readme.write(f"> Crédits disponibles: {details.credits}")
+        self._write_break()
+        self.readme.write(f"## {details.description}\n\n")
+        self.readme.write(f"## {details.competences}")
+        self._write_break()
 
     def __write_head_table(self):
         self.readme.write("""
@@ -184,14 +190,6 @@ class module_writer(writer):
             <td align="center">{project_time}</td>
         </tr>""")
 
-    def __write_header(self, destination_path):
-        self.readme.write(f"# {destination_path.split('/')[-1]}\n\n")
-        self.readme.write("> Crédits disponibles: ?")
-        self._write_break()
-        self.readme.write("## Description du module\n\n")
-        self.readme.write("## Compétences à acquerir")
-        self._write_break()
-
     def __write_project_list(self, destination_path):
         self.__write_head_table()
         files = os.listdir(destination_path)
@@ -204,6 +202,5 @@ class module_writer(writer):
 
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
         self.__write_module_details(browser, url)
-        self.__write_header(destination_path)
         self.__write_project_list(destination_path)
         self._write_footer(destination_path, enum.type_enum.MODULE)

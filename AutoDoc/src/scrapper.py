@@ -2,14 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 from sys import argv
-import param
 
 EPI_DOMAIN_NAME = "@epitech.eu" 
 BASE_MRVN_URL = "https://my.epitech.eu"
 BASE_INTRA_URL = "https://intra.epitech.eu"
 BASE_MICROSOFT_LOGIN_URL = "https://login.microsoftonline.com"
-# Dictionnaire des flags avec un id dans les resultat
-VALID_FLAGS = {"-h" : -1, "-b" : 0, '-url' : 1}
 
 #region Scrapper Definition
 class scrapper:
@@ -38,6 +35,18 @@ class scrapper:
                 time.sleep(0.5)
         if clicked == False:
             exit(1)
+
+    def _get_content(self, by : By, value :str, max_iteration :int = 10) -> str:
+        iteration = 0
+        clicked = False
+        while(iteration < max_iteration and clicked == False):
+            iteration += 1
+            try:
+                button = self.driver.find_element(by, value)
+                return button.text
+            except:
+                time.sleep(0.5)
+        exit(1)
         
     def _check_url(self, destination_url: str):
         iteration = 0
@@ -111,7 +120,9 @@ class scrapper:
         time.sleep(3)
         self.driver.quit()
         self.driver = None
+#endregion
 
+#region Marvin Scrapper
 class mrvn_scrapper(scrapper):
     def __init__(self, browser :str = "e", destination_url :str = None) -> None:
         if destination_url == None or destination_url.find(BASE_MRVN_URL) == -1:
@@ -151,17 +162,45 @@ class test_category:
         self.test_names = [self.rest[i] for i in range(len(self.rest)) if (i + 1) in arrow_id]
 #endregion
 
+#region Intra Scrapper
 class intra_scraped(scrapper):
     def __init__(self, browser: str = "e", destination_url: str = None) -> None:
         if destination_url == None or destination_url.find(BASE_INTRA_URL) == -1:
             raise ValueError("Invalid url passed use -h for help")
         super().__init__(browser, destination_url)
-    
+
     def _login(self):
         self._check_driver()
         self._click_button(By.CSS_SELECTOR, ".login-student", max_iteration=20) # Longer because of DDOS security
-        self._select_epi_account(BASE_MRVN_URL)
-        time.sleep(200)
+        self._select_epi_account(BASE_INTRA_URL)
+    
+    def _get_desired_content(self):
+        details = self._get_content(By.CSS_SELECTOR, ".item.title")
+        self._click_button(By.CSS_SELECTOR, ".button.hide.module")
+        time.sleep(0.5)
+        description = self._get_content(By.CSS_SELECTOR, ".item.desc")
+        competences = self._get_content(By.CSS_SELECTOR, ".item.competences")
+        return [details, description, competences]
+    
+    def _parse_content(self, content):
+        module = module_intra(content[0])
+        #TODO Voir pour faire de la traduction avec googletrans
+        module.description = content[1]
+        module.competences = content[2]
+        return module
+#endregion
+
+#region Intra module
+class module_intra:
+    def __init__(self, module_details :str) -> None:
+        splitted = module_details.split(' (')
+        self.name = splitted[0]
+        self.shortname = splitted[1].split(')')[0]
+        self.instace = splitted[2].split(')')[0]
+        self.credits = splitted[3].split(')')[0]
+        self.description = ""
+        self.competences = ""
+#endregion
 
 def get_mrvn_test(browser :str, url :str):
     scrapper = mrvn_scrapper(browser=browser, destination_url=url)
