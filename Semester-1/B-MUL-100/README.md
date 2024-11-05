@@ -1,4 +1,4 @@
-# B-MUL-100
+# B1 - C Graphical Programming  (B-MUL-100)
 
 > Crédits disponibles: 5
 
@@ -50,6 +50,7 @@ Mathématiques
 
 <br>
 
+
 <table align="center">
     <thead>
         <tr>
@@ -59,31 +60,30 @@ Mathématiques
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/Bootstrap%20-%20Initiation--%20Installation">Bootstrap Initiation Installation</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/Bootstrap-Initiation--Installation/">Bootstrap Initiation Installation</a></td>
             <td align="center">1 semaine</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyHunter">MyHunter</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyHunter/">MyHunter</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyScreensaver">MyScreensaver</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyRadar/">MyRadar</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyRunner">MyRunner</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyRunner/">MyRunner</a></td>
             <td align="center">3 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyRadar">MyRadar</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyScreensaver/">MyScreensaver</a></td>
             <td align="center">3 semaines</td>
         </tr>
     </tbody>
 </table>
-
 <br>
 
-[↩️ Revenir au Semestre-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

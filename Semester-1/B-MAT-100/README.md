@@ -40,31 +40,38 @@ Vous serez noté sur les points suivants :
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/101pong">101pong</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/101pong/">101pong</a></td>
             <td align="center">2 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/102architect">102architect</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/102architect/">102architect</a></td>
             <td align="center">2 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/103cipher">103cipher</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/103cipher/">103cipher</a></td>
             <td align="center">2 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/104intersection">104intersection</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/104intersection/">104intersection</a></td>
             <td align="center">2 semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/105torus">105torus</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/104neutrinos/">104neutrinos</a></td>
+            <td align="center">2 semaines</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/105demography/">105demography</a></td>
+            <td align="center">2 semaines</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/105torus/">105torus</a></td>
             <td align="center">2 semaines</td>
         </tr>
     </tbody>
 </table>
-
 <br>
 
-[↩️ Revenir au Semestre-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

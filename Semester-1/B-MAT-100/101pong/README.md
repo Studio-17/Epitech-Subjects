@@ -1,6 +1,6 @@
 # 101pong
 
-> Timeline: 3 semaines
+> Timeline: 2 semaines
 
 > Nombre de personnes sur le projet: 2
 
