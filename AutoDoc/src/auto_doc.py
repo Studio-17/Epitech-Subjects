@@ -40,8 +40,7 @@ def main(doc_type : enum.type_enum):
             case enum.type_enum.MODULE.value:
                 doc = writter.module_writer(readme, REPO_BASE_LINK)
             case enum.type_enum.SEMESTER.value:
-                #TODO write semester content
-                return 0
+                doc = writter.semester_writer(readme, REPO_BASE_LINK)
         doc.write(destination_path, person, time, url, browser)
 
     if (type(copy) is bool and copy == True):

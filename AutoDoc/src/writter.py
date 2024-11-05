@@ -2,6 +2,7 @@ import scrapper
 import type_enum  as enum
 import os
 
+#region writer
 class writer:
     def __init__(self, readme, repo_base_path :str) -> None:
         self.readme = readme
@@ -22,7 +23,6 @@ class writer:
         """
         return 0
 
-    #region Footer
     def _write_footer(self, destination_path :str, type : enum.type_enum):
         github_path = self._get_github_path(destination_path, "README.md", isdir=True)
         module_path = github_path[:github_path.find("/", github_path.find("/B-") + 1)]
@@ -41,12 +41,13 @@ class writer:
 
         footer = f'---\n\n<div align="center">\n\n<a href="https://github.com/Studio-17" target="_blank"><img src="{self._get_gif_relative_path(destination_path)}" width="40"></a>\n\n</div>'
         self.readme.write(footer)
-    #endregion
 
     def _write_break(self, amount : int = 1):
         break_lines = '\n<br>\n\n' * amount
         self.readme.write(break_lines)
+#endregion
 
+#region Project writer
 class project_writer(writer):
     def __init__(self, readme, repo_base_path :str) -> None:
         super().__init__(readme, repo_base_path)
@@ -58,7 +59,6 @@ class project_writer(writer):
             self.__write_unit_tests(browser, url)
         self._write_footer(destination_path, enum.type_enum.PROJECT)
 
-    #region Directory Tree
     def __write_directory_content(self, dir_path :str, identation_level : int, max_identation : int = -1):
         is_first_file = identation_level == 0
         files = os.listdir(dir_path)
@@ -78,9 +78,7 @@ class project_writer(writer):
                 self.__write_directory_content(file_path, identation_level + 1)
         if (identation_level == 0):
             self._write_break()
-    #endregion
-    
-    #region UnitTests
+
     def __write_table_head(self) -> None:
         self.readme.write("""
 <table align="center">
@@ -122,9 +120,7 @@ class project_writer(writer):
             self.__write_one_test_cat(test_cat)
         self.__write_table_end()
         self._write_break()
-    #endregion
 
-    #region Project Details
     def __write_project_details(self, destination_path :str, person :str, time :str) -> None:
         project_name = destination_path.split("/")[-1]
         try:
@@ -139,9 +135,9 @@ class project_writer(writer):
         self.readme.write(f"> Timeline: {time} semaines\n\n")
         self.readme.write(f"> Nombre de personnes sur le projet: {person}\n")
         self._write_break()
-    #endregion
+#endregion
 
-#region Module details
+#region Module writer
 class module_writer(writer):
     def __init__(self, readme, repo_base_path: str) -> None:
         super().__init__(readme, repo_base_path)
@@ -206,4 +202,72 @@ class module_writer(writer):
             self.__write_module_details(browser, url)
         self.__write_project_list(destination_path)
         self._write_footer(destination_path, enum.type_enum.MODULE)
+#endregion
+
+#region Semester writer
+class semester_writer(writer):
+    def __init__(self, readme, repo_base_path: str) -> None:
+        super().__init__(readme, repo_base_path)
+
+    def __write_header(self, destination_path :str):
+        semester_nb = destination_path.split("/")[-1].split("-")[1]
+        self.readme.write(f"# Semestre {semester_nb}")
+        self.readme.write(f"\n\n>  Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables durant le semestre {semester_nb}")
+        self._write_break()
+    
+    def __write_table_head(self):
+        self.readme.write("""
+<table align="center">
+    <thead>
+        <tr>
+            <th>MODULE</th>
+            <th>CREDITS</th>
+            <th>PROJETS</th>
+        </tr>
+    </thead>
+    <tbody>""")
+        
+    def __write_table_end(self):
+        self.readme.write("""
+    </tbody>
+</table>""")
+        self._write_break()
+
+    def __write_one_module(self, module_path :str, module_name :str):
+        projects = os.listdir(module_path)
+        projects = [project for project in projects if os.path.isdir(module_path + '/' + project)]
+        nb_projects = len(projects)
+        credits = "?"
+        try:
+            with open(module_path + "/README.md", 'r', encoding="utf-8") as module_readme:
+                content = module_readme.read()
+                credits = content.split("> Crédits disponibles: ")[1].split("\n")[0]
+        except:
+            pass
+        self.readme.write(f"""
+        <tr>
+            <td rowspan="{nb_projects}" style="text-align: center;"><a href="{self._get_github_path(module_path, "", isdir=True)}">{module_name}</a></td>
+            <td rowspan="{nb_projects}">{credits}</td>
+            <td><a href="{self._get_github_path(module_path, projects[0], isdir=True)}">{projects[0]}</a></td>
+        </tr>""")
+        projects = projects[1:]
+        for project in projects:
+            self.readme.write(f"""
+        <tr>
+            <td><a href="{self._get_github_path(module_path, project, isdir=True)}">{project}</a></td>
+        </tr>""")
+
+    def __write_modules(self, destination_path :str):
+        files = os.listdir(destination_path)
+        for module in files:
+            module_path = destination_path + "/" + module
+            if os.path.isdir(module_path):
+                self.__write_one_module(module_path, module)
+
+    def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
+        self.__write_header(destination_path)
+        self.__write_table_head()
+        self.__write_modules(destination_path)
+        self.__write_table_end()
+        self._write_footer(destination_path, enum.type_enum.SEMESTER)
 #endregion
