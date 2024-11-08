@@ -1,17 +1,17 @@
-# Palindrome
+# FairePréciser
 
-> Timeline: 1 semaines
+> Timeline: 3 semaines
 
 > Nombre de personnes sur le projet: 1
 
 <br>
 
-📂---[Palindrome.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-SYN-200/Palindrome/Palindrome.pdf)
+📂---[B2-P2-Faire-preciser-consignes.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-PRO-200/FairePréciser/B2-P2-Faire-preciser-consignes.pdf)
 
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-SYN-200)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-PRO-200)
 
 [↩️ Revenir au Semester-2](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2)
 
