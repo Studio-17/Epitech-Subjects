@@ -8,11 +8,15 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/Malloc/">Malloc</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PRO-400/Back_in_line/">Back_in_line</a></td>
             <td align="center">? semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/NmObjdump/">NmObjdump</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PRO-400/Experience_report/">Experience_report</a></td>
+            <td align="center">? semaines</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PRO-400/Slideshow/">Slideshow</a></td>
             <td align="center">? semaines</td>
         </tr>
     </tbody>

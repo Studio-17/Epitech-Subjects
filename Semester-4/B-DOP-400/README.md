@@ -8,11 +8,11 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/Malloc/">Malloc</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-DOP-400/My_marvin/">My_marvin</a></td>
             <td align="center">? semaines</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/NmObjdump/">NmObjdump</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-DOP-400/My_octopus/">My_octopus</a></td>
             <td align="center">? semaines</td>
         </tr>
     </tbody>

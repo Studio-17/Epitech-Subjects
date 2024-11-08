@@ -12,14 +12,7 @@
             "console": "integratedTerminal",
             "args": [
                 "-b",
-                "e",
-                "-p",
-                "1",
-                "-t",
-                "3",
-                "-cp",
-                "-url",
-                "https://intra.epitech.eu/module/2023/B-MUL-100/STG-1-1/#!/all"
+                "e"
             ]
         },
         {
@@ -57,9 +50,6 @@
             "args": [
                 "-b",
                 "e",
-                "-h",
-                "-url",
-                "https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804"
             ]
         },
     ]
