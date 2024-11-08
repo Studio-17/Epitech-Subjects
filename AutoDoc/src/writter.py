@@ -4,8 +4,9 @@ import os
 
 #region writer
 class writer:
-    def __init__(self, readme, repo_base_path :str) -> None:
+    def __init__(self, readme, file_name, repo_base_path :str) -> None:
         self.readme = readme
+        self.file_name = file_name
         self.repo_base = repo_base_path
 
     def _get_github_path(self, dir_path :str, file :str, isdir : bool = False) ->str:
@@ -49,8 +50,8 @@ class writer:
 
 #region Project writer
 class project_writer(writer):
-    def __init__(self, readme, repo_base_path :str) -> None:
-        super().__init__(readme, repo_base_path)
+    def __init__(self, readme, file_name, repo_base_path :str) -> None:
+        super().__init__(readme, file_name, repo_base_path)
     
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
         self.__write_project_details(destination_path, person, time)
@@ -63,7 +64,7 @@ class project_writer(writer):
         is_first_file = identation_level == 0
         files = os.listdir(dir_path)
         for file in files:
-            if file == "README.md":
+            if file == self.file_name:
                 continue
             file_path = dir_path + "/" + file
             is_dir = os.path.isdir(file_path)
@@ -139,8 +140,8 @@ class project_writer(writer):
 
 #region Module writer
 class module_writer(writer):
-    def __init__(self, readme, repo_base_path: str) -> None:
-        super().__init__(readme, repo_base_path)
+    def __init__(self, readme, file_name, repo_base_path: str) -> None:
+        super().__init__(readme, file_name, repo_base_path)
 
     def __write_module_details(self, browser :str, url :str):
         details = scrapper.get_module_details(browser, url)
@@ -206,8 +207,8 @@ class module_writer(writer):
 
 #region Semester writer
 class semester_writer(writer):
-    def __init__(self, readme, repo_base_path: str) -> None:
-        super().__init__(readme, repo_base_path)
+    def __init__(self, readme, file_name, repo_base_path: str) -> None:
+        super().__init__(readme, file_name, repo_base_path)
 
     def __write_header(self, destination_path :str):
         semester_nb = destination_path.split("/")[-1].split("-")[1]

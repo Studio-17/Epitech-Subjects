@@ -60,6 +60,7 @@ class scrapper:
     def scrape(self):
         self._search()
         self._login()
+        time.sleep(1)
         content = self._get_desired_content()
         self._quit_driver()
         return self._parse_content(content)

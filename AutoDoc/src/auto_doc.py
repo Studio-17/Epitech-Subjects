@@ -36,11 +36,11 @@ def main(doc_type : enum.type_enum):
         doc = None
         match(doc_type.value):
             case enum.type_enum.PROJECT.value:
-                doc = writter.project_writer(readme, REPO_BASE_LINK)
+                doc = writter.project_writer(readme, filename, REPO_BASE_LINK)
             case enum.type_enum.MODULE.value:
-                doc = writter.module_writer(readme, REPO_BASE_LINK)
+                doc = writter.module_writer(readme, filename, REPO_BASE_LINK)
             case enum.type_enum.SEMESTER.value:
-                doc = writter.semester_writer(readme, REPO_BASE_LINK)
+                doc = writter.semester_writer(readme, filename, REPO_BASE_LINK)
         doc.write(destination_path, person, time, url, browser)
 
     if (type(copy) is bool and copy == True):
