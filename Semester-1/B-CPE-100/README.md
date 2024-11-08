@@ -1,35 +1,32 @@
-# B-CPE-100
+# B1 - Unix & C Lab Seminar  (Part I)
 
-> Crédits disponibles: 4
-
+> Crédits disponibles: 4 crédits
 <br>
 
 ## Description du module
+The C Pool is the foundation of the Epitech curriculum.
 
-Le C Pool est le socle du cursus Epitech.
+ON THE AGENDA: UNIX shell, C language, school life
 
-A L'AGENDA : shell UNIX, langage C, vie scolaire
+- Basics of UNIX system utilization, fundamental elements of C language, Makefiles and a few data structures. All of the materials are available in video format. Assistants (the Asteks/AER) are here to help you. 
 
-- Notions de base sur l'utilisation du système UNIX, éléments fondamentaux du langage C, Makefiles et quelques structures de données. Tous les documents sont disponibles en format vidéo. Les assistants (les Asteks) sont là pour vous aider.
+- Regular hands-on workshops that will enable you to apply the initial concepts you will have acquired, and especially enable you to start forming your own hypotheses and to start performing tests in order to find solutions. Just so you know, the course does not explain how to solve the exercise.  
 
-- Des ateliers pratiques réguliers qui vous permettront d'appliquer les concepts initiaux que vous aurez acquis, et surtout vous permettront de commencer à formuler vos propres hypothèses et de commencer à effectuer des tests afin de trouver des solutions. Juste pour que vous le sachiez, le cours n'explique pas comment résoudre l'exercice.
+- Also, in order to avoid losing your rhythm over the weekend:
+  * Rush: a type of mini-project to be completed in small groups
 
-- Aussi, afin d'éviter de perdre le rythme le week-end :
-  - Rush : un type de mini-projet à réaliser en petits groupes
+This very first unit is important. It marks the beginning of  a new educational approach; a new way of working. Keep in mind the school’s objective: to  transform you into innovative and in-demand professionals. As long as you settle for learning existing solutions found by others, you will never ne capable of becoming inventive.  Starting with the very first C-Pool exercise that you will be asked to submit, you will not have all of the key elements  nor will you have mastered all of the tools. You will have to form hypotheses, run tests, and compare notes with classmates in order to share ideas. You won't learn anything if we give you the solution. 
 
-Cette toute première unité est importante. Elle marque le début d'une nouvelle approche pédagogique ; une nouvelle façon de travailler. Gardez à l'esprit l'objectif de l'école : vous transformer en des professionnels innovants et recherchés. Tant que vous vous contenterez d'apprendre des solutions existantes trouvées par d'autres, vous ne serez jamais capable de devenir inventif. Dès le tout premier exercice C-Pool qu'il vous sera demandé de soumettre, vous n'aurez pas tous les éléments clés et vous n'aurez pas maîtrisé tous les outils. Vous devrez formuler des hypothèses, effectuer des tests et comparer des notes avec des camarades de classe afin de partager des idées. Vous n'apprendrez rien si nous vous donnons la solution.
-
-## Compétences à acquerir
-
-- Être capable d'utiliser correctement l'environnement UNIX pour toutes les opérations courantes liées au curriculum (courriels, web, système de fichiers, édition de fichiers, programmation, etc.).
-- Être capable de produire des programmes C simples tout en respectant la syntaxe et les instructions données - comme les enseignants et les assistants.
-- Être capable de soumettre un projet correct quand/où cela est nécessaire.
-- Être capable de faire preuve d'un haut niveau d'engagement et de suivre les règles pendant toute la durée du C-Pool
-- S'installer et trouver des partenaires de travail
-- Exécuter de manière indépendante des analyses et des conceptions dans un contexte de machine d'examen
-- Gérer pour comprendre les problèmes liés au travail de groupe
-
+## Compétences à acquérir
+ - Be able to correctly use the UNIX environment for all common operations related to the curriculum (e-mails, web, file system, file editing, programming, etc.).
+ - Be able to produce simple C programs while respecting the given syntax and instructions - like teachers and assistants.
+ - Be able to submit a correct project when/where its required.
+ - Be able to show a high level of commitment and to follow the rules throughout the entire duration of the C-Pool
+ - Settle in and find work partners
+ - Independently execute analyses and designs within an exam machine context
+ - Manage to understand the problems associated with group work
 <br>
+
 
 <table align="center">
     <thead>
@@ -41,7 +38,7 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
     <tbody>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Count_island/">Count_island</a></td>
-            <td align="center">3 semaines</td>
+            <td align="center">1 semaines</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Firtree/">Firtree</a></td>
@@ -53,15 +50,15 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Pool/">Pool</a></td>
-            <td align="center">12 jours</td>
+            <td align="center">Timeline totale des projets: 12 jours</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Rushs/">Rushs</a></td>
-            <td align="center">2 jours</td>
+            <td align="center">Timeline totale des projets: 2 jours</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Star/">Star</a></td>
-            <td align="center">3 semaines</td>
+            <td align="center">1 semaines</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/WorkshopLib/">WorkshopLib</a></td>
@@ -71,7 +68,7 @@ Cette toute première unité est importante. Elle marque le début d'une nouvell
 </table>
 <br>
 
-[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

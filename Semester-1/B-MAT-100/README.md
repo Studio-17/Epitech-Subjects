@@ -1,35 +1,28 @@
-# B-MAT-100
+# B1 - Mathematics  (B-MAT-100)
 
-> Crédits disponibles: 2
-
+> Crédits disponibles: 2 crédits
 <br>
 
 ## Description du module
+The first part of this unit focuses on mathematical tools. This unit is a complementary introduction to programming (reviewing some of the Pool’s elements) and is also an introduction to scientific programming. 
 
-La première partie de cette unité porte sur les outils mathématiques. Cette unité est une introduction complémentaire à la programmation (passage en revue de certains éléments du bassin) et est également une introduction à la programmation scientifique.
+TOPICS COVERED:
+1° Linear algebra: vector analysis, matrix calculus.
+2° Geometry: geometric transformations and coordinate systems.
+3° Statistics
 
-SUJETS COUVERTS:
+## Compétences à acquérir
+A solid grasp on the basics of vector calculus and matric calculus.
+Must show ability to master simple algorithms.
 
-1° Algèbre linéaire : analyse vectorielle, calcul matriciel.
+Each project includes a certain number of skills to be acquired (3 to 5).
 
-2° Géométrie : transformations géométriques et systèmes de coordonnées.
-
-3° Résolution d'équations non linéaires.
-
-## Compétences à acquerir
-
-Une solide connaissance des bases du calcul vectoriel et du calcul matriciel.
-Doit montrer sa capacité à maîtriser des algorithmes simples.
-
-Chaque projet comprend un certain nombre de compétences à acquérir (3 à 5).
-
-Vous serez noté sur les points suivants :
-
-- le nombre de compétences validées
-- la qualité des présentations Pitch
-- précision
-
+You will be graded on the following:
+-the number of skills validated
+-the quality of Pitch presentations
+-accuracy
 <br>
+
 
 <table align="center">
     <thead>

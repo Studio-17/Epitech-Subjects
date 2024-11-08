@@ -1,53 +1,33 @@
 # B1 - C Graphical Programming  (B-MUL-100)
 
-> Crédits disponibles: 5
-
+> Crédits disponibles: 5 crédits
 <br>
 
 ## Description du module
+The graphical programming consists in creating images/animations and scenes management using algorithms and graphical resources.
 
-La programmation graphique consiste à créer des images/animations et une gestion de scènes à l'aide d'algorithmes et de ressources graphiques.
+This unit aims to initiate you into this domain and, in a medium run, to prepare yourself to the main issues of the MyRPG, which is the main project of this unit at the end of the year. 
+The two important axis of such a project are:
+1 - Graphical special effects generation, 2D/3D rendering, collision management, entity management, etc. being part of the mathematical component.
+2 - Gameplay, animations with sprites, virtual world coherence, lifespan of the game, etc. everything enhancing the "game" aspect.
 
-Cette unité a pour objectif de vous initier à ce domaine et, à moyen terme, de vous préparer aux principaux enjeux du MyRPG, qui est le projet principal de cette unité en fin d'année.
-Les deux axes importants d'un tel projet sont :
-1 - Génération d'effets spéciaux graphiques, rendu 2D/3D, gestion des collisions, gestion des entités, etc. faisant partie du volet mathématique.
-2 - Gameplay, animations avec sprites, cohérence du monde virtuel, durée de vie du jeu, etc. tout valorisant l'aspect "jeu".
+For the first unit, the projects are:
+- MyHunter: Game with a fixed camera, in which the player can shoot in some moving elements.
+- MyRadar: Collision detection between a large number of flying planes within a 2D space.
 
-Avant chaque projet, vous pouvez choisir de choisir le jeu ou le projet mathématique. Des projets multiples et distincts seront proposés en conséquence.
-Pour être clair, vous n'êtes pas obligé de sélectionner tous les jeux ou tous les projets mathématiques, vous pouvez basculer votre focus entre les projets.
+Throughout the year, you will use the CSFML, a multimedia librairie developped in C.
 
-Pour la première unité, les projets de l'axe mathématiques sont :
+## Compétences à acquérir
+My_hunter
+- Resources, Event, and Windows management.
+- Implementation of gameplay mechanics
+- Persistent data storing (e.g. highscore, or progression)
 
-- MyScreensaver : Animations basées sur la lumière ou tout autre effet visuel et utilisant des particules.
-- MyRadar : Détection de collision entre un grand nombre d'avions en vol au sein d'un espace 2D.
-  et ceux dans l'axe du jeu sont :
-- MyHunter : Jeu avec une caméra fixe, dans lequel le joueur peut tirer dans certains éléments en mouvement.
-- MyRunner : Jeu avec une caméra défilante dans laquelle le personnage doit rester, tout en évitant les obstacles.
-
-Tout au long de l'année, vous utiliserez le CSFML, une librairie multimédia développée en C.
-
-Pour toute question, n'hésitez pas à consulter "MUL 2023" sur Yammer.
-
-## Compétences à acquerir
-
-Projets de jeux
-
-- Gestion des ressources, des événements et des fenêtres.
-- Stockage de données persistant (par exemple, meilleur score ou progression)
-- Menus de démarrage et de pause simples
-- Mise en place de mécaniques de gameplay
-- Implémentation de mécanismes physiques de jeu simples
-- Effets visuels célèbres (par exemple, parallaxe)
-
-Mathématiques
-
-- Gestion des cadres et fenêtres
-- Dessiner des formes (simples et complexes) avec une fonction de dessin en pixels.
-- Mise en place d'astuces simples pour rendre des effets visuels complexes.
-- Gestion des entités
-- Implémentation d'algorithme de collision simple (hitbox)
-- Techniques d'optimisation pour rendre et gérer un grand nombre d'entités.
-
+My_radar
+- Frames and windows management
+- Entity management
+- Implementation of simple collision algorithm (hitbox)
+- Optimisation techniques to render and manage large numbers of entities.
 <br>
 
 

@@ -20,7 +20,7 @@
         </tr>
         <tr>
             <td rowspan="7" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/">B-CPE-100</a></td>
-            <td rowspan="7">4</td>
+            <td rowspan="7">4 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Count_island">Count_island</a></td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@
         </tr>
         <tr>
             <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/">B-CPE-101</a></td>
-            <td rowspan="5">3</td>
+            <td rowspan="5">5 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101/Bistro-matic">Bistro-matic</a></td>
         </tr>
         <tr>
@@ -80,7 +80,7 @@
         </tr>
         <tr>
             <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-ENG-100/">B-ENG-100</a></td>
-            <td rowspan="3">?</td>
+            <td rowspan="3">3 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-ENG-100/A_day_in_your_dream_job">A_day_in_your_dream_job</a></td>
         </tr>
         <tr>
@@ -90,19 +90,8 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-ENG-100/First_school_on_mars">First_school_on_mars</a></td>
         </tr>
         <tr>
-            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/">B-FRE-100</a></td>
-            <td rowspan="3">2</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/Lettre-argumentée">Lettre-argumentée</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/MailPro">MailPro</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/Rush">Rush</a></td>
-        </tr>
-        <tr>
             <td rowspan="7" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/">B-MAT-100</a></td>
-            <td rowspan="7">2</td>
+            <td rowspan="7">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100/101pong">101pong</a></td>
         </tr>
         <tr>
@@ -125,7 +114,7 @@
         </tr>
         <tr>
             <td rowspan="5" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/">B-MUL-100</a></td>
-            <td rowspan="5">5</td>
+            <td rowspan="5">5 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/Bootstrap-Initiation--Installation">Bootstrap-Initiation--Installation</a></td>
         </tr>
         <tr>
@@ -142,12 +131,28 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-NSA-100/">B-NSA-100</a></td>
-            <td rowspan="1">2</td>
+            <td rowspan="1">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-NSA-100/My_web">My_web</a></td>
         </tr>
         <tr>
+            <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PMP-100/">B-PMP-100</a></td>
+            <td rowspan="1">1 crédit</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PMP-100/B-PMP-100">B-PMP-100</a></td>
+        </tr>
+        <tr>
+            <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100/">B-PRO-100</a></td>
+            <td rowspan="3">2 crédits</td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100/Lettre-argumentée">Lettre-argumentée</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100/MailPro">MailPro</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100/Rush">Rush</a></td>
+        </tr>
+        <tr>
             <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/">B-PSU-100</a></td>
-            <td rowspan="3">2</td>
+            <td rowspan="3">5 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_ls">My_ls</a></td>
         </tr>
         <tr>

@@ -236,6 +236,8 @@ class semester_writer(writer):
     def __write_one_module(self, module_path :str, module_name :str):
         projects = os.listdir(module_path)
         projects = [project for project in projects if os.path.isdir(module_path + '/' + project)]
+        if (len(projects) == 0):
+            projects = [module_name]
         nb_projects = len(projects)
         credits = "?"
         try:

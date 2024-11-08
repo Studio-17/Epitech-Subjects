@@ -95,15 +95,15 @@
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-110/Antman">Antman</a></td>
         </tr>
         <tr>
-            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100">B-FRE-100</a></td>
+            <td rowspan="3"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100">B-PRO-100</a></td>
             <td rowspan="3" >2 credits</td>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100/Rush">Rush</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100/Rush">Rush</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100">Lettre Argumentée</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100">Lettre Argumentée</a></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100">Mail Pro</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100">Mail Pro</a></td>
         </tr>
         <tr>
             <td rowspan="4"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100">B-MUL-100</a></td>

@@ -6,7 +6,7 @@
 
 <br>
 
-📂---[B1-MailPro-consignes-V1.3.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-FRE-100/MailPro/B1-MailPro-consignes-V3.pdf)
+📂---[B1-MailPro-consignes-V1.3.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-PRO-100/MailPro/B1-MailPro-consignes-V3.pdf)
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-FRE-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PRO-100)
 
 [↩️ Revenir au Semestre-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 

@@ -1,6 +1,6 @@
 # B-NSA-100
 
-> Crédits disponibles: 2
+> Crédits disponibles: 2 crédits
 
 <br>
 

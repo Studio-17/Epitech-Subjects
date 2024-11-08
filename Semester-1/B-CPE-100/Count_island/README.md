@@ -1,8 +1,8 @@
 # Count_island
 
-> Timeline: 3 semaines
+> Timeline: 1 semaines
 
-> Nombre de personnes sur le projet: 2
+> Nombre de personnes sur le projet: 1
 
 <br>
 
