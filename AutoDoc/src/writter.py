@@ -10,12 +10,19 @@ class writer:
         self.repo_base = repo_base_path
 
     def _get_github_path(self, dir_path :str, file :str, isdir : bool = False) ->str:
-        rel_path = dir_path.split("Epitech-Subjects/")[1] + "/" + file
+        try:
+            rel_path = dir_path.split("Epitech-Subjects/")[1] + "/" + file
+        except IndexError:
+            rel_path = file
         link = self.repo_base + ("tree" if isdir else "blob") + "/main/" + rel_path
         return link
 
     def _get_gif_relative_path(self, dir_path :str) ->str:
-        test = "../" * dir_path.split("Epitech-Subjects")[1].count('/') + "assets/voc17.gif"
+        try:
+            rel_path = "../" * dir_path.split("Epitech-Subjects")[1].count('/')
+        except IndexError:
+            rel_path = ""
+        test = rel_path + "assets/voc17.gif"
         return test
     
     def write(self) -> int:
@@ -228,13 +235,13 @@ class semester_writer(writer):
     </thead>
     <tbody>""")
         
-    def __write_table_end(self):
+    def _write_table_end(self):
         self.readme.write("""
     </tbody>
 </table>""")
         self._write_break()
 
-    def __write_one_module(self, module_path :str, module_name :str):
+    def _write_one_module(self, module_path :str, module_name :str):
         projects = os.listdir(module_path)
         projects = [project for project in projects if os.path.isdir(module_path + '/' + project)]
         if (len(projects) == 0):
@@ -265,7 +272,7 @@ class semester_writer(writer):
         for module in files:
             module_path = destination_path + "/" + module
             if os.path.isdir(module_path):
-                self.__write_one_module(module_path, module)
+                self._write_one_module(module_path, module)
 
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
         self.__write_header(destination_path)
@@ -273,4 +280,69 @@ class semester_writer(writer):
         self.__write_modules(destination_path)
         self.__write_table_end()
         self._write_footer(destination_path, enum.type_enum.SEMESTER)
+#endregion
+
+#region Global writer
+class global_writer(semester_writer):
+    def __init__(self, readme, file_name, repo_base_path: str) -> None:
+        super().__init__(readme, file_name, repo_base_path)
+
+    def __write_intro(self):
+        self.readme.write(
+"""<img src="./assets/bar.png">
+
+<!-- markdown-link-check-disable -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
+
+</div>
+<!-- markdown-link-check-enable -->
+
+**This directory contains all the subjects and files related to Epitech**
+
+#### :star: Please star the repo if you found it useful!
+
+### If you see a problem, have some new subjects or requests, feel free to open an [issue](https://github.com/Studio-17/Epitech-Subjects/issues) or a [pull request](https://github.com/Studio-17/Epitech-Subjects/pulls).
+
+> **Go checkout the [website for Epitech Subjects](https://clement-fernandes.github.io/epitech-subjects-website/) with some cool features in it!**""")
+
+    def __write_table_head(self):
+        self.readme.write("""
+<table align="center">
+    <thead>
+        <tr>
+            <th>MODULES</th>
+            <th>CREDITS</th>
+            <th>PROJECTS</th>
+        </tr>
+    </thead>
+    <tbody>""")
+    
+    def __write_semester(self, semester_path :str, semester_name :str):
+        semester_details = semester_name.split('-')
+        self.readme.write(f"""
+        <tr>
+            <td colspan="3" align="center"><strong>{semester_details[0].upper()} {semester_details[1]}</strong></td>
+        </tr>""")
+        modules = os.listdir(semester_path)
+        for module in modules:
+            module_path = f"{semester_path}/{module}"
+            if os.path.isdir(module_path):
+                self._write_one_module(module_path, module)
+        
+    def __write_semesters(self, destination_path :str):
+        folders = os.listdir(destination_path)
+        semesters = [folder for folder in folders if os.path.isdir(folder) and folder.startswith("Semester-")]
+        for semester in semesters:
+            self.__write_semester(f"{destination_path}/{semester}", semester)
+
+
+    def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
+        self.__write_intro()
+        self._write_break()
+        self.__write_table_head()
+        self.__write_semesters(destination_path)
+        self._write_table_end()
+        self._write_footer(destination_path, enum.type_enum.GLOBAL)
 #endregion

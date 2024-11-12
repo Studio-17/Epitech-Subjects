@@ -41,6 +41,10 @@ def main(doc_type : enum.type_enum):
                 doc = writter.module_writer(readme, filename, REPO_BASE_LINK)
             case enum.type_enum.SEMESTER.value:
                 doc = writter.semester_writer(readme, filename, REPO_BASE_LINK)
+            case enum.type_enum.GLOBAL.value:
+                doc = writter.global_writer(readme, filename, REPO_BASE_LINK)
+            case _:
+                exit(84)
         doc.write(destination_path, person, time, url, browser)
 
     if (type(copy) is bool and copy == True):
