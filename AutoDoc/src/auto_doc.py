@@ -1,11 +1,9 @@
 #region Import
 import sys
 import os
-import platform
 from tkinter import filedialog
 import pyperclip
 from datetime import datetime
-#TODO voir si la qualité n'est pas mieux avec from PyQt6.QtWidgets import QFileDialog
 
 SOURCE_DIR = "AutoDoc/src"
 CURRENT_DIR = os.getcwd()
