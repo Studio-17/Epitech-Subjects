@@ -159,6 +159,12 @@ class module_writer(writer):
         self.readme.write(f"## {details.competences}")
         self._write_break()
 
+    def __write_empty_module_details(self, destination_path :str):
+        module_name = destination_path.split('/')[-1]
+        self.readme.write(f"# {module_name}\n\n")
+        self.readme.write(f"> Crédits disponibles: ?")
+        self._write_break()
+
     def __write_head_table(self):
         self.readme.write("""
 <table align="center">
@@ -208,6 +214,8 @@ class module_writer(writer):
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
         if (url != " "):
             self.__write_module_details(browser, url)
+        else:
+            self.__write_empty_module_details(destination_path)
         self.__write_project_list(destination_path)
         self._write_footer(destination_path, enum.type_enum.MODULE)
 #endregion
@@ -278,7 +286,7 @@ class semester_writer(writer):
         self.__write_header(destination_path)
         self.__write_table_head()
         self.__write_modules(destination_path)
-        self.__write_table_end()
+        self._write_table_end()
         self._write_footer(destination_path, enum.type_enum.SEMESTER)
 #endregion
 

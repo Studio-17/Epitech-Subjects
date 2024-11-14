@@ -235,7 +235,7 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-DES-200/">B-DES-200</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">1 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-DES-200/DesignSprint">DesignSprint</a></td>
         </tr>
         <tr>
@@ -315,12 +315,12 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-SEC-200/">B-SEC-200</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-SEC-200/Noob">Noob</a></td>
         </tr>
         <tr>
             <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-SYN-200/">B-SYN-200</a></td>
-            <td rowspan="3">?</td>
+            <td rowspan="3">0 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-SYN-200/Automakefile">Automakefile</a></td>
         </tr>
         <tr>
@@ -331,7 +331,7 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-WEB-200/">B-WEB-200</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-WEB-200/Epytodo">Epytodo</a></td>
         </tr>
         <tr>
@@ -339,7 +339,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-PDG-300/">B-PDG-300</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">5 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-PDG-300/Pool">Pool</a></td>
         </tr>
         <tr>
@@ -347,12 +347,12 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-PRO-300/">B-PRO-300</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">20 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-PRO-300/Internship">Internship</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-SHL-300/">B-SHL-300</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">1 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-SHL-300/BDSH">BDSH</a></td>
         </tr>
         <tr>
@@ -360,17 +360,17 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-ASM-400/">B-ASM-400</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">? credits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-ASM-400/MiniLibC">MiniLibC</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-CNA-410/">B-CNA-410</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">? crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-CNA-410/Trade">Trade</a></td>
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-CPP-400/">B-CPP-400</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">3 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-CPP-400/Panoramix">Panoramix</a></td>
         </tr>
         <tr>
@@ -378,7 +378,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-DOP-400/">B-DOP-400</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-DOP-400/My_marvin">My_marvin</a></td>
         </tr>
         <tr>
@@ -386,12 +386,12 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-FUN-400/">B-FUN-400</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">? crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-FUN-400/Wolfram">Wolfram</a></td>
         </tr>
         <tr>
             <td rowspan="9" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-MAT-400/">B-MAT-400</a></td>
-            <td rowspan="9">?</td>
+            <td rowspan="9">3 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-MAT-400/201Yams">201Yams</a></td>
         </tr>
         <tr>
@@ -420,7 +420,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-NWP-400/">B-NWP-400</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">? crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-NWP-400/My_ftp">My_ftp</a></td>
         </tr>
         <tr>
@@ -428,7 +428,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-OOP-400/">B-OOP-400</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">4 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-OOP-400/Arcade">Arcade</a></td>
         </tr>
         <tr>
@@ -436,7 +436,7 @@
         </tr>
         <tr>
             <td rowspan="3" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PRO-400/">B-PRO-400</a></td>
-            <td rowspan="3">?</td>
+            <td rowspan="3">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PRO-400/Back_in_line">Back_in_line</a></td>
         </tr>
         <tr>
@@ -447,7 +447,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/">B-PSU-400</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">3 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-400/Malloc">Malloc</a></td>
         </tr>
         <tr>
@@ -455,7 +455,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-402/">B-PSU-402</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">? crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-PSU-402/Ftrace">Ftrace</a></td>
         </tr>
         <tr>
@@ -463,7 +463,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-SEC-400/">B-SEC-400</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-SEC-400/Hydra">Hydra</a></td>
         </tr>
         <tr>
@@ -471,7 +471,7 @@
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-YEP-400/">B-YEP-400</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">4 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-YEP-400/Indie-Studio">Indie-Studio</a></td>
         </tr>
         <tr>
@@ -482,22 +482,22 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-AIA-500/">B-AIA-500</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-AIA-500/Gomoku">Gomoku</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-CPP-500/">B-CPP-500</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">6 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-CPP-500/Rtype">Rtype</a></td>
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DEV-500/">B-DEV-500</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">6 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DEV-500/Area">Area</a></td>
         </tr>
         <tr>
             <td rowspan="2" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DOP-500/">B-DOP-500</a></td>
-            <td rowspan="2">?</td>
+            <td rowspan="2">3 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-DOP-500/Bernstein">Bernstein</a></td>
         </tr>
         <tr>
@@ -505,12 +505,12 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FUN-500/">B-FUN-500</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">6 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-FUN-500/GlaDOS">GlaDOS</a></td>
         </tr>
         <tr>
             <td rowspan="9" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/">B-MAT-500</a></td>
-            <td rowspan="9">?</td>
+            <td rowspan="9">3 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-MAT-500/301dannon">301dannon</a></td>
         </tr>
         <tr>
@@ -539,12 +539,12 @@
         </tr>
         <tr>
             <td rowspan="1" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-PRO-500/">B-PRO-500</a></td>
-            <td rowspan="1">?</td>
+            <td rowspan="1">7 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-PRO-500/Part-Time_Internship">Part-Time_Internship</a></td>
         </tr>
         <tr>
             <td rowspan="4" style="text-align: center;"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-PRO-501/">B-PRO-501</a></td>
-            <td rowspan="4">?</td>
+            <td rowspan="4">2 crédits</td>
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-5/B-PRO-501/3_emails">3_emails</a></td>
         </tr>
         <tr>

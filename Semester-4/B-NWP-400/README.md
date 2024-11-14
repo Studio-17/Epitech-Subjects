@@ -1,3 +1,4 @@
+> Crédits disponibles: ? crédits
 
 <table align="center">
     <thead>

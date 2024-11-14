@@ -1,3 +1,4 @@
+> Crédits disponibles: 4 crédits
 
 <table align="center">
     <thead>
