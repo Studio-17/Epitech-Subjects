@@ -6,10 +6,10 @@ Ce projet à pour but d'automatiser la création de README au norme de **Studio-
 - [Requirements:](#requirements)
 - [Execution](#execution)
 - [Help du projet:](#help-du-projet)
+- [Types de Readme](#types-de-readme)
 - [Structure des sujets:](#structure-des-sujets)
 
 ## Requirements:
--
 
 - Tkinter
 - Selenium
@@ -19,11 +19,33 @@ Ce projet à pour but d'automatiser la création de README au norme de **Studio-
 
 ## Execution
 
-Il ya 4 mains différents en fonction du type de dossier à documenter, 
-il faut bien faire attention à selectionner un dossier valide et du même type que le main
-
+Executer `main.py` avec les paramètres voulus
 
 Lors de l'ouverture de la page web, ne rien faire
+
+## Help du projet:
+
+
+```
+Usage:
+    ./auto_doc.py -b e -url https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804 -cp
+
+Arguments:
+    -b      => choix du Browser entre Edge (e) par défault, Chrome (c) et Firefox (f)
+    -url    => url d'une mouli du projet / Module
+    -p      => nombre de personnes sur le projet
+    -t      => temps en semaines pour le projet
+    -cp     => écriture du readme dans le clipboard
+    --type  => Type de Readme si l'automatique ne plait pas ("g" => global, "s" => semestre, "m" => module, "p" => projet)
+
+Permet de créer un Readme qui suis les normes établies
+```
+
+## Types de Readme
+
+Par défault les choix du type de readme est automatique mais peut être forcé avec le flag [`--type`](#help-du-projet)
+
+**Attention:** Forcer le type de README peut entraîner des erreurs
 
 **Les types de README sont:**
 - **Project**:
@@ -39,23 +61,6 @@ Lors de l'ouverture de la page web, ne rien faire
 - **Global**:
   - La liste des Semestre
   - La liste des modules de chaque Semestre et leurs crédits
-
-## Help du projet:
--
-
-```
-Usage:
-    ./auto_doc.py -b e -url https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804 -cp
-
-Arguments:
-    -b      => choix du Browser entre Edge (e) par défault, Chrome (c) et Firefox (f)
-    -url    => url d'une mouli du projet / Module
-    -p      => nombre de personnes sur le projet
-    -t      => temps en semaines pour le projet
-    -cp     => écriture du readme dans le clipboard
-
-Permet de créer un Readme qui suis les normes établies
-```
 
 ## Structure des sujets:
 

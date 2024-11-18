@@ -12,7 +12,9 @@
             "console": "integratedTerminal",
             "args": [
                 "-b",
-                "e"
+                "e",
+                "--type",
+                "g"
             ]
         },
         {
