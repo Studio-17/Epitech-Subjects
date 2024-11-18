@@ -122,6 +122,7 @@ class project_writer(writer):
     def __write_unit_tests(self, browser :str, url:str):
         test_cats = scrapper.get_mrvn_test(browser, url)
         if test_cats == None or len(test_cats) == 0:
+            # TODO faire en sorte de ne pas perdre les tests que l'on avait deja
             return
         self.__write_table_head()
         for test_cat in test_cats:
@@ -160,6 +161,7 @@ class module_writer(writer):
         self._write_break()
 
     def __write_empty_module_details(self, destination_path :str):
+        # TODO faire en sorte de ne pas perdre les info que l'on avait deja
         module_name = destination_path.split('/')[-1]
         self.readme.write(f"# {module_name}\n\n")
         self.readme.write(f"> Crédits disponibles: ?")

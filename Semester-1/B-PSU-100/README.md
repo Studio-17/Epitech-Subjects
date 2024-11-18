@@ -44,6 +44,10 @@ Mini projects to be done:
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_sokoban/">My_sokoban</a></td>
             <td align="center">3 semaines</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-PSU-100/My_Top/">My_Top</a></td>
+            <td align="center">? semaines</td>
+        </tr>
     </tbody>
 </table>
 <br>
