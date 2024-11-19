@@ -18,6 +18,6 @@ def parse_param(args : list[str], valid_flags : dict[str, int], source :str) -> 
     return tuple(res)
 
 def display_help(source :str):
-    with open(f"MarvinScrapper/help/help_{source}.txt", "r") as f:
+    with open(f"AutoDoc/help/help_{source}.txt", "r") as f:
         print(f.read())
     exit(0)

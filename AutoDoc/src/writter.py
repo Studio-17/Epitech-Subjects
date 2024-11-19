@@ -1,20 +1,20 @@
 import scrapper
 import type_enum  as enum
-import os
+import os, io
 
 #region writer
 class writer:
-    def __init__(self, readme, file_name, repo_base_path :str) -> None:
-        self.readme = readme
-        self.file_name = file_name
-        self.repo_base = repo_base_path
+    def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str) -> None:
+        self._readme = readme
+        self._file_name = file_name
+        self._repo_base = repo_base_path
 
     def _get_github_path(self, dir_path :str, file :str, isdir : bool = False) ->str:
         try:
             rel_path = dir_path.split("Epitech-Subjects/")[1] + "/" + file
         except IndexError:
             rel_path = file
-        link = self.repo_base + ("tree" if isdir else "blob") + "/main/" + rel_path
+        link = self._repo_base + ("tree" if isdir else "blob") + "/main/" + rel_path
         return link
 
     def _get_gif_relative_path(self, dir_path :str) ->str:
@@ -36,30 +36,34 @@ class writer:
         module_path = github_path[:github_path.find("/", github_path.find("/B-") + 1)]
         semester_path = github_path[:github_path.find("/", github_path.find("/Semester-") + 1)]
         semester_name = semester_path[github_path.find("/", github_path.find("/Semester-")) + 1: ]
-        home_path = self.repo_base[:-1]
+        home_path = self._repo_base[:-1]
 
         if (type.value >= enum.type_enum.PROJECT.value):
-            self.readme.write(f"[↩️ Revenir au module]({module_path})\n\n")
+            self._readme.write(f"[↩️ Revenir au module]({module_path})\n\n")
         if (type.value >= enum.type_enum.MODULE.value):
-            self.readme.write(f"[↩️ Revenir au {semester_name}]({semester_path})\n\n")
+            self._readme.write(f"[↩️ Revenir au {semester_name}]({semester_path})\n\n")
         if (type.value >= enum.type_enum.SEMESTER.value):
-            self.readme.write(f"[↩️ Revenir à l'accueil]({home_path})\n")
+            self._readme.write(f"[↩️ Revenir à l'accueil]({home_path})\n")
 
         self._write_break()
 
         footer = f'---\n\n<div align="center">\n\n<a href="https://github.com/Studio-17" target="_blank"><img src="{self._get_gif_relative_path(destination_path)}" width="40"></a>\n\n</div>'
-        self.readme.write(footer)
+        self._readme.write(footer)
 
     def _write_break(self, amount : int = 1):
         break_lines = '\n<br>\n\n' * amount
-        self.readme.write(break_lines)
+        self._readme.write(break_lines)
 #endregion
 
 #region Project writer
 class project_writer(writer):
-    def __init__(self, readme, file_name, repo_base_path :str) -> None:
+    def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str, save :str) -> None:
         super().__init__(readme, file_name, repo_base_path)
-    
+        if (save != ""):
+            self._save = save
+            self.__parse_save()
+            #TODO parsing de la save grace à des region dans les readme
+
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
         self.__write_project_details(destination_path, person, time)
         self.__write_directory_content(destination_path, 0)
@@ -67,28 +71,33 @@ class project_writer(writer):
             self.__write_unit_tests(browser, url)
         self._write_footer(destination_path, enum.type_enum.PROJECT)
 
+    def __parse_save(self):
+        return
+
     def __write_directory_content(self, dir_path :str, identation_level : int, max_identation : int = -1):
         is_first_file = identation_level == 0
+        if (is_first_file):
+            self._readme.write("## Fichiers du projet\n")
         files = os.listdir(dir_path)
         for file in files:
-            if file == self.file_name:
+            if file == self._file_name:
                 continue
             file_path = dir_path + "/" + file
             is_dir = os.path.isdir(file_path)
             if (is_first_file):
-                self.readme.write(f"📂---")
+                self._readme.write(f"📂---")
                 is_first_file = False
             else:
                 identation = ("ㅤㅤ" * identation_level) + "|\\_\\_\\_"
-                self.readme.write(identation)
-            self.readme.write(f"[{file}]({self._get_github_path(dir_path, file, isdir=is_dir)})\n\n")
+                self._readme.write(identation)
+            self._readme.write(f"[{file}]({self._get_github_path(dir_path, file, isdir=is_dir)})\n\n")
             if is_dir and (identation_level + 1 <= max_identation or max_identation == -1):
                 self.__write_directory_content(file_path, identation_level + 1)
         if (identation_level == 0):
             self._write_break()
 
     def __write_table_head(self) -> None:
-        self.readme.write("""
+        self._readme.write("""
 <table align="center">
     <thead>
         <tr>
@@ -103,10 +112,10 @@ class project_writer(writer):
     <tbody>""".rstrip())
 
     def __write_table_end(self) -> None:
-        self.readme.write('\n\t</tbody>\n</table>\n')
+        self._readme.write('\n\t</tbody>\n</table>\n')
 
     def __write_one_test_cat(self, test_cat : scrapper.test_category) -> None:
-        self.readme.write(f"""
+        self._readme.write(f"""
         <tr>
             <td rowspan="{test_cat.test_amount}">{test_cat.name}</td>
             <td rowspan="{test_cat.test_amount}" style="text-align: center;">{test_cat.test_amount}</td>
@@ -115,8 +124,8 @@ class project_writer(writer):
     """)
         for i in range(1, test_cat.test_amount):
             if (i > 1):
-                self.readme.write('\n')
-            self.readme.write(f"\t\t<tr>\n\t\t\t<td>{test_cat.test_names[i]}</td>\n\t\t</tr>")
+                self._readme.write('\n')
+            self._readme.write(f"\t\t<tr>\n\t\t\t<td>{test_cat.test_names[i]}</td>\n\t\t</tr>")
         return 0
 
     def __write_unit_tests(self, browser :str, url:str):
@@ -124,6 +133,7 @@ class project_writer(writer):
         if test_cats == None or len(test_cats) == 0:
             # TODO faire en sorte de ne pas perdre les tests que l'on avait deja
             return
+        self._readme.write("## Tests de Marvin\n\n")
         self.__write_table_head()
         for test_cat in test_cats:
             self.__write_one_test_cat(test_cat)
@@ -140,35 +150,36 @@ class project_writer(writer):
             time = str(int(time))
         except:
             time = "?"
-        self.readme.write(f"# {project_name}\n\n")
-        self.readme.write(f"> Timeline: {time} semaines\n\n")
-        self.readme.write(f"> Nombre de personnes sur le projet: {person}\n")
+        self._readme.write(f"# {project_name}\n\n")
+        self._readme.write(f"> Timeline: {time} semaines\n\n")
+        self._readme.write(f"> Nombre de personnes sur le projet: {person}\n")
         self._write_break()
 #endregion
 
 #region Module writer
 class module_writer(writer):
-    def __init__(self, readme, file_name, repo_base_path: str) -> None:
+    def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str, save :str) -> None:
         super().__init__(readme, file_name, repo_base_path)
+        self._save = save
 
     def __write_module_details(self, browser :str, url :str):
         details = scrapper.get_module_details(browser, url)
-        self.readme.write(f"# {details.name}  ({details.shortname})\n\n")
-        self.readme.write(f"> Crédits disponibles: {details.credits}")
+        self._readme.write(f"# {details.name}  ({details.shortname})\n\n")
+        self._readme.write(f"> Crédits disponibles: {details.credits}")
         self._write_break()
-        self.readme.write(f"## {details.description}\n\n")
-        self.readme.write(f"## {details.competences}")
+        self._readme.write(f"## {details.description}\n\n")
+        self._readme.write(f"## {details.competences}")
         self._write_break()
 
     def __write_empty_module_details(self, destination_path :str):
         # TODO faire en sorte de ne pas perdre les info que l'on avait deja
         module_name = destination_path.split('/')[-1]
-        self.readme.write(f"# {module_name}\n\n")
-        self.readme.write(f"> Crédits disponibles: ?")
+        self._readme.write(f"# {module_name}\n\n")
+        self._readme.write(f"> Crédits disponibles: ?")
         self._write_break()
 
     def __write_head_table(self):
-        self.readme.write("""
+        self._readme.write("""
 <table align="center">
     <thead>
         <tr>
@@ -179,7 +190,7 @@ class module_writer(writer):
     <tbody>""")
         
     def __write_end_table(self):
-        self.readme.write("""
+        self._readme.write("""
     </tbody>
 </table>""")
     
@@ -197,7 +208,7 @@ class module_writer(writer):
             project_time = content[content.find("> Timeline: ") + len("> Timeline: "):].split("\n", 1)[0]
             break
         if (project_name != None and project_time != None):
-            self.readme.write(f"""
+            self._readme.write(f"""
         <tr>
             <td><a href="{self._get_github_path(project_path, "", True)}">{project_name}</a></td>
             <td align="center">{project_time}</td>
@@ -224,17 +235,17 @@ class module_writer(writer):
 
 #region Semester writer
 class semester_writer(writer):
-    def __init__(self, readme, file_name, repo_base_path: str) -> None:
+    def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str) -> None:
         super().__init__(readme, file_name, repo_base_path)
 
     def __write_header(self, destination_path :str):
         semester_nb = destination_path.split("/")[-1].split("-")[1]
-        self.readme.write(f"# Semestre {semester_nb}")
-        self.readme.write(f"\n\n>  Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables durant le semestre {semester_nb}")
+        self._readme.write(f"# Semestre {semester_nb}")
+        self._readme.write(f"\n\n>  Sur ce répertoire sont réunis tout les sujets et les fichiers qui sont valables durant le semestre {semester_nb}")
         self._write_break()
     
     def __write_table_head(self):
-        self.readme.write("""
+        self._readme.write("""
 <table align="center">
     <thead>
         <tr>
@@ -246,7 +257,7 @@ class semester_writer(writer):
     <tbody>""")
         
     def _write_table_end(self):
-        self.readme.write("""
+        self._readme.write("""
     </tbody>
 </table>""")
         self._write_break()
@@ -264,7 +275,7 @@ class semester_writer(writer):
                 credits = content.split("> Crédits disponibles: ")[1].split("\n")[0]
         except:
             pass
-        self.readme.write(f"""
+        self._readme.write(f"""
         <tr>
             <td rowspan="{nb_projects}" style="text-align: center;"><a href="{self._get_github_path(module_path, "", isdir=True)}">{module_name}</a></td>
             <td rowspan="{nb_projects}">{credits}</td>
@@ -272,7 +283,7 @@ class semester_writer(writer):
         </tr>""")
         projects = projects[1:]
         for project in projects:
-            self.readme.write(f"""
+            self._readme.write(f"""
         <tr>
             <td><a href="{self._get_github_path(module_path, project, isdir=True)}">{project}</a></td>
         </tr>""")
@@ -294,11 +305,11 @@ class semester_writer(writer):
 
 #region Global writer
 class global_writer(semester_writer):
-    def __init__(self, readme, file_name, repo_base_path: str) -> None:
+    def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str) -> None:
         super().__init__(readme, file_name, repo_base_path)
 
     def __write_intro(self):
-        self.readme.write(
+        self._readme.write(
 """<img src="./assets/bar.png">
 
 <!-- markdown-link-check-disable -->
@@ -318,7 +329,7 @@ class global_writer(semester_writer):
 > **Go checkout the [website for Epitech Subjects](https://clement-fernandes.github.io/epitech-subjects-website/) with some cool features in it!**""")
 
     def __write_table_head(self):
-        self.readme.write("""
+        self._readme.write("""
 <table align="center">
     <thead>
         <tr>
@@ -331,7 +342,7 @@ class global_writer(semester_writer):
     
     def __write_semester(self, semester_path :str, semester_name :str):
         semester_details = semester_name.split('-')
-        self.readme.write(f"""
+        self._readme.write(f"""
         <tr>
             <td colspan="3" align="center"><strong>{semester_details[0].upper()} {semester_details[1]}</strong></td>
         </tr>""")

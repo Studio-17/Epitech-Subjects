@@ -44,6 +44,10 @@ The 42sh is mainly manual tests.
             <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-PSU-200/Minishell2/">Minishell2</a></td>
             <td align="center">3 semaines</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-PSU-200/Tetris/">Tetris</a></td>
+            <td align="center">? semaines</td>
+        </tr>
     </tbody>
 </table>
 <br>

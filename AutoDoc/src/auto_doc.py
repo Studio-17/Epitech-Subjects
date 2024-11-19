@@ -45,10 +45,17 @@ def get_readme_type(path :str, type_param :str) ->enum.type_enum:
     return enum.type_enum.PROJECT
 
 
-def create_readme():
+def create_readme(path :str = None):
     filename = "README.md"
     (browser, url, person, time, copy, type_param) = param.parse_param(sys.argv, VALID_FLAGS, "auto_doc")
-    destination_path = filedialog.askdirectory(initialdir=CURRENT_DIR)
+    if (path == None):
+        destination_path = filedialog.askdirectory(initialdir=CURRENT_DIR)
+    else:
+        # On créer uniquement des README par défaut dans ce cas
+        copy = False 
+        url = " "
+        type_param = " "
+        destination_path = path
     doc_type = get_readme_type(destination_path, type_param)
 
     if (os.path.exists(destination_path) == False):
@@ -56,13 +63,19 @@ def create_readme():
     if (type(copy) is bool and copy == True):
         filename = "README" + str(datetime.now().timestamp()) + ".md"
 
-    with open(f"{destination_path}/{filename}", "w", encoding="utf-8") as readme:
+    readme_path = f"{destination_path}/{filename}"
+    save = ""
+    if (os.path.exists(readme_path)):
+        with open(readme_path, "r", encoding="utf-8") as readme:
+            save = readme.read()
+
+    with open(readme_path, "w", encoding="utf-8") as readme:
         doc = None
         match(doc_type.value):
             case enum.type_enum.PROJECT.value:
-                doc = writter.project_writer(readme, filename, REPO_BASE_LINK)
+                doc = writter.project_writer(readme, filename, REPO_BASE_LINK, save)
             case enum.type_enum.MODULE.value:
-                doc = writter.module_writer(readme, filename, REPO_BASE_LINK)
+                doc = writter.module_writer(readme, filename, REPO_BASE_LINK, save)
             case enum.type_enum.SEMESTER.value:
                 doc = writter.semester_writer(readme, filename, REPO_BASE_LINK)
             case enum.type_enum.GLOBAL.value:

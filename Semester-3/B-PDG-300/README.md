@@ -8,6 +8,14 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-PDG-300/Pool/">Pool</a></td>
+            <td align="center">? semaines</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-PDG-300/Rushs/">Rushs</a></td>
+            <td align="center">? semaines</td>
+        </tr>
     </tbody>
 </table>
 <br>
