@@ -8,6 +8,7 @@ Ce projet à pour but d'automatiser la création de README au norme de **Studio-
 - [Help du projet:](#help-du-projet)
 - [Types de Readme](#types-de-readme)
 - [Structure des sujets:](#structure-des-sujets)
+- [Creation automatique:](#creation-automatique)
 
 ## Requirements:
 
@@ -103,6 +104,10 @@ Exemple d'un module dans un Semestre:
 |\_\_\_**README.md** (Readme du Repo avec tout les Semestre et tous les modules)
 
 ---
+
+## Creation automatique:
+
+Un script `create_default_readme.py` existe et à pour objectif de créer des Readme par défaut pour tous les dossiers sans
 
 Les PR et les issues sont les bienvenues en cas de problème ou de suggestion
 
