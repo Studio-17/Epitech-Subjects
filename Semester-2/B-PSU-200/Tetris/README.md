@@ -6,7 +6,6 @@
 
 <br>
 
-## Fichiers du projet
 📂---[Tetris.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-PSU-200/Tetris/Tetris.pdf)
 
 

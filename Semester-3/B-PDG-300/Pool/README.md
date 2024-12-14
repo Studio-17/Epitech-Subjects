@@ -6,7 +6,6 @@
 
 <br>
 
-## Fichiers du projet
 📂---[Day01](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-PDG-300/Pool/Day01)
 
 ㅤㅤ|\_\_\_[B-PDG-300_d01.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-3/B-PDG-300/Pool/Day01/B-PDG-300_d01.pdf)

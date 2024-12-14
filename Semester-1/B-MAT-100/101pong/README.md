@@ -11,8 +11,8 @@
 
 <br>
 
-
 <details>
+
 <summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
@@ -133,9 +133,9 @@
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-MAT-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MAT-100)
 
-[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 

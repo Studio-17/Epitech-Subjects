@@ -6,7 +6,6 @@
 
 <br>
 
-## Fichiers du projet
 📂---[Rush1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-3/B-PDG-300/Rushs/Rush1)
 
 ㅤㅤ|\_\_\_[B-PDG-300_rush1.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-3/B-PDG-300/Rushs/Rush1/B-PDG-300_rush1.pdf)

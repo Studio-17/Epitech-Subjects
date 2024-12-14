@@ -60,24 +60,25 @@ class project_writer(writer):
     def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str, save :str) -> None:
         super().__init__(readme, file_name, repo_base_path)
         if (save != ""):
-            self._save = save
-            self.__parse_save()
-            #TODO parsing de la save grace à des region dans les readme
+            self.__parse_save(save)
 
     def write(self, destination_path :str, person :str, time :str, url :str, browser :str):
         self.__write_project_details(destination_path, person, time)
         self.__write_directory_content(destination_path, 0)
-        if (url != " "):
-            self.__write_unit_tests(browser, url)
+        self.__write_unit_tests(browser, url)
         self._write_footer(destination_path, enum.type_enum.PROJECT)
 
-    def __parse_save(self):
+    def __parse_save(self, save :str):
+        try:
+            splited = save.split("<details>")[1]
+            table = splited.split("</details>")[0]
+            self._save = table
+        except:
+            return
         return
 
     def __write_directory_content(self, dir_path :str, identation_level : int, max_identation : int = -1):
         is_first_file = identation_level == 0
-        if (is_first_file):
-            self._readme.write("## Fichiers du projet\n")
         files = os.listdir(dir_path)
         for file in files:
             if file == self._file_name:
@@ -130,12 +131,20 @@ class project_writer(writer):
             self._readme.write(f"\t\t<tr>\n\t\t\t<td>{test_cat.test_names[i]}</td>\n\t\t</tr>")
         return 0
 
+    def __write_test_save(self):
+        self._readme.write("<details>")
+        self._readme.write(self._save)
+        self._readme.write("</details>\n")
+        self._write_break()
+
     def __write_unit_tests(self, browser :str, url:str):
-        test_cats = scrapper.get_mrvn_test(browser, url)
-        if test_cats == None or len(test_cats) == 0:
-            # TODO faire en sorte de ne pas perdre les tests que l'on avait deja
+        if (url == " "):
+            self.__write_test_save()
             return
-        self._readme.write("## Tests de Marvin\n\n")
+        test_cats = scrapper.get_mrvn_test(browser, url)
+        if (test_cats == None or len(test_cats) == 0) and self._save != "":
+            self.__write_test_save()
+            return
         self.__write_table_head()
         for test_cat in test_cats:
             self.__write_one_test_cat(test_cat)

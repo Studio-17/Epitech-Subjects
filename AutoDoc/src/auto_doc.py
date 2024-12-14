@@ -2,8 +2,8 @@
 import sys
 import os
 from tkinter import filedialog
-import pyperclip
 from datetime import datetime
+import pyperclip
 
 SOURCE_DIR = "AutoDoc/src"
 CURRENT_DIR = os.getcwd()
