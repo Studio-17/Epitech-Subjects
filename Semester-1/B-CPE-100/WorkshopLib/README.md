@@ -9,7 +9,8 @@
 📂---[WorkshopLib.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-100/WorkshopLib/WorkshopLib.pdf)
 
 <br>
-
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
     <tr>
@@ -29,6 +30,7 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 

@@ -98,6 +98,8 @@ class project_writer(writer):
 
     def __write_table_head(self) -> None:
         self._readme.write("""
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
         <tr>
@@ -112,7 +114,7 @@ class project_writer(writer):
     <tbody>""".rstrip())
 
     def __write_table_end(self) -> None:
-        self._readme.write('\n\t</tbody>\n</table>\n')
+        self._readme.write('\n\t</tbody>\n</table>\n</details>\n')
 
     def __write_one_test_cat(self, test_cat : scrapper.test_category) -> None:
         self._readme.write(f"""

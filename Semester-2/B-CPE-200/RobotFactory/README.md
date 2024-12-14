@@ -24,6 +24,8 @@
 <br>
 
 
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
         <tr>
@@ -235,6 +237,7 @@
 		</tr>
 	</tbody>
 </table>
+</details>
 
 <br>
 

@@ -9,7 +9,8 @@
 📂---[Day12.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-100/Pool/Day12/Day12.pdf)
 
 <br>
-
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
     <tr>
@@ -44,6 +45,7 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 

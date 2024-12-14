@@ -11,7 +11,8 @@
 |\_\_\_[rush1_bins.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-100/Rushs/Rush1/rush1_bins.tgz)
 
 <br>
-
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
     <tr>
@@ -81,6 +82,7 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 

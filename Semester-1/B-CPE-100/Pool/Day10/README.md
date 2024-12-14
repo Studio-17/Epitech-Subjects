@@ -11,7 +11,8 @@
 |\_\_\_[my_opp.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-100/Pool/Day10/my_opp.h)
 
 <br>
-
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
     <tr>
@@ -51,6 +52,7 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 

@@ -9,7 +9,8 @@
 📂---[day04.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-BOO-101/Bootcamp_Phoenix/Day01/day04.pdf)
 
 <br>
-
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
     <tr>
@@ -54,6 +55,7 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 
