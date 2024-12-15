@@ -171,7 +171,16 @@ class project_writer(writer):
 class module_writer(writer):
     def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str, save :str) -> None:
         super().__init__(readme, file_name, repo_base_path)
-        self._save = save
+        self._save = ""
+        if (save != ""):
+            self.__parse_save(save)
+
+    def __parse_save(self, save :str):
+        try:
+            splitted = save.split("<table align=\"center\">")[0]
+            self._save = splitted   
+        except:
+            return
 
     def __write_module_details(self, browser :str, url :str):
         details = scrapper.get_module_details(browser, url)
@@ -183,7 +192,9 @@ class module_writer(writer):
         self._write_break()
 
     def __write_empty_module_details(self, destination_path :str):
-        # TODO faire en sorte de ne pas perdre les info que l'on avait deja
+        if (self._save != ""):
+            self._readme.write(self._save[:-1])
+            return
         module_name = destination_path.split('/')[-1]
         self._readme.write(f"# {module_name}\n\n")
         self._readme.write(f"> Crédits disponibles: ?")
