@@ -59,6 +59,7 @@ class writer:
 class project_writer(writer):
     def __init__(self, readme :io.TextIOWrapper, file_name :str, repo_base_path :str, save :str) -> None:
         super().__init__(readme, file_name, repo_base_path)
+        self._save = ""
         if (save != ""):
             self.__parse_save(save)
 
@@ -138,8 +139,9 @@ class project_writer(writer):
         self._write_break()
 
     def __write_unit_tests(self, browser :str, url:str):
-        if (url == " "):
-            self.__write_test_save()
+        if url == " ":
+            if (self._save != ""):
+                self.__write_test_save()
             return
         test_cats = scrapper.get_mrvn_test(browser, url)
         if (test_cats == None or len(test_cats) == 0) and self._save != "":
