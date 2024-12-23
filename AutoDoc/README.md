@@ -29,7 +29,7 @@ Lors de l'ouverture de la page web, ne rien faire
 
 ```
 Usage:
-    ./auto_doc.py -b e -url https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804 -cp
+    ./main.py -b e -url https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804 -cp
 
 Arguments:
     -b      => choix du Browser entre Edge (e) par défault, Chrome (c) et Firefox (f)
