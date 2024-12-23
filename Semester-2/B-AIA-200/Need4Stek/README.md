@@ -6,18 +6,20 @@
 
 <br>
 
-📂---[Need4Stek](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek/Need4Stek)
+📂---[Need4Stek](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-AIA-200/Need4Stek/Need4Stek)
 
-ㅤㅤ|\_\_\_[need4stek.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Need4Stek/need4stek.pdf)
+ㅤㅤ|\_\_\_[need4stek.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-AIA-200/Need4Stek/Need4Stek/need4stek.pdf)
 
-|\_\_\_[Bootstrap_Need4Stek](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek)
+|\_\_\_[Bootstrap_Need4Stek](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek)
 
-ㅤㅤ|\_\_\_[n4s_package.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/n4s_package.tgz)
+ㅤㅤ|\_\_\_[n4s_package.tgz](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/n4s_package.tgz)
 
-ㅤㅤ|\_\_\_[need4stek_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/need4stek_bootstrap.pdf)
+ㅤㅤ|\_\_\_[need4stek_bootstrap.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-2/B-AIA-200/Need4Stek/Bootstrap_Need4Stek/need4stek_bootstrap.pdf)
 
 <br>
 
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
     <tr>
@@ -103,12 +105,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-AIA-200)
 
-[↩️ Revenir au Semestre_2](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2)
+[↩️ Revenir au Semestre-2](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
@@ -118,6 +121,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../../assets/voc17.gif" width="40"></a>
 
 </div>

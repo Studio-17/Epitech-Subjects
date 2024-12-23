@@ -1,33 +1,33 @@
-# B-AIA-200
+# B2 - Introduction to A.I.  (B-AIA-200)
 
-> Crédits disponibles: 3
-
+> Crédits disponibles: 3 crédits
 <br>
 
 ## Description du module
+This unit is made up of one single project, which consists of simulating an autonomous car. 
 
-Cette unité est constituée d'un seul projet, qui consiste à simuler une voiture autonome.
+It is also an excuse to have you briefly discover the world of Artificial Intelligence: what is it about? what can we do with it?  
 
-C'est aussi un prétexte pour vous faire découvrir brièvement le monde de l'Intelligence Artificielle : de quoi s'agit-il ? que pouvons-nous faire avec ?
+A few things (in no particular order):
+        - The unit will end with a local tournament to see whose car is the fastest!
+        - There are a lot of possible techniques and optimizations in order to go faster. Come have fun!  I
 
-Quelques éléments (sans ordre particulier) : - L'unité se terminera par un tournoi local pour voir quelle voiture est la plus rapide ! - Il existe de nombreuses techniques et optimisations possibles pour aller plus vite. Venez vous amuser !
+- - -
 
----
+About the unit structure.  
 
-À propos de la structure de l'unité.
 
-Le bootstrap ne couvre que l'aspect pratique du déplacement de la voiture, pas sur la façon de lui faire terminer toutes les pistes. Les conférences ne seront pas directement basées sur le sujet du projet.
+The bootstrap only covers the practical aspect of moving the car, not on how to make it complete all tracks. The conferences will not be directly based on the project's subject. 
 
-Les principaux mots clés sont dans la description du projet. A vous de savoir utiliser un moteur de recherche au maximum de ses capacités et de vos compétences afin de comprendre, assimiler, appliquer et optimiser les solutions que vous y trouverez.
+The main key words are in the project description. It's up to you to know how to use a search engine to its full capacity and your skills in order to understand, assimilate, apply and optimize the solutions you will find. 
 
-## Compétences à acquerir
-
-- Présentation du domaine "Intelligence Artificielle"
-- Introduction à la recherche dans un espace d'état
-- Conscience des problèmes de structure des données et de la complexité algorithmique
-- Approche méthodique pour mesurer la performance d'un programme
-
+## Compétences à acquérir
+• Overview of "Artificial Intelligence" domain 
+• Introduction to research in a state-space 
+• Awareness of the data structure problems and algorithmic complexity 
+• Methodical approach to measuring a program's performance 
 <br>
+
 
 <table align="center">
     <thead>
@@ -38,15 +38,14 @@ Les principaux mots clés sont dans la description du projet. A vous de savoir u
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2/B-AIA-200/Need4Stek">Need4Stek</a></td>
+            <td><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2/B-AIA-200/Need4Stek/">Need4Stek</a></td>
             <td align="center">5 semaines</td>
         </tr>
     </tbody>
 </table>
-
 <br>
 
-[↩️ Revenir au Semestre_2](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_2)
+[↩️ Revenir au Semester-2](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-2)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
@@ -56,6 +55,6 @@ Les principaux mots clés sont dans la description du projet. A vous de savoir u
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../assets/voc17.gif" width="40"></a>
 
 </div>

@@ -6,12 +6,14 @@
 
 <br>
 
-📂---[Day01.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day01/Day01.pdf)
+📂---[Day01.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-100/Pool/Day01/Day01.pdf)
 
-|\_\_\_[manifesto.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-100/Pool/Day01/manifesto.pdf)
+|\_\_\_[manifesto.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-100/Pool/Day01/manifesto.pdf)
 
 <br>
 
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
         <tr>
@@ -61,14 +63,15 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 
-[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100/Pool)
+[↩️ Revenir au projet](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100/Pool)
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-100)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-100)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semestre-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
@@ -78,6 +81,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../../../assets/voc17.gif" width="40"></a>
 
 </div>

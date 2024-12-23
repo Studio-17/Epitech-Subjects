@@ -6,23 +6,27 @@
 
 <br>
 
-📂---[MyHunter](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyHunter/MyHunter)
+📂---[Bootstrap_MyHunter](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyHunter/Bootstrap_MyHunter)
 
-ㅤㅤ|\_\_\_[my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/MyHunter/my_hunter.pdf)
+ㅤㅤ|\_\_\_[Bootstrap_my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter.pdf)
 
-|\_\_\_[Bootstrap_MyHunter](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter)
+ㅤㅤ|\_\_\_[Bootstrap_my_hunter_spritesheet.png](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter_spritesheet.png)
 
-ㅤㅤ|\_\_\_[Bootstrap_my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter.pdf)
+|\_\_\_[MyHunter](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-MUL-100/MyHunter/MyHunter)
 
-ㅤㅤ|\_\_\_[Bootstrap_my_hunter_sprintesheet.png](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-MUL-100/MyHunter/Bootstrap_MyHunter/Bootstrap_my_hunter_spritesheet.png)
+ㅤㅤ|\_\_\_[my_hunter.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-MUL-100/MyHunter/MyHunter/my_hunter.pdf)
+
 
 <br>
 
+
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
-    <tr>
+        <tr>
             <td colspan="3" align="center"><strong>MOULINETTE</strong></td>
-    </tr>
+        </tr>
         <tr>
             <th>SOMMAIRE</th>
             <th>NB DE TESTS</th>
@@ -35,101 +39,18 @@
             <td rowspan="2" style="text-align: center;">2</td>
             <td>Minimal functions</td>
         </tr>
-        <tr>
-            <td>Repository size</td>
-        </tr>
-    </tbody>
+    		<tr>
+			<td>Repository size</td>
+		</tr>
+	</tbody>
 </table>
+</details>
 
 <br>
 
-<table align="center">
-    <thead>
-    <tr>
-            <td colspan="2" align="center"><strong>TAM</strong></td>
-    </tr>
-        <tr>
-            <th>SOMMAIRE</th>
-            <th>NOTATION</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan="1">Preliminary</td>
-            <td rowspan="1" style="text-align: center;">?/2</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Major</td>
-            <td rowspan="1" style="text-align: center;">?/0</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Minor</td>
-            <td rowspan="1" style="text-align: center;">?/0</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Too many style errors</td>
-            <td rowspan="1" style="text-align: center;">?/1</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Closing the Window</td>
-            <td rowspan="1" style="text-align: center;">?/3</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Mouse event</td>
-            <td rowspan="1" style="text-align: center;">?/4</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Animated Sprites</td>
-            <td rowspan="1" style="text-align: center;">?/5</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Usage</td>
-            <td rowspan="1" style="text-align: center;">?/1</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Window Size</td>
-            <td rowspan="1" style="text-align: center;">?/3</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Window framerate</td>
-            <td rowspan="1" style="text-align: center;">?/3</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Animations</td>
-            <td rowspan="1" style="text-align: center;">?/4</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Movement</td>
-            <td rowspan="1" style="text-align: center;">?/4</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Score</td>
-            <td rowspan="1" style="text-align: center;">?/6</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Levels</td>
-            <td rowspan="1" style="text-align: center;">?/3</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Visual effects</td>
-            <td rowspan="1" style="text-align: center;">?/5</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Gameplay</td>
-            <td rowspan="1" style="text-align: center;">?/5</td>
-        </tr>
-        <tr>
-            <td rowspan="1">Sound effects</td>
-            <td rowspan="1" style="text-align: center;">?/4</td>
-        </tr>
-    </tbody>
-</table>
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-MUL-100)
 
-<br>
-
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-MUL-100)
-
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semester-1](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
@@ -139,6 +60,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../../assets/voc17.gif" width="40"></a>
 
 </div>

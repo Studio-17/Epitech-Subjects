@@ -35,7 +35,7 @@ Ne soyez pas trop gourmand !
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-BOO-101/Bootcamp_Phoenix">Bootcamp Phoenix</a></td>
+            <td rowspan="1"><a href="https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-BOO-101/Bootcamp_Phoenix">Bootcamp Phoenix</a></td>
             <td align="center">1 semaine</td>
         </tr>
     </tbody>
@@ -43,7 +43,7 @@ Ne soyez pas trop gourmand !
 
 <br>
 
-[↩️ Revenir au Semestre 1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semestre 1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
@@ -53,6 +53,6 @@ Ne soyez pas trop gourmand !
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../assets/voc17.gif" width="40"></a>
 
 </div>
