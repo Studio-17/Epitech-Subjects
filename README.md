@@ -1,9 +1,12 @@
-<img src="./assets/bar.png">
+<img src="./raccord-banner.png">
+# VOTEZ POUR RACCORD
+
+[Lien pour voter !!](https://epitech-innovation.agorize.com/fr/juries/ttD4VbRGRSKEgimE2v0BJw/participations/185/vote?order=random&amp;scope=unvoted)
 
 <!-- markdown-link-check-disable -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Studio-17.Epitech-Subjects)
+<img src="https://img.shields.io/badge/Github-Studio--17-06DFF9">
 
 </div>
 <!-- markdown-link-check-enable -->
