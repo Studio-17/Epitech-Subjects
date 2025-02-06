@@ -12,7 +12,9 @@
             "console": "integratedTerminal",
             "args": [
                 "-b",
-                "e"
+                "f",
+                "-url",
+                "https://my.epitech.eu/index.html#d/2024/B-PDG-300/PDGD01/6822859"
             ]
         },
         {

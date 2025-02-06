@@ -19,7 +19,7 @@ class scrapper:
             case "f":
                 self.driver = webdriver.Firefox()
             case "c":
-                self.driver = webdriver.Chrome()
+                self.driver = webdriver.ChromiumEdge()
         self.destination_url = destination_url
 
     def _click_button(self, by : By, value :str, max_iteration :int = 10):
