@@ -110,6 +110,3 @@ Exemple d'un module dans un Semestre:
 Un script `create_default_readme.py` existe et à pour objectif de créer des Readme par défaut pour tous les dossiers sans
 
 Les PR et les issues sont les bienvenues en cas de problème ou de suggestion
-
-
-Ce projet à été fait par [@Kaiwinta](https://github.com/Kaiwinta)
