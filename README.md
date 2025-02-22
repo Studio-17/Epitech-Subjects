@@ -1,8 +1,3 @@
-<img src="./raccord-banner.png">
-# VOTEZ POUR RACCORD
-
-[Lien pour voter !!](https://epitech-innovation.agorize.com/fr/juries/ttD4VbRGRSKEgimE2v0BJw/participations/185/vote?order=random&amp;scope=unvoted)
-
 <!-- markdown-link-check-disable -->
 <div align="center">
 
