@@ -1,0 +1,58 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Edge with url",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "-b",
+                "f",
+                "-url",
+                "https://my.epitech.eu/index.html#d/2024/B-PDG-300/PDGD01/6822859"
+            ]
+        },
+        {
+            "name": "Python Debugger: Chrome with url",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "-b",
+                "c",
+                "-url",
+                "https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804"
+            ]
+        },
+        {
+            "name": "Python Debugger: Firefox with url",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "-b",
+                "f",
+                "-url",
+                "https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804"
+            ]
+        },
+        {
+            "name": "Python Debugger: Help Edge with url",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "-b",
+                "e",
+            ]
+        },
+    ]
+}

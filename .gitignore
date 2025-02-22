@@ -8,6 +8,9 @@
 .docusaurus
 .cache-loader
 
+# Python files
+__pycache__/
+
 # Misc
 .DS_Store
 .env.local
@@ -18,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Readme avec un timestamp
+README[0-9]*.md

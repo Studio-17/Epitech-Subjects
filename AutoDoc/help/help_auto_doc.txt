@@ -1,0 +1,13 @@
+
+Usage:
+    ./main.py -b e -url https://my.epitech.eu/index.html#d/2023/B-CPE-110/organized/5979804
+
+Arguments:
+    -b      => choix du Browser entre Edge (e) par défault, Chrome (c) et Firefox (f)
+    -url    => url d'une mouli du projet
+    -p      => nombre de personnes sur le projet
+    -t      => temps en semaines pour le projet
+    -cp     => Copy to clipboard
+    --type  => Type de Readme si l'automatique ne plait pas ("g" => global, "s" => semestre, "m" => module, "p" => projet)
+
+Permet de créer un Readme qui suis les normes établies pour les projet uniquement

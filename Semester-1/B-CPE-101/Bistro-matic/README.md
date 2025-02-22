@@ -6,14 +6,16 @@
 
 <br>
 
-📂---[Bistro-matic.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/Bistro-matic.pdf)
+📂---[Bistro-matic.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/Bistro-matic/Bistro-matic.pdf)
 
-|\_\_\_[bistro-matic.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/bistromatic.h)
+|\_\_\_[bistro-matic.h](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/Bistro-matic/bistromatic.h)
 
-|\_\_\_[main.c](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semestre_1/B-CPE-101/Bistro-matic/main.c)
+|\_\_\_[main.c](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-1/B-CPE-101/Bistro-matic/main.c)
 
 <br>
 
+<details>
+<summary> Tests de la moulinette </summary>
 <table align="center">
     <thead>
         <tr>
@@ -287,12 +289,13 @@
         </tr>
     </tbody>
 </table>
+</details>
 
 <br>
 
-[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1/B-CPE-101)
+[↩️ Revenir au module](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1/B-CPE-101)
 
-[↩️ Revenir au Semestre_1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semestre_1)
+[↩️ Revenir au Semestre-1](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-1)
 
 [↩️ Revenir à l'accueil](https://github.com/Studio-17/Epitech-Subjects)
 
@@ -302,6 +305,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Studio-17" target="_blank"><img src="../../../voc17.gif" width="40"></a>
+<a href="https://github.com/Studio-17" target="_blank"><img src="../../../assets/voc17.gif" width="40"></a>
 
 </div>
