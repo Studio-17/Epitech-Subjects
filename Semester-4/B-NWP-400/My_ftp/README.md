@@ -12,7 +12,7 @@
 
 |\_\_\_[My_ftp](https://github.com/Studio-17/Epitech-Subjects/tree/main/Semester-4/B-NWP-400/My_ftp/My_ftp)
 
-ㅤㅤ|\_\_\_[my_ftp.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-4/B-NWP-400/My_ftp/My_ftp/my_ftp.pdf)
+ㅤㅤ|\_\_\_[B-NWP-400_myFTP.pdf](https://github.com/Studio-17/Epitech-Subjects/blob/main/Semester-4/B-NWP-400/My_ftp/My_ftp/B-NWP-400_myFTP.pdf)
 
 
 <br>
