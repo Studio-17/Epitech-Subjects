@@ -1,0 +1,142 @@
+EPITECH MyFTP Protocol (RFC959 Extract)
+
+You MUST have an "Anonymous" account with an empty password
+
+Each bonus MUST be RFC959 compliant
+
+The following are the mandatory FTP commands from client to server:
+
+            USER <SP> <username> <CRLF>   : Specify user for authentication
+            PASS <SP> <password> <CRLF>   : Specify password for authentication
+
+            CWD  <SP> <pathname> <CRLF>   : Change working directory
+            CDUP <CRLF>                   : Change working directory to parent directory
+
+            QUIT <CRLF>                   : Disconnection
+
+            DELE <SP> <pathname> <CRLF>   : Delete file on the server
+
+            PWD  <CRLF>                   : Print working directory
+
+            PASV <CRLF>                   : Enable "passive" mode for data transfer
+
+            PORT <SP> <host-port> <CRLF>  : Enable "active" mode for data transfer
+
+
+            HELP [<SP> <string>] <CRLF>   : List available commands
+
+            NOOP <CRLF>                   : Do nothing
+
+            (the following are commands using data transfer )
+
+            RETR <SP> <pathname> <CRLF>   : Download file from server to client
+            STOR <SP> <pathname> <CRLF>   : Upload file from client to server
+            LIST [<SP> <pathname>] <CRLF> : List files in the current working directory 
+
+
+Command-Reply Sequences (Mandatory part)
+
+The server reply is defined to contain the 3-digit code, followed by Space <SP>, followed by one line of text, and terminated by the Telnet end-of-line code <CRLF>.
+
+Example :
+
+-> USER <SP> Username <CRLF>
+<- 331 <SP> User name okay, need password. <CRLF>
+-> PASS <SP> Password <CRLF>
+<- 230 <SP> User logged in, proceed. <CRLF>
+
+-> : Request command from client to server
+<- : Reply from server to client
+
+
+            Connection Establishment
+               <- 220
+
+            Login
+               USER ->
+                  <- 230
+                  <- xxx
+                  <- 331
+               PASS ->
+                  <- 230
+                  <- 332
+                  <- xxx
+               CWD ->
+                  <- 250
+                  <- xxx
+               CDUP ->
+                  <- 200
+                  <- xxx
+
+            Logout
+               QUIT ->
+                  <- 221
+                  <- xxx
+
+            Transfer parameters
+               PORT ->
+                 <- 200
+                 <- xxx
+               PASV ->
+                 <- 227
+                 <- xxx
+
+            File action commands
+               STOR ->
+                  <- 150
+                     <- 226
+                     <- xxx
+                  <- xxx
+               RETR ->
+                  <- 150
+                     <- 226
+                     <- xxx
+                  <- xxx
+               LIST ->
+                  <- 150
+                     <- 226
+                     <- xxx
+                  <- xxx
+               DELE ->
+                  <- 250
+                  <- xxx
+               PWD ->
+                  <- 257
+                  <- xxx
+
+            Informational commands
+               HELP ->
+                  <- 214
+                  <- xxx
+
+            Miscellaneous commands
+               NOOP ->
+                  <- 200
+                  <- xxx
+
+Numeric  Order List of Mandatory Reply Codes (Extract)
+
+         120 Service ready in nnn minutes.
+         125 Data connection already open; transfer starting.
+         150 File status okay; about to open data connection.
+         200 Command okay.
+         214 Help message.
+             On how to use the server or the meaning of a particular
+             non-standard command.  This reply is useful only to the
+             human user.
+         220 Service ready for new user.
+         221 Service closing control connection.
+             Logged out if appropriate.
+         226 Closing data connection.
+             Requested file action successful (for example, file
+             transfer or file abort).
+         227 Entering Passive Mode (h1,h2,h3,h4,p1,p2).
+         230 User logged in, proceed.
+         250 Requested file action okay, completed.
+         257 "PATHNAME" created.
+          
+         331 User name okay, need password.
+         332 Need account for login.
+
+         xxx Error (RFC compliant)
+
