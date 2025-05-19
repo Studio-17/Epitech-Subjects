@@ -98,8 +98,7 @@
             <td rowspan="1">diamond_bonus</td>
             <td rowspan="1" style="text-align: center;">?/1</td>
         </tr>
-        </tr>
-            <tr>
+        <tr>
             <td rowspan="1">8_bonus</td>
             <td rowspan="1" style="text-align: center;">?/2</td>
         </tr>
