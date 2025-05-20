@@ -58,7 +58,6 @@
             <td rowspan="1" style="text-align: center;">1</td>
             <td>task07</td>
         </tr>
-        </tr>
         <tr>
             <td>08 - task08</td>
             <td rowspan="1" style="text-align: center;">1</td>
